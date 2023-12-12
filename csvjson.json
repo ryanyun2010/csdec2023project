@@ -1,0 +1,10946 @@
+[
+  {
+    "LOCATION": "AUS",
+    "SUBJECT": "BEEF",
+    "TIME": 2018,
+    "KGPERCAP": 19.965
+  },
+  {
+    "LOCATION": "AUS",
+    "SUBJECT": "BEEF",
+    "TIME": 2019,
+    "KGPERCAP": 19.698
+  },
+  {
+    "LOCATION": "AUS",
+    "SUBJECT": "BEEF",
+    "TIME": 2020,
+    "KGPERCAP": 19.438
+  },
+  {
+    "LOCATION": "AUS",
+    "SUBJECT": "BEEF",
+    "TIME": 2021,
+    "KGPERCAP": 19.187
+  },
+  {
+    "LOCATION": "AUS",
+    "SUBJECT": "BEEF",
+    "TIME": 2022,
+    "KGPERCAP": 19.088
+  },
+  {
+    "LOCATION": "AUS",
+    "SUBJECT": "BEEF",
+    "TIME": 2023,
+    "KGPERCAP": 18.864
+  },
+  {
+    "LOCATION": "AUS",
+    "SUBJECT": "BEEF",
+    "TIME": 2024,
+    "KGPERCAP": 18.518
+  },
+  {
+    "LOCATION": "AUS",
+    "SUBJECT": "BEEF",
+    "TIME": 2025,
+    "KGPERCAP": 18.439
+  },
+  {
+    "LOCATION": "AUS",
+    "SUBJECT": "BEEF",
+    "TIME": 2026,
+    "KGPERCAP": 18.365
+  },
+  {
+    "LOCATION": "AUS",
+    "SUBJECT": "BEEF",
+    "TIME": 2027,
+    "KGPERCAP": 18.29
+  },
+  {
+    "LOCATION": "AUS",
+    "SUBJECT": "BEEF",
+    "TIME": 2028,
+    "KGPERCAP": 18.217
+  },
+  {
+    "LOCATION": "AUS",
+    "SUBJECT": "BEEF",
+    "TIME": 2029,
+    "KGPERCAP": 18.149
+  },
+  {
+    "LOCATION": "AUS",
+    "SUBJECT": "PIG",
+    "TIME": 2018,
+    "KGPERCAP": 21.395
+  },
+  {
+    "LOCATION": "AUS",
+    "SUBJECT": "PIG",
+    "TIME": 2019,
+    "KGPERCAP": 20.252
+  },
+  {
+    "LOCATION": "AUS",
+    "SUBJECT": "PIG",
+    "TIME": 2020,
+    "KGPERCAP": 20.212
+  },
+  {
+    "LOCATION": "AUS",
+    "SUBJECT": "PIG",
+    "TIME": 2021,
+    "KGPERCAP": 20.004
+  },
+  {
+    "LOCATION": "AUS",
+    "SUBJECT": "PIG",
+    "TIME": 2022,
+    "KGPERCAP": 20.086
+  },
+  {
+    "LOCATION": "AUS",
+    "SUBJECT": "PIG",
+    "TIME": 2023,
+    "KGPERCAP": 20.196
+  },
+  {
+    "LOCATION": "AUS",
+    "SUBJECT": "PIG",
+    "TIME": 2024,
+    "KGPERCAP": 20.22
+  },
+  {
+    "LOCATION": "AUS",
+    "SUBJECT": "PIG",
+    "TIME": 2025,
+    "KGPERCAP": 20.304
+  },
+  {
+    "LOCATION": "AUS",
+    "SUBJECT": "PIG",
+    "TIME": 2026,
+    "KGPERCAP": 20.345
+  },
+  {
+    "LOCATION": "AUS",
+    "SUBJECT": "PIG",
+    "TIME": 2027,
+    "KGPERCAP": 20.412
+  },
+  {
+    "LOCATION": "AUS",
+    "SUBJECT": "PIG",
+    "TIME": 2028,
+    "KGPERCAP": 20.459
+  },
+  {
+    "LOCATION": "AUS",
+    "SUBJECT": "PIG",
+    "TIME": 2029,
+    "KGPERCAP": 20.525
+  },
+  {
+    "LOCATION": "AUS",
+    "SUBJECT": "POULTRY",
+    "TIME": 2018,
+    "KGPERCAP": 42.353
+  },
+  {
+    "LOCATION": "AUS",
+    "SUBJECT": "POULTRY",
+    "TIME": 2019,
+    "KGPERCAP": 43.488
+  },
+  {
+    "LOCATION": "AUS",
+    "SUBJECT": "POULTRY",
+    "TIME": 2020,
+    "KGPERCAP": 43.792
+  },
+  {
+    "LOCATION": "AUS",
+    "SUBJECT": "POULTRY",
+    "TIME": 2021,
+    "KGPERCAP": 44.132
+  },
+  {
+    "LOCATION": "AUS",
+    "SUBJECT": "POULTRY",
+    "TIME": 2022,
+    "KGPERCAP": 44.504
+  },
+  {
+    "LOCATION": "AUS",
+    "SUBJECT": "POULTRY",
+    "TIME": 2023,
+    "KGPERCAP": 44.842
+  },
+  {
+    "LOCATION": "AUS",
+    "SUBJECT": "POULTRY",
+    "TIME": 2024,
+    "KGPERCAP": 44.711
+  },
+  {
+    "LOCATION": "AUS",
+    "SUBJECT": "POULTRY",
+    "TIME": 2025,
+    "KGPERCAP": 44.803
+  },
+  {
+    "LOCATION": "AUS",
+    "SUBJECT": "POULTRY",
+    "TIME": 2026,
+    "KGPERCAP": 44.889
+  },
+  {
+    "LOCATION": "AUS",
+    "SUBJECT": "POULTRY",
+    "TIME": 2027,
+    "KGPERCAP": 44.997
+  },
+  {
+    "LOCATION": "AUS",
+    "SUBJECT": "POULTRY",
+    "TIME": 2028,
+    "KGPERCAP": 45.122
+  },
+  {
+    "LOCATION": "AUS",
+    "SUBJECT": "POULTRY",
+    "TIME": 2029,
+    "KGPERCAP": 45.229
+  },
+  {
+    "LOCATION": "AUS",
+    "SUBJECT": "SHEEP",
+    "TIME": 2018,
+    "KGPERCAP": 6.982
+  },
+  {
+    "LOCATION": "AUS",
+    "SUBJECT": "SHEEP",
+    "TIME": 2019,
+    "KGPERCAP": 6.18
+  },
+  {
+    "LOCATION": "AUS",
+    "SUBJECT": "SHEEP",
+    "TIME": 2020,
+    "KGPERCAP": 5.874
+  },
+  {
+    "LOCATION": "AUS",
+    "SUBJECT": "SHEEP",
+    "TIME": 2021,
+    "KGPERCAP": 5.912
+  },
+  {
+    "LOCATION": "AUS",
+    "SUBJECT": "SHEEP",
+    "TIME": 2022,
+    "KGPERCAP": 5.884
+  },
+  {
+    "LOCATION": "AUS",
+    "SUBJECT": "SHEEP",
+    "TIME": 2023,
+    "KGPERCAP": 6.051
+  },
+  {
+    "LOCATION": "AUS",
+    "SUBJECT": "SHEEP",
+    "TIME": 2024,
+    "KGPERCAP": 6.077
+  },
+  {
+    "LOCATION": "AUS",
+    "SUBJECT": "SHEEP",
+    "TIME": 2025,
+    "KGPERCAP": 6.047
+  },
+  {
+    "LOCATION": "AUS",
+    "SUBJECT": "SHEEP",
+    "TIME": 2026,
+    "KGPERCAP": 5.944
+  },
+  {
+    "LOCATION": "AUS",
+    "SUBJECT": "SHEEP",
+    "TIME": 2027,
+    "KGPERCAP": 5.818
+  },
+  {
+    "LOCATION": "AUS",
+    "SUBJECT": "SHEEP",
+    "TIME": 2028,
+    "KGPERCAP": 5.814
+  },
+  {
+    "LOCATION": "AUS",
+    "SUBJECT": "SHEEP",
+    "TIME": 2029,
+    "KGPERCAP": 5.809
+  },
+  {
+    "LOCATION": "CAN",
+    "SUBJECT": "BEEF",
+    "TIME": 2018,
+    "KGPERCAP": 18.422
+  },
+  {
+    "LOCATION": "CAN",
+    "SUBJECT": "BEEF",
+    "TIME": 2019,
+    "KGPERCAP": 17.623
+  },
+  {
+    "LOCATION": "CAN",
+    "SUBJECT": "BEEF",
+    "TIME": 2020,
+    "KGPERCAP": 17.578
+  },
+  {
+    "LOCATION": "CAN",
+    "SUBJECT": "BEEF",
+    "TIME": 2021,
+    "KGPERCAP": 17.394
+  },
+  {
+    "LOCATION": "CAN",
+    "SUBJECT": "BEEF",
+    "TIME": 2022,
+    "KGPERCAP": 17.188
+  },
+  {
+    "LOCATION": "CAN",
+    "SUBJECT": "BEEF",
+    "TIME": 2023,
+    "KGPERCAP": 16.994
+  },
+  {
+    "LOCATION": "CAN",
+    "SUBJECT": "BEEF",
+    "TIME": 2024,
+    "KGPERCAP": 16.837
+  },
+  {
+    "LOCATION": "CAN",
+    "SUBJECT": "BEEF",
+    "TIME": 2025,
+    "KGPERCAP": 16.646
+  },
+  {
+    "LOCATION": "CAN",
+    "SUBJECT": "BEEF",
+    "TIME": 2026,
+    "KGPERCAP": 16.461
+  },
+  {
+    "LOCATION": "CAN",
+    "SUBJECT": "BEEF",
+    "TIME": 2027,
+    "KGPERCAP": 16.315
+  },
+  {
+    "LOCATION": "CAN",
+    "SUBJECT": "BEEF",
+    "TIME": 2028,
+    "KGPERCAP": 16.165
+  },
+  {
+    "LOCATION": "CAN",
+    "SUBJECT": "BEEF",
+    "TIME": 2029,
+    "KGPERCAP": 16.021
+  },
+  {
+    "LOCATION": "CAN",
+    "SUBJECT": "PIG",
+    "TIME": 2018,
+    "KGPERCAP": 17
+  },
+  {
+    "LOCATION": "CAN",
+    "SUBJECT": "PIG",
+    "TIME": 2019,
+    "KGPERCAP": 16.259
+  },
+  {
+    "LOCATION": "CAN",
+    "SUBJECT": "PIG",
+    "TIME": 2020,
+    "KGPERCAP": 15.881
+  },
+  {
+    "LOCATION": "CAN",
+    "SUBJECT": "PIG",
+    "TIME": 2021,
+    "KGPERCAP": 15.898
+  },
+  {
+    "LOCATION": "CAN",
+    "SUBJECT": "PIG",
+    "TIME": 2022,
+    "KGPERCAP": 15.793
+  },
+  {
+    "LOCATION": "CAN",
+    "SUBJECT": "PIG",
+    "TIME": 2023,
+    "KGPERCAP": 15.773
+  },
+  {
+    "LOCATION": "CAN",
+    "SUBJECT": "PIG",
+    "TIME": 2024,
+    "KGPERCAP": 15.748
+  },
+  {
+    "LOCATION": "CAN",
+    "SUBJECT": "PIG",
+    "TIME": 2025,
+    "KGPERCAP": 15.672
+  },
+  {
+    "LOCATION": "CAN",
+    "SUBJECT": "PIG",
+    "TIME": 2026,
+    "KGPERCAP": 15.564
+  },
+  {
+    "LOCATION": "CAN",
+    "SUBJECT": "PIG",
+    "TIME": 2027,
+    "KGPERCAP": 15.507
+  },
+  {
+    "LOCATION": "CAN",
+    "SUBJECT": "PIG",
+    "TIME": 2028,
+    "KGPERCAP": 15.446
+  },
+  {
+    "LOCATION": "CAN",
+    "SUBJECT": "PIG",
+    "TIME": 2029,
+    "KGPERCAP": 15.331
+  },
+  {
+    "LOCATION": "CAN",
+    "SUBJECT": "POULTRY",
+    "TIME": 2018,
+    "KGPERCAP": 34.836
+  },
+  {
+    "LOCATION": "CAN",
+    "SUBJECT": "POULTRY",
+    "TIME": 2019,
+    "KGPERCAP": 35.33
+  },
+  {
+    "LOCATION": "CAN",
+    "SUBJECT": "POULTRY",
+    "TIME": 2020,
+    "KGPERCAP": 35.527
+  },
+  {
+    "LOCATION": "CAN",
+    "SUBJECT": "POULTRY",
+    "TIME": 2021,
+    "KGPERCAP": 35.786
+  },
+  {
+    "LOCATION": "CAN",
+    "SUBJECT": "POULTRY",
+    "TIME": 2022,
+    "KGPERCAP": 36.086
+  },
+  {
+    "LOCATION": "CAN",
+    "SUBJECT": "POULTRY",
+    "TIME": 2023,
+    "KGPERCAP": 36.37
+  },
+  {
+    "LOCATION": "CAN",
+    "SUBJECT": "POULTRY",
+    "TIME": 2024,
+    "KGPERCAP": 36.566
+  },
+  {
+    "LOCATION": "CAN",
+    "SUBJECT": "POULTRY",
+    "TIME": 2025,
+    "KGPERCAP": 36.775
+  },
+  {
+    "LOCATION": "CAN",
+    "SUBJECT": "POULTRY",
+    "TIME": 2026,
+    "KGPERCAP": 36.978
+  },
+  {
+    "LOCATION": "CAN",
+    "SUBJECT": "POULTRY",
+    "TIME": 2027,
+    "KGPERCAP": 37.178
+  },
+  {
+    "LOCATION": "CAN",
+    "SUBJECT": "POULTRY",
+    "TIME": 2028,
+    "KGPERCAP": 37.362
+  },
+  {
+    "LOCATION": "CAN",
+    "SUBJECT": "POULTRY",
+    "TIME": 2029,
+    "KGPERCAP": 37.554
+  },
+  {
+    "LOCATION": "CAN",
+    "SUBJECT": "SHEEP",
+    "TIME": 2018,
+    "KGPERCAP": 1.022
+  },
+  {
+    "LOCATION": "CAN",
+    "SUBJECT": "SHEEP",
+    "TIME": 2019,
+    "KGPERCAP": 0.978
+  },
+  {
+    "LOCATION": "CAN",
+    "SUBJECT": "SHEEP",
+    "TIME": 2020,
+    "KGPERCAP": 0.974
+  },
+  {
+    "LOCATION": "CAN",
+    "SUBJECT": "SHEEP",
+    "TIME": 2021,
+    "KGPERCAP": 0.971
+  },
+  {
+    "LOCATION": "CAN",
+    "SUBJECT": "SHEEP",
+    "TIME": 2022,
+    "KGPERCAP": 0.968
+  },
+  {
+    "LOCATION": "CAN",
+    "SUBJECT": "SHEEP",
+    "TIME": 2023,
+    "KGPERCAP": 0.965
+  },
+  {
+    "LOCATION": "CAN",
+    "SUBJECT": "SHEEP",
+    "TIME": 2024,
+    "KGPERCAP": 0.957
+  },
+  {
+    "LOCATION": "CAN",
+    "SUBJECT": "SHEEP",
+    "TIME": 2025,
+    "KGPERCAP": 0.948
+  },
+  {
+    "LOCATION": "CAN",
+    "SUBJECT": "SHEEP",
+    "TIME": 2026,
+    "KGPERCAP": 0.936
+  },
+  {
+    "LOCATION": "CAN",
+    "SUBJECT": "SHEEP",
+    "TIME": 2027,
+    "KGPERCAP": 0.931
+  },
+  {
+    "LOCATION": "CAN",
+    "SUBJECT": "SHEEP",
+    "TIME": 2028,
+    "KGPERCAP": 0.922
+  },
+  {
+    "LOCATION": "CAN",
+    "SUBJECT": "SHEEP",
+    "TIME": 2029,
+    "KGPERCAP": 0.914
+  },
+  {
+    "LOCATION": "JPN",
+    "SUBJECT": "BEEF",
+    "TIME": 2018,
+    "KGPERCAP": 7.356
+  },
+  {
+    "LOCATION": "JPN",
+    "SUBJECT": "BEEF",
+    "TIME": 2019,
+    "KGPERCAP": 7.541
+  },
+  {
+    "LOCATION": "JPN",
+    "SUBJECT": "BEEF",
+    "TIME": 2020,
+    "KGPERCAP": 7.643
+  },
+  {
+    "LOCATION": "JPN",
+    "SUBJECT": "BEEF",
+    "TIME": 2021,
+    "KGPERCAP": 7.657
+  },
+  {
+    "LOCATION": "JPN",
+    "SUBJECT": "BEEF",
+    "TIME": 2022,
+    "KGPERCAP": 7.673
+  },
+  {
+    "LOCATION": "JPN",
+    "SUBJECT": "BEEF",
+    "TIME": 2023,
+    "KGPERCAP": 7.598
+  },
+  {
+    "LOCATION": "JPN",
+    "SUBJECT": "BEEF",
+    "TIME": 2024,
+    "KGPERCAP": 7.605
+  },
+  {
+    "LOCATION": "JPN",
+    "SUBJECT": "BEEF",
+    "TIME": 2025,
+    "KGPERCAP": 7.619
+  },
+  {
+    "LOCATION": "JPN",
+    "SUBJECT": "BEEF",
+    "TIME": 2026,
+    "KGPERCAP": 7.626
+  },
+  {
+    "LOCATION": "JPN",
+    "SUBJECT": "BEEF",
+    "TIME": 2027,
+    "KGPERCAP": 7.637
+  },
+  {
+    "LOCATION": "JPN",
+    "SUBJECT": "BEEF",
+    "TIME": 2028,
+    "KGPERCAP": 7.652
+  },
+  {
+    "LOCATION": "JPN",
+    "SUBJECT": "BEEF",
+    "TIME": 2029,
+    "KGPERCAP": 7.666
+  },
+  {
+    "LOCATION": "JPN",
+    "SUBJECT": "PIG",
+    "TIME": 2018,
+    "KGPERCAP": 16.003
+  },
+  {
+    "LOCATION": "JPN",
+    "SUBJECT": "PIG",
+    "TIME": 2019,
+    "KGPERCAP": 16.156
+  },
+  {
+    "LOCATION": "JPN",
+    "SUBJECT": "PIG",
+    "TIME": 2020,
+    "KGPERCAP": 16.13
+  },
+  {
+    "LOCATION": "JPN",
+    "SUBJECT": "PIG",
+    "TIME": 2021,
+    "KGPERCAP": 16.111
+  },
+  {
+    "LOCATION": "JPN",
+    "SUBJECT": "PIG",
+    "TIME": 2022,
+    "KGPERCAP": 16.064
+  },
+  {
+    "LOCATION": "JPN",
+    "SUBJECT": "PIG",
+    "TIME": 2023,
+    "KGPERCAP": 16.022
+  },
+  {
+    "LOCATION": "JPN",
+    "SUBJECT": "PIG",
+    "TIME": 2024,
+    "KGPERCAP": 15.987
+  },
+  {
+    "LOCATION": "JPN",
+    "SUBJECT": "PIG",
+    "TIME": 2025,
+    "KGPERCAP": 15.959
+  },
+  {
+    "LOCATION": "JPN",
+    "SUBJECT": "PIG",
+    "TIME": 2026,
+    "KGPERCAP": 15.931
+  },
+  {
+    "LOCATION": "JPN",
+    "SUBJECT": "PIG",
+    "TIME": 2027,
+    "KGPERCAP": 15.91
+  },
+  {
+    "LOCATION": "JPN",
+    "SUBJECT": "PIG",
+    "TIME": 2028,
+    "KGPERCAP": 15.886
+  },
+  {
+    "LOCATION": "JPN",
+    "SUBJECT": "PIG",
+    "TIME": 2029,
+    "KGPERCAP": 15.87
+  },
+  {
+    "LOCATION": "JPN",
+    "SUBJECT": "POULTRY",
+    "TIME": 2018,
+    "KGPERCAP": 17.374
+  },
+  {
+    "LOCATION": "JPN",
+    "SUBJECT": "POULTRY",
+    "TIME": 2019,
+    "KGPERCAP": 17.702
+  },
+  {
+    "LOCATION": "JPN",
+    "SUBJECT": "POULTRY",
+    "TIME": 2020,
+    "KGPERCAP": 17.734
+  },
+  {
+    "LOCATION": "JPN",
+    "SUBJECT": "POULTRY",
+    "TIME": 2021,
+    "KGPERCAP": 17.785
+  },
+  {
+    "LOCATION": "JPN",
+    "SUBJECT": "POULTRY",
+    "TIME": 2022,
+    "KGPERCAP": 17.841
+  },
+  {
+    "LOCATION": "JPN",
+    "SUBJECT": "POULTRY",
+    "TIME": 2023,
+    "KGPERCAP": 17.904
+  },
+  {
+    "LOCATION": "JPN",
+    "SUBJECT": "POULTRY",
+    "TIME": 2024,
+    "KGPERCAP": 17.971
+  },
+  {
+    "LOCATION": "JPN",
+    "SUBJECT": "POULTRY",
+    "TIME": 2025,
+    "KGPERCAP": 18.044
+  },
+  {
+    "LOCATION": "JPN",
+    "SUBJECT": "POULTRY",
+    "TIME": 2026,
+    "KGPERCAP": 18.122
+  },
+  {
+    "LOCATION": "JPN",
+    "SUBJECT": "POULTRY",
+    "TIME": 2027,
+    "KGPERCAP": 18.205
+  },
+  {
+    "LOCATION": "JPN",
+    "SUBJECT": "POULTRY",
+    "TIME": 2028,
+    "KGPERCAP": 18.292
+  },
+  {
+    "LOCATION": "JPN",
+    "SUBJECT": "POULTRY",
+    "TIME": 2029,
+    "KGPERCAP": 18.382
+  },
+  {
+    "LOCATION": "JPN",
+    "SUBJECT": "SHEEP",
+    "TIME": 2018,
+    "KGPERCAP": 0.17
+  },
+  {
+    "LOCATION": "JPN",
+    "SUBJECT": "SHEEP",
+    "TIME": 2019,
+    "KGPERCAP": 0.173
+  },
+  {
+    "LOCATION": "JPN",
+    "SUBJECT": "SHEEP",
+    "TIME": 2020,
+    "KGPERCAP": 0.16
+  },
+  {
+    "LOCATION": "JPN",
+    "SUBJECT": "SHEEP",
+    "TIME": 2021,
+    "KGPERCAP": 0.158
+  },
+  {
+    "LOCATION": "JPN",
+    "SUBJECT": "SHEEP",
+    "TIME": 2022,
+    "KGPERCAP": 0.156
+  },
+  {
+    "LOCATION": "JPN",
+    "SUBJECT": "SHEEP",
+    "TIME": 2023,
+    "KGPERCAP": 0.154
+  },
+  {
+    "LOCATION": "JPN",
+    "SUBJECT": "SHEEP",
+    "TIME": 2024,
+    "KGPERCAP": 0.151
+  },
+  {
+    "LOCATION": "JPN",
+    "SUBJECT": "SHEEP",
+    "TIME": 2025,
+    "KGPERCAP": 0.149
+  },
+  {
+    "LOCATION": "JPN",
+    "SUBJECT": "SHEEP",
+    "TIME": 2026,
+    "KGPERCAP": 0.147
+  },
+  {
+    "LOCATION": "JPN",
+    "SUBJECT": "SHEEP",
+    "TIME": 2027,
+    "KGPERCAP": 0.145
+  },
+  {
+    "LOCATION": "JPN",
+    "SUBJECT": "SHEEP",
+    "TIME": 2028,
+    "KGPERCAP": 0.143
+  },
+  {
+    "LOCATION": "JPN",
+    "SUBJECT": "SHEEP",
+    "TIME": 2029,
+    "KGPERCAP": 0.141
+  },
+  {
+    "LOCATION": "KOR",
+    "SUBJECT": "BEEF",
+    "TIME": 2018,
+    "KGPERCAP": 10.83
+  },
+  {
+    "LOCATION": "KOR",
+    "SUBJECT": "BEEF",
+    "TIME": 2019,
+    "KGPERCAP": 11.822
+  },
+  {
+    "LOCATION": "KOR",
+    "SUBJECT": "BEEF",
+    "TIME": 2020,
+    "KGPERCAP": 11.85
+  },
+  {
+    "LOCATION": "KOR",
+    "SUBJECT": "BEEF",
+    "TIME": 2021,
+    "KGPERCAP": 11.908
+  },
+  {
+    "LOCATION": "KOR",
+    "SUBJECT": "BEEF",
+    "TIME": 2022,
+    "KGPERCAP": 11.968
+  },
+  {
+    "LOCATION": "KOR",
+    "SUBJECT": "BEEF",
+    "TIME": 2023,
+    "KGPERCAP": 12.031
+  },
+  {
+    "LOCATION": "KOR",
+    "SUBJECT": "BEEF",
+    "TIME": 2024,
+    "KGPERCAP": 12.096
+  },
+  {
+    "LOCATION": "KOR",
+    "SUBJECT": "BEEF",
+    "TIME": 2025,
+    "KGPERCAP": 12.163
+  },
+  {
+    "LOCATION": "KOR",
+    "SUBJECT": "BEEF",
+    "TIME": 2026,
+    "KGPERCAP": 12.234
+  },
+  {
+    "LOCATION": "KOR",
+    "SUBJECT": "BEEF",
+    "TIME": 2027,
+    "KGPERCAP": 12.279
+  },
+  {
+    "LOCATION": "KOR",
+    "SUBJECT": "BEEF",
+    "TIME": 2028,
+    "KGPERCAP": 12.34
+  },
+  {
+    "LOCATION": "KOR",
+    "SUBJECT": "BEEF",
+    "TIME": 2029,
+    "KGPERCAP": 12.404
+  },
+  {
+    "LOCATION": "KOR",
+    "SUBJECT": "PIG",
+    "TIME": 2018,
+    "KGPERCAP": 30.604
+  },
+  {
+    "LOCATION": "KOR",
+    "SUBJECT": "PIG",
+    "TIME": 2019,
+    "KGPERCAP": 31.229
+  },
+  {
+    "LOCATION": "KOR",
+    "SUBJECT": "PIG",
+    "TIME": 2020,
+    "KGPERCAP": 31.565
+  },
+  {
+    "LOCATION": "KOR",
+    "SUBJECT": "PIG",
+    "TIME": 2021,
+    "KGPERCAP": 31.647
+  },
+  {
+    "LOCATION": "KOR",
+    "SUBJECT": "PIG",
+    "TIME": 2022,
+    "KGPERCAP": 31.697
+  },
+  {
+    "LOCATION": "KOR",
+    "SUBJECT": "PIG",
+    "TIME": 2023,
+    "KGPERCAP": 31.762
+  },
+  {
+    "LOCATION": "KOR",
+    "SUBJECT": "PIG",
+    "TIME": 2024,
+    "KGPERCAP": 31.834
+  },
+  {
+    "LOCATION": "KOR",
+    "SUBJECT": "PIG",
+    "TIME": 2025,
+    "KGPERCAP": 31.917
+  },
+  {
+    "LOCATION": "KOR",
+    "SUBJECT": "PIG",
+    "TIME": 2026,
+    "KGPERCAP": 32.004
+  },
+  {
+    "LOCATION": "KOR",
+    "SUBJECT": "PIG",
+    "TIME": 2027,
+    "KGPERCAP": 32.102
+  },
+  {
+    "LOCATION": "KOR",
+    "SUBJECT": "PIG",
+    "TIME": 2028,
+    "KGPERCAP": 32.199
+  },
+  {
+    "LOCATION": "KOR",
+    "SUBJECT": "PIG",
+    "TIME": 2029,
+    "KGPERCAP": 32.31
+  },
+  {
+    "LOCATION": "KOR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2018,
+    "KGPERCAP": 18.035
+  },
+  {
+    "LOCATION": "KOR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2019,
+    "KGPERCAP": 18.674
+  },
+  {
+    "LOCATION": "KOR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2020,
+    "KGPERCAP": 18.742
+  },
+  {
+    "LOCATION": "KOR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2021,
+    "KGPERCAP": 18.82
+  },
+  {
+    "LOCATION": "KOR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2022,
+    "KGPERCAP": 18.903
+  },
+  {
+    "LOCATION": "KOR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2023,
+    "KGPERCAP": 18.989
+  },
+  {
+    "LOCATION": "KOR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2024,
+    "KGPERCAP": 19.081
+  },
+  {
+    "LOCATION": "KOR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2025,
+    "KGPERCAP": 19.173
+  },
+  {
+    "LOCATION": "KOR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2026,
+    "KGPERCAP": 19.267
+  },
+  {
+    "LOCATION": "KOR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2027,
+    "KGPERCAP": 19.363
+  },
+  {
+    "LOCATION": "KOR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2028,
+    "KGPERCAP": 19.464
+  },
+  {
+    "LOCATION": "KOR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2029,
+    "KGPERCAP": 19.567
+  },
+  {
+    "LOCATION": "KOR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2018,
+    "KGPERCAP": 0.324
+  },
+  {
+    "LOCATION": "KOR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2019,
+    "KGPERCAP": 0.332
+  },
+  {
+    "LOCATION": "KOR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2020,
+    "KGPERCAP": 0.332
+  },
+  {
+    "LOCATION": "KOR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2021,
+    "KGPERCAP": 0.332
+  },
+  {
+    "LOCATION": "KOR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2022,
+    "KGPERCAP": 0.332
+  },
+  {
+    "LOCATION": "KOR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2023,
+    "KGPERCAP": 0.332
+  },
+  {
+    "LOCATION": "KOR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2024,
+    "KGPERCAP": 0.332
+  },
+  {
+    "LOCATION": "KOR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2025,
+    "KGPERCAP": 0.333
+  },
+  {
+    "LOCATION": "KOR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2026,
+    "KGPERCAP": 0.333
+  },
+  {
+    "LOCATION": "KOR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2027,
+    "KGPERCAP": 0.334
+  },
+  {
+    "LOCATION": "KOR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2028,
+    "KGPERCAP": 0.334
+  },
+  {
+    "LOCATION": "KOR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2029,
+    "KGPERCAP": 0.335
+  },
+  {
+    "LOCATION": "MEX",
+    "SUBJECT": "BEEF",
+    "TIME": 2018,
+    "KGPERCAP": 9.243
+  },
+  {
+    "LOCATION": "MEX",
+    "SUBJECT": "BEEF",
+    "TIME": 2019,
+    "KGPERCAP": 9.167
+  },
+  {
+    "LOCATION": "MEX",
+    "SUBJECT": "BEEF",
+    "TIME": 2020,
+    "KGPERCAP": 8.971
+  },
+  {
+    "LOCATION": "MEX",
+    "SUBJECT": "BEEF",
+    "TIME": 2021,
+    "KGPERCAP": 8.986
+  },
+  {
+    "LOCATION": "MEX",
+    "SUBJECT": "BEEF",
+    "TIME": 2022,
+    "KGPERCAP": 8.996
+  },
+  {
+    "LOCATION": "MEX",
+    "SUBJECT": "BEEF",
+    "TIME": 2023,
+    "KGPERCAP": 9.036
+  },
+  {
+    "LOCATION": "MEX",
+    "SUBJECT": "BEEF",
+    "TIME": 2024,
+    "KGPERCAP": 9.096
+  },
+  {
+    "LOCATION": "MEX",
+    "SUBJECT": "BEEF",
+    "TIME": 2025,
+    "KGPERCAP": 9.1
+  },
+  {
+    "LOCATION": "MEX",
+    "SUBJECT": "BEEF",
+    "TIME": 2026,
+    "KGPERCAP": 9.128
+  },
+  {
+    "LOCATION": "MEX",
+    "SUBJECT": "BEEF",
+    "TIME": 2027,
+    "KGPERCAP": 9.108
+  },
+  {
+    "LOCATION": "MEX",
+    "SUBJECT": "BEEF",
+    "TIME": 2028,
+    "KGPERCAP": 9.092
+  },
+  {
+    "LOCATION": "MEX",
+    "SUBJECT": "BEEF",
+    "TIME": 2029,
+    "KGPERCAP": 9.06
+  },
+  {
+    "LOCATION": "MEX",
+    "SUBJECT": "PIG",
+    "TIME": 2018,
+    "KGPERCAP": 14.05
+  },
+  {
+    "LOCATION": "MEX",
+    "SUBJECT": "PIG",
+    "TIME": 2019,
+    "KGPERCAP": 14.401
+  },
+  {
+    "LOCATION": "MEX",
+    "SUBJECT": "PIG",
+    "TIME": 2020,
+    "KGPERCAP": 14.42
+  },
+  {
+    "LOCATION": "MEX",
+    "SUBJECT": "PIG",
+    "TIME": 2021,
+    "KGPERCAP": 14.494
+  },
+  {
+    "LOCATION": "MEX",
+    "SUBJECT": "PIG",
+    "TIME": 2022,
+    "KGPERCAP": 14.532
+  },
+  {
+    "LOCATION": "MEX",
+    "SUBJECT": "PIG",
+    "TIME": 2023,
+    "KGPERCAP": 14.571
+  },
+  {
+    "LOCATION": "MEX",
+    "SUBJECT": "PIG",
+    "TIME": 2024,
+    "KGPERCAP": 14.617
+  },
+  {
+    "LOCATION": "MEX",
+    "SUBJECT": "PIG",
+    "TIME": 2025,
+    "KGPERCAP": 14.667
+  },
+  {
+    "LOCATION": "MEX",
+    "SUBJECT": "PIG",
+    "TIME": 2026,
+    "KGPERCAP": 14.716
+  },
+  {
+    "LOCATION": "MEX",
+    "SUBJECT": "PIG",
+    "TIME": 2027,
+    "KGPERCAP": 14.768
+  },
+  {
+    "LOCATION": "MEX",
+    "SUBJECT": "PIG",
+    "TIME": 2028,
+    "KGPERCAP": 14.817
+  },
+  {
+    "LOCATION": "MEX",
+    "SUBJECT": "PIG",
+    "TIME": 2029,
+    "KGPERCAP": 14.875
+  },
+  {
+    "LOCATION": "MEX",
+    "SUBJECT": "POULTRY",
+    "TIME": 2018,
+    "KGPERCAP": 30.101
+  },
+  {
+    "LOCATION": "MEX",
+    "SUBJECT": "POULTRY",
+    "TIME": 2019,
+    "KGPERCAP": 30.534
+  },
+  {
+    "LOCATION": "MEX",
+    "SUBJECT": "POULTRY",
+    "TIME": 2020,
+    "KGPERCAP": 30.586
+  },
+  {
+    "LOCATION": "MEX",
+    "SUBJECT": "POULTRY",
+    "TIME": 2021,
+    "KGPERCAP": 30.708
+  },
+  {
+    "LOCATION": "MEX",
+    "SUBJECT": "POULTRY",
+    "TIME": 2022,
+    "KGPERCAP": 30.819
+  },
+  {
+    "LOCATION": "MEX",
+    "SUBJECT": "POULTRY",
+    "TIME": 2023,
+    "KGPERCAP": 30.914
+  },
+  {
+    "LOCATION": "MEX",
+    "SUBJECT": "POULTRY",
+    "TIME": 2024,
+    "KGPERCAP": 31.025
+  },
+  {
+    "LOCATION": "MEX",
+    "SUBJECT": "POULTRY",
+    "TIME": 2025,
+    "KGPERCAP": 31.135
+  },
+  {
+    "LOCATION": "MEX",
+    "SUBJECT": "POULTRY",
+    "TIME": 2026,
+    "KGPERCAP": 31.242
+  },
+  {
+    "LOCATION": "MEX",
+    "SUBJECT": "POULTRY",
+    "TIME": 2027,
+    "KGPERCAP": 31.356
+  },
+  {
+    "LOCATION": "MEX",
+    "SUBJECT": "POULTRY",
+    "TIME": 2028,
+    "KGPERCAP": 31.473
+  },
+  {
+    "LOCATION": "MEX",
+    "SUBJECT": "POULTRY",
+    "TIME": 2029,
+    "KGPERCAP": 31.593
+  },
+  {
+    "LOCATION": "MEX",
+    "SUBJECT": "SHEEP",
+    "TIME": 2018,
+    "KGPERCAP": 0.533
+  },
+  {
+    "LOCATION": "MEX",
+    "SUBJECT": "SHEEP",
+    "TIME": 2019,
+    "KGPERCAP": 0.545
+  },
+  {
+    "LOCATION": "MEX",
+    "SUBJECT": "SHEEP",
+    "TIME": 2020,
+    "KGPERCAP": 0.544
+  },
+  {
+    "LOCATION": "MEX",
+    "SUBJECT": "SHEEP",
+    "TIME": 2021,
+    "KGPERCAP": 0.542
+  },
+  {
+    "LOCATION": "MEX",
+    "SUBJECT": "SHEEP",
+    "TIME": 2022,
+    "KGPERCAP": 0.54
+  },
+  {
+    "LOCATION": "MEX",
+    "SUBJECT": "SHEEP",
+    "TIME": 2023,
+    "KGPERCAP": 0.539
+  },
+  {
+    "LOCATION": "MEX",
+    "SUBJECT": "SHEEP",
+    "TIME": 2024,
+    "KGPERCAP": 0.539
+  },
+  {
+    "LOCATION": "MEX",
+    "SUBJECT": "SHEEP",
+    "TIME": 2025,
+    "KGPERCAP": 0.54
+  },
+  {
+    "LOCATION": "MEX",
+    "SUBJECT": "SHEEP",
+    "TIME": 2026,
+    "KGPERCAP": 0.54
+  },
+  {
+    "LOCATION": "MEX",
+    "SUBJECT": "SHEEP",
+    "TIME": 2027,
+    "KGPERCAP": 0.541
+  },
+  {
+    "LOCATION": "MEX",
+    "SUBJECT": "SHEEP",
+    "TIME": 2028,
+    "KGPERCAP": 0.542
+  },
+  {
+    "LOCATION": "MEX",
+    "SUBJECT": "SHEEP",
+    "TIME": 2029,
+    "KGPERCAP": 0.543
+  },
+  {
+    "LOCATION": "NZL",
+    "SUBJECT": "BEEF",
+    "TIME": 2018,
+    "KGPERCAP": 11.837
+  },
+  {
+    "LOCATION": "NZL",
+    "SUBJECT": "BEEF",
+    "TIME": 2019,
+    "KGPERCAP": 11.609
+  },
+  {
+    "LOCATION": "NZL",
+    "SUBJECT": "BEEF",
+    "TIME": 2020,
+    "KGPERCAP": 11.548
+  },
+  {
+    "LOCATION": "NZL",
+    "SUBJECT": "BEEF",
+    "TIME": 2021,
+    "KGPERCAP": 11.663
+  },
+  {
+    "LOCATION": "NZL",
+    "SUBJECT": "BEEF",
+    "TIME": 2022,
+    "KGPERCAP": 11.371
+  },
+  {
+    "LOCATION": "NZL",
+    "SUBJECT": "BEEF",
+    "TIME": 2023,
+    "KGPERCAP": 11.36
+  },
+  {
+    "LOCATION": "NZL",
+    "SUBJECT": "BEEF",
+    "TIME": 2024,
+    "KGPERCAP": 11.349
+  },
+  {
+    "LOCATION": "NZL",
+    "SUBJECT": "BEEF",
+    "TIME": 2025,
+    "KGPERCAP": 11.34
+  },
+  {
+    "LOCATION": "NZL",
+    "SUBJECT": "BEEF",
+    "TIME": 2026,
+    "KGPERCAP": 11.335
+  },
+  {
+    "LOCATION": "NZL",
+    "SUBJECT": "BEEF",
+    "TIME": 2027,
+    "KGPERCAP": 11.327
+  },
+  {
+    "LOCATION": "NZL",
+    "SUBJECT": "BEEF",
+    "TIME": 2028,
+    "KGPERCAP": 11.321
+  },
+  {
+    "LOCATION": "NZL",
+    "SUBJECT": "BEEF",
+    "TIME": 2029,
+    "KGPERCAP": 11.318
+  },
+  {
+    "LOCATION": "NZL",
+    "SUBJECT": "PIG",
+    "TIME": 2018,
+    "KGPERCAP": 18.934
+  },
+  {
+    "LOCATION": "NZL",
+    "SUBJECT": "PIG",
+    "TIME": 2019,
+    "KGPERCAP": 18.938
+  },
+  {
+    "LOCATION": "NZL",
+    "SUBJECT": "PIG",
+    "TIME": 2020,
+    "KGPERCAP": 19.063
+  },
+  {
+    "LOCATION": "NZL",
+    "SUBJECT": "PIG",
+    "TIME": 2021,
+    "KGPERCAP": 19.116
+  },
+  {
+    "LOCATION": "NZL",
+    "SUBJECT": "PIG",
+    "TIME": 2022,
+    "KGPERCAP": 19.151
+  },
+  {
+    "LOCATION": "NZL",
+    "SUBJECT": "PIG",
+    "TIME": 2023,
+    "KGPERCAP": 19.196
+  },
+  {
+    "LOCATION": "NZL",
+    "SUBJECT": "PIG",
+    "TIME": 2024,
+    "KGPERCAP": 19.242
+  },
+  {
+    "LOCATION": "NZL",
+    "SUBJECT": "PIG",
+    "TIME": 2025,
+    "KGPERCAP": 19.293
+  },
+  {
+    "LOCATION": "NZL",
+    "SUBJECT": "PIG",
+    "TIME": 2026,
+    "KGPERCAP": 19.344
+  },
+  {
+    "LOCATION": "NZL",
+    "SUBJECT": "PIG",
+    "TIME": 2027,
+    "KGPERCAP": 19.397
+  },
+  {
+    "LOCATION": "NZL",
+    "SUBJECT": "PIG",
+    "TIME": 2028,
+    "KGPERCAP": 19.447
+  },
+  {
+    "LOCATION": "NZL",
+    "SUBJECT": "PIG",
+    "TIME": 2029,
+    "KGPERCAP": 19.506
+  },
+  {
+    "LOCATION": "NZL",
+    "SUBJECT": "POULTRY",
+    "TIME": 2018,
+    "KGPERCAP": 39.619
+  },
+  {
+    "LOCATION": "NZL",
+    "SUBJECT": "POULTRY",
+    "TIME": 2019,
+    "KGPERCAP": 41.101
+  },
+  {
+    "LOCATION": "NZL",
+    "SUBJECT": "POULTRY",
+    "TIME": 2020,
+    "KGPERCAP": 40.079
+  },
+  {
+    "LOCATION": "NZL",
+    "SUBJECT": "POULTRY",
+    "TIME": 2021,
+    "KGPERCAP": 40.043
+  },
+  {
+    "LOCATION": "NZL",
+    "SUBJECT": "POULTRY",
+    "TIME": 2022,
+    "KGPERCAP": 40.125
+  },
+  {
+    "LOCATION": "NZL",
+    "SUBJECT": "POULTRY",
+    "TIME": 2023,
+    "KGPERCAP": 40.211
+  },
+  {
+    "LOCATION": "NZL",
+    "SUBJECT": "POULTRY",
+    "TIME": 2024,
+    "KGPERCAP": 40.302
+  },
+  {
+    "LOCATION": "NZL",
+    "SUBJECT": "POULTRY",
+    "TIME": 2025,
+    "KGPERCAP": 40.397
+  },
+  {
+    "LOCATION": "NZL",
+    "SUBJECT": "POULTRY",
+    "TIME": 2026,
+    "KGPERCAP": 40.495
+  },
+  {
+    "LOCATION": "NZL",
+    "SUBJECT": "POULTRY",
+    "TIME": 2027,
+    "KGPERCAP": 40.598
+  },
+  {
+    "LOCATION": "NZL",
+    "SUBJECT": "POULTRY",
+    "TIME": 2028,
+    "KGPERCAP": 40.704
+  },
+  {
+    "LOCATION": "NZL",
+    "SUBJECT": "POULTRY",
+    "TIME": 2029,
+    "KGPERCAP": 40.816
+  },
+  {
+    "LOCATION": "NZL",
+    "SUBJECT": "SHEEP",
+    "TIME": 2018,
+    "KGPERCAP": 4.24
+  },
+  {
+    "LOCATION": "NZL",
+    "SUBJECT": "SHEEP",
+    "TIME": 2019,
+    "KGPERCAP": 3.596
+  },
+  {
+    "LOCATION": "NZL",
+    "SUBJECT": "SHEEP",
+    "TIME": 2020,
+    "KGPERCAP": 3.446
+  },
+  {
+    "LOCATION": "NZL",
+    "SUBJECT": "SHEEP",
+    "TIME": 2021,
+    "KGPERCAP": 3.356
+  },
+  {
+    "LOCATION": "NZL",
+    "SUBJECT": "SHEEP",
+    "TIME": 2022,
+    "KGPERCAP": 3.291
+  },
+  {
+    "LOCATION": "NZL",
+    "SUBJECT": "SHEEP",
+    "TIME": 2023,
+    "KGPERCAP": 3.25
+  },
+  {
+    "LOCATION": "NZL",
+    "SUBJECT": "SHEEP",
+    "TIME": 2024,
+    "KGPERCAP": 3.202
+  },
+  {
+    "LOCATION": "NZL",
+    "SUBJECT": "SHEEP",
+    "TIME": 2025,
+    "KGPERCAP": 3.139
+  },
+  {
+    "LOCATION": "NZL",
+    "SUBJECT": "SHEEP",
+    "TIME": 2026,
+    "KGPERCAP": 3.072
+  },
+  {
+    "LOCATION": "NZL",
+    "SUBJECT": "SHEEP",
+    "TIME": 2027,
+    "KGPERCAP": 3.009
+  },
+  {
+    "LOCATION": "NZL",
+    "SUBJECT": "SHEEP",
+    "TIME": 2028,
+    "KGPERCAP": 2.949
+  },
+  {
+    "LOCATION": "NZL",
+    "SUBJECT": "SHEEP",
+    "TIME": 2029,
+    "KGPERCAP": 2.891
+  },
+  {
+    "LOCATION": "TUR",
+    "SUBJECT": "BEEF",
+    "TIME": 2018,
+    "KGPERCAP": 9.839
+  },
+  {
+    "LOCATION": "TUR",
+    "SUBJECT": "BEEF",
+    "TIME": 2019,
+    "KGPERCAP": 9.474
+  },
+  {
+    "LOCATION": "TUR",
+    "SUBJECT": "BEEF",
+    "TIME": 2020,
+    "KGPERCAP": 9.633
+  },
+  {
+    "LOCATION": "TUR",
+    "SUBJECT": "BEEF",
+    "TIME": 2021,
+    "KGPERCAP": 9.818
+  },
+  {
+    "LOCATION": "TUR",
+    "SUBJECT": "BEEF",
+    "TIME": 2022,
+    "KGPERCAP": 9.966
+  },
+  {
+    "LOCATION": "TUR",
+    "SUBJECT": "BEEF",
+    "TIME": 2023,
+    "KGPERCAP": 10.117
+  },
+  {
+    "LOCATION": "TUR",
+    "SUBJECT": "BEEF",
+    "TIME": 2024,
+    "KGPERCAP": 10.284
+  },
+  {
+    "LOCATION": "TUR",
+    "SUBJECT": "BEEF",
+    "TIME": 2025,
+    "KGPERCAP": 10.452
+  },
+  {
+    "LOCATION": "TUR",
+    "SUBJECT": "BEEF",
+    "TIME": 2026,
+    "KGPERCAP": 10.611
+  },
+  {
+    "LOCATION": "TUR",
+    "SUBJECT": "BEEF",
+    "TIME": 2027,
+    "KGPERCAP": 10.76
+  },
+  {
+    "LOCATION": "TUR",
+    "SUBJECT": "BEEF",
+    "TIME": 2028,
+    "KGPERCAP": 10.916
+  },
+  {
+    "LOCATION": "TUR",
+    "SUBJECT": "BEEF",
+    "TIME": 2029,
+    "KGPERCAP": 11.077
+  },
+  {
+    "LOCATION": "TUR",
+    "SUBJECT": "PIG",
+    "TIME": 2018,
+    "KGPERCAP": 0
+  },
+  {
+    "LOCATION": "TUR",
+    "SUBJECT": "PIG",
+    "TIME": 2019,
+    "KGPERCAP": 0
+  },
+  {
+    "LOCATION": "TUR",
+    "SUBJECT": "PIG",
+    "TIME": 2020,
+    "KGPERCAP": 0
+  },
+  {
+    "LOCATION": "TUR",
+    "SUBJECT": "PIG",
+    "TIME": 2021,
+    "KGPERCAP": 0
+  },
+  {
+    "LOCATION": "TUR",
+    "SUBJECT": "PIG",
+    "TIME": 2022,
+    "KGPERCAP": 0
+  },
+  {
+    "LOCATION": "TUR",
+    "SUBJECT": "PIG",
+    "TIME": 2023,
+    "KGPERCAP": 0
+  },
+  {
+    "LOCATION": "TUR",
+    "SUBJECT": "PIG",
+    "TIME": 2024,
+    "KGPERCAP": 0
+  },
+  {
+    "LOCATION": "TUR",
+    "SUBJECT": "PIG",
+    "TIME": 2025,
+    "KGPERCAP": 0
+  },
+  {
+    "LOCATION": "TUR",
+    "SUBJECT": "PIG",
+    "TIME": 2026,
+    "KGPERCAP": 0
+  },
+  {
+    "LOCATION": "TUR",
+    "SUBJECT": "PIG",
+    "TIME": 2027,
+    "KGPERCAP": 0
+  },
+  {
+    "LOCATION": "TUR",
+    "SUBJECT": "PIG",
+    "TIME": 2028,
+    "KGPERCAP": 0
+  },
+  {
+    "LOCATION": "TUR",
+    "SUBJECT": "PIG",
+    "TIME": 2029,
+    "KGPERCAP": 0
+  },
+  {
+    "LOCATION": "TUR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2018,
+    "KGPERCAP": 18.623
+  },
+  {
+    "LOCATION": "TUR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2019,
+    "KGPERCAP": 19.059
+  },
+  {
+    "LOCATION": "TUR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2020,
+    "KGPERCAP": 19.183
+  },
+  {
+    "LOCATION": "TUR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2021,
+    "KGPERCAP": 19.496
+  },
+  {
+    "LOCATION": "TUR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2022,
+    "KGPERCAP": 19.815
+  },
+  {
+    "LOCATION": "TUR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2023,
+    "KGPERCAP": 20.131
+  },
+  {
+    "LOCATION": "TUR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2024,
+    "KGPERCAP": 20.433
+  },
+  {
+    "LOCATION": "TUR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2025,
+    "KGPERCAP": 20.728
+  },
+  {
+    "LOCATION": "TUR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2026,
+    "KGPERCAP": 21.025
+  },
+  {
+    "LOCATION": "TUR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2027,
+    "KGPERCAP": 21.307
+  },
+  {
+    "LOCATION": "TUR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2028,
+    "KGPERCAP": 21.598
+  },
+  {
+    "LOCATION": "TUR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2029,
+    "KGPERCAP": 21.89
+  },
+  {
+    "LOCATION": "TUR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2018,
+    "KGPERCAP": 4.308
+  },
+  {
+    "LOCATION": "TUR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2019,
+    "KGPERCAP": 4.264
+  },
+  {
+    "LOCATION": "TUR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2020,
+    "KGPERCAP": 4.231
+  },
+  {
+    "LOCATION": "TUR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2021,
+    "KGPERCAP": 4.209
+  },
+  {
+    "LOCATION": "TUR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2022,
+    "KGPERCAP": 4.202
+  },
+  {
+    "LOCATION": "TUR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2023,
+    "KGPERCAP": 4.201
+  },
+  {
+    "LOCATION": "TUR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2024,
+    "KGPERCAP": 4.199
+  },
+  {
+    "LOCATION": "TUR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2025,
+    "KGPERCAP": 4.193
+  },
+  {
+    "LOCATION": "TUR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2026,
+    "KGPERCAP": 4.186
+  },
+  {
+    "LOCATION": "TUR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2027,
+    "KGPERCAP": 4.176
+  },
+  {
+    "LOCATION": "TUR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2028,
+    "KGPERCAP": 4.166
+  },
+  {
+    "LOCATION": "TUR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2029,
+    "KGPERCAP": 4.156
+  },
+  {
+    "LOCATION": "USA",
+    "SUBJECT": "BEEF",
+    "TIME": 2018,
+    "KGPERCAP": 26.057
+  },
+  {
+    "LOCATION": "USA",
+    "SUBJECT": "BEEF",
+    "TIME": 2019,
+    "KGPERCAP": 26.324
+  },
+  {
+    "LOCATION": "USA",
+    "SUBJECT": "BEEF",
+    "TIME": 2020,
+    "KGPERCAP": 26.195
+  },
+  {
+    "LOCATION": "USA",
+    "SUBJECT": "BEEF",
+    "TIME": 2021,
+    "KGPERCAP": 26.081
+  },
+  {
+    "LOCATION": "USA",
+    "SUBJECT": "BEEF",
+    "TIME": 2022,
+    "KGPERCAP": 25.342
+  },
+  {
+    "LOCATION": "USA",
+    "SUBJECT": "BEEF",
+    "TIME": 2023,
+    "KGPERCAP": 25.318
+  },
+  {
+    "LOCATION": "USA",
+    "SUBJECT": "BEEF",
+    "TIME": 2024,
+    "KGPERCAP": 25.309
+  },
+  {
+    "LOCATION": "USA",
+    "SUBJECT": "BEEF",
+    "TIME": 2025,
+    "KGPERCAP": 25.394
+  },
+  {
+    "LOCATION": "USA",
+    "SUBJECT": "BEEF",
+    "TIME": 2026,
+    "KGPERCAP": 25.58
+  },
+  {
+    "LOCATION": "USA",
+    "SUBJECT": "BEEF",
+    "TIME": 2027,
+    "KGPERCAP": 25.712
+  },
+  {
+    "LOCATION": "USA",
+    "SUBJECT": "BEEF",
+    "TIME": 2028,
+    "KGPERCAP": 25.945
+  },
+  {
+    "LOCATION": "USA",
+    "SUBJECT": "BEEF",
+    "TIME": 2029,
+    "KGPERCAP": 25.969
+  },
+  {
+    "LOCATION": "USA",
+    "SUBJECT": "PIG",
+    "TIME": 2018,
+    "KGPERCAP": 23.246
+  },
+  {
+    "LOCATION": "USA",
+    "SUBJECT": "PIG",
+    "TIME": 2019,
+    "KGPERCAP": 24.002
+  },
+  {
+    "LOCATION": "USA",
+    "SUBJECT": "PIG",
+    "TIME": 2020,
+    "KGPERCAP": 23.983
+  },
+  {
+    "LOCATION": "USA",
+    "SUBJECT": "PIG",
+    "TIME": 2021,
+    "KGPERCAP": 23.878
+  },
+  {
+    "LOCATION": "USA",
+    "SUBJECT": "PIG",
+    "TIME": 2022,
+    "KGPERCAP": 23.793
+  },
+  {
+    "LOCATION": "USA",
+    "SUBJECT": "PIG",
+    "TIME": 2023,
+    "KGPERCAP": 23.725
+  },
+  {
+    "LOCATION": "USA",
+    "SUBJECT": "PIG",
+    "TIME": 2024,
+    "KGPERCAP": 23.85
+  },
+  {
+    "LOCATION": "USA",
+    "SUBJECT": "PIG",
+    "TIME": 2025,
+    "KGPERCAP": 23.924
+  },
+  {
+    "LOCATION": "USA",
+    "SUBJECT": "PIG",
+    "TIME": 2026,
+    "KGPERCAP": 23.961
+  },
+  {
+    "LOCATION": "USA",
+    "SUBJECT": "PIG",
+    "TIME": 2027,
+    "KGPERCAP": 23.903
+  },
+  {
+    "LOCATION": "USA",
+    "SUBJECT": "PIG",
+    "TIME": 2028,
+    "KGPERCAP": 23.861
+  },
+  {
+    "LOCATION": "USA",
+    "SUBJECT": "PIG",
+    "TIME": 2029,
+    "KGPERCAP": 23.833
+  },
+  {
+    "LOCATION": "USA",
+    "SUBJECT": "POULTRY",
+    "TIME": 2018,
+    "KGPERCAP": 49.439
+  },
+  {
+    "LOCATION": "USA",
+    "SUBJECT": "POULTRY",
+    "TIME": 2019,
+    "KGPERCAP": 50.098
+  },
+  {
+    "LOCATION": "USA",
+    "SUBJECT": "POULTRY",
+    "TIME": 2020,
+    "KGPERCAP": 50.963
+  },
+  {
+    "LOCATION": "USA",
+    "SUBJECT": "POULTRY",
+    "TIME": 2021,
+    "KGPERCAP": 50.801
+  },
+  {
+    "LOCATION": "USA",
+    "SUBJECT": "POULTRY",
+    "TIME": 2022,
+    "KGPERCAP": 50.897
+  },
+  {
+    "LOCATION": "USA",
+    "SUBJECT": "POULTRY",
+    "TIME": 2023,
+    "KGPERCAP": 50.902
+  },
+  {
+    "LOCATION": "USA",
+    "SUBJECT": "POULTRY",
+    "TIME": 2024,
+    "KGPERCAP": 50.911
+  },
+  {
+    "LOCATION": "USA",
+    "SUBJECT": "POULTRY",
+    "TIME": 2025,
+    "KGPERCAP": 50.906
+  },
+  {
+    "LOCATION": "USA",
+    "SUBJECT": "POULTRY",
+    "TIME": 2026,
+    "KGPERCAP": 50.902
+  },
+  {
+    "LOCATION": "USA",
+    "SUBJECT": "POULTRY",
+    "TIME": 2027,
+    "KGPERCAP": 50.893
+  },
+  {
+    "LOCATION": "USA",
+    "SUBJECT": "POULTRY",
+    "TIME": 2028,
+    "KGPERCAP": 50.894
+  },
+  {
+    "LOCATION": "USA",
+    "SUBJECT": "POULTRY",
+    "TIME": 2029,
+    "KGPERCAP": 50.882
+  },
+  {
+    "LOCATION": "USA",
+    "SUBJECT": "SHEEP",
+    "TIME": 2018,
+    "KGPERCAP": 0.509
+  },
+  {
+    "LOCATION": "USA",
+    "SUBJECT": "SHEEP",
+    "TIME": 2019,
+    "KGPERCAP": 0.443
+  },
+  {
+    "LOCATION": "USA",
+    "SUBJECT": "SHEEP",
+    "TIME": 2020,
+    "KGPERCAP": 0.431
+  },
+  {
+    "LOCATION": "USA",
+    "SUBJECT": "SHEEP",
+    "TIME": 2021,
+    "KGPERCAP": 0.429
+  },
+  {
+    "LOCATION": "USA",
+    "SUBJECT": "SHEEP",
+    "TIME": 2022,
+    "KGPERCAP": 0.432
+  },
+  {
+    "LOCATION": "USA",
+    "SUBJECT": "SHEEP",
+    "TIME": 2023,
+    "KGPERCAP": 0.431
+  },
+  {
+    "LOCATION": "USA",
+    "SUBJECT": "SHEEP",
+    "TIME": 2024,
+    "KGPERCAP": 0.431
+  },
+  {
+    "LOCATION": "USA",
+    "SUBJECT": "SHEEP",
+    "TIME": 2025,
+    "KGPERCAP": 0.432
+  },
+  {
+    "LOCATION": "USA",
+    "SUBJECT": "SHEEP",
+    "TIME": 2026,
+    "KGPERCAP": 0.431
+  },
+  {
+    "LOCATION": "USA",
+    "SUBJECT": "SHEEP",
+    "TIME": 2027,
+    "KGPERCAP": 0.432
+  },
+  {
+    "LOCATION": "USA",
+    "SUBJECT": "SHEEP",
+    "TIME": 2028,
+    "KGPERCAP": 0.432
+  },
+  {
+    "LOCATION": "USA",
+    "SUBJECT": "SHEEP",
+    "TIME": 2029,
+    "KGPERCAP": 0.432
+  },
+  {
+    "LOCATION": "ARG",
+    "SUBJECT": "BEEF",
+    "TIME": 2018,
+    "KGPERCAP": 38.881
+  },
+  {
+    "LOCATION": "ARG",
+    "SUBJECT": "BEEF",
+    "TIME": 2019,
+    "KGPERCAP": 37.985
+  },
+  {
+    "LOCATION": "ARG",
+    "SUBJECT": "BEEF",
+    "TIME": 2020,
+    "KGPERCAP": 36.894
+  },
+  {
+    "LOCATION": "ARG",
+    "SUBJECT": "BEEF",
+    "TIME": 2021,
+    "KGPERCAP": 36.853
+  },
+  {
+    "LOCATION": "ARG",
+    "SUBJECT": "BEEF",
+    "TIME": 2022,
+    "KGPERCAP": 36.894
+  },
+  {
+    "LOCATION": "ARG",
+    "SUBJECT": "BEEF",
+    "TIME": 2023,
+    "KGPERCAP": 36.758
+  },
+  {
+    "LOCATION": "ARG",
+    "SUBJECT": "BEEF",
+    "TIME": 2024,
+    "KGPERCAP": 36.631
+  },
+  {
+    "LOCATION": "ARG",
+    "SUBJECT": "BEEF",
+    "TIME": 2025,
+    "KGPERCAP": 36.521
+  },
+  {
+    "LOCATION": "ARG",
+    "SUBJECT": "BEEF",
+    "TIME": 2026,
+    "KGPERCAP": 36.386
+  },
+  {
+    "LOCATION": "ARG",
+    "SUBJECT": "BEEF",
+    "TIME": 2027,
+    "KGPERCAP": 36.264
+  },
+  {
+    "LOCATION": "ARG",
+    "SUBJECT": "BEEF",
+    "TIME": 2028,
+    "KGPERCAP": 36.144
+  },
+  {
+    "LOCATION": "ARG",
+    "SUBJECT": "BEEF",
+    "TIME": 2029,
+    "KGPERCAP": 36.035
+  },
+  {
+    "LOCATION": "ARG",
+    "SUBJECT": "PIG",
+    "TIME": 2018,
+    "KGPERCAP": 11.054
+  },
+  {
+    "LOCATION": "ARG",
+    "SUBJECT": "PIG",
+    "TIME": 2019,
+    "KGPERCAP": 11.374
+  },
+  {
+    "LOCATION": "ARG",
+    "SUBJECT": "PIG",
+    "TIME": 2020,
+    "KGPERCAP": 11.476
+  },
+  {
+    "LOCATION": "ARG",
+    "SUBJECT": "PIG",
+    "TIME": 2021,
+    "KGPERCAP": 11.542
+  },
+  {
+    "LOCATION": "ARG",
+    "SUBJECT": "PIG",
+    "TIME": 2022,
+    "KGPERCAP": 11.551
+  },
+  {
+    "LOCATION": "ARG",
+    "SUBJECT": "PIG",
+    "TIME": 2023,
+    "KGPERCAP": 11.537
+  },
+  {
+    "LOCATION": "ARG",
+    "SUBJECT": "PIG",
+    "TIME": 2024,
+    "KGPERCAP": 11.531
+  },
+  {
+    "LOCATION": "ARG",
+    "SUBJECT": "PIG",
+    "TIME": 2025,
+    "KGPERCAP": 11.557
+  },
+  {
+    "LOCATION": "ARG",
+    "SUBJECT": "PIG",
+    "TIME": 2026,
+    "KGPERCAP": 11.552
+  },
+  {
+    "LOCATION": "ARG",
+    "SUBJECT": "PIG",
+    "TIME": 2027,
+    "KGPERCAP": 11.568
+  },
+  {
+    "LOCATION": "ARG",
+    "SUBJECT": "PIG",
+    "TIME": 2028,
+    "KGPERCAP": 11.578
+  },
+  {
+    "LOCATION": "ARG",
+    "SUBJECT": "PIG",
+    "TIME": 2029,
+    "KGPERCAP": 11.6
+  },
+  {
+    "LOCATION": "ARG",
+    "SUBJECT": "POULTRY",
+    "TIME": 2018,
+    "KGPERCAP": 38.464
+  },
+  {
+    "LOCATION": "ARG",
+    "SUBJECT": "POULTRY",
+    "TIME": 2019,
+    "KGPERCAP": 37.921
+  },
+  {
+    "LOCATION": "ARG",
+    "SUBJECT": "POULTRY",
+    "TIME": 2020,
+    "KGPERCAP": 38.088
+  },
+  {
+    "LOCATION": "ARG",
+    "SUBJECT": "POULTRY",
+    "TIME": 2021,
+    "KGPERCAP": 38.117
+  },
+  {
+    "LOCATION": "ARG",
+    "SUBJECT": "POULTRY",
+    "TIME": 2022,
+    "KGPERCAP": 38.157
+  },
+  {
+    "LOCATION": "ARG",
+    "SUBJECT": "POULTRY",
+    "TIME": 2023,
+    "KGPERCAP": 38.201
+  },
+  {
+    "LOCATION": "ARG",
+    "SUBJECT": "POULTRY",
+    "TIME": 2024,
+    "KGPERCAP": 38.247
+  },
+  {
+    "LOCATION": "ARG",
+    "SUBJECT": "POULTRY",
+    "TIME": 2025,
+    "KGPERCAP": 38.295
+  },
+  {
+    "LOCATION": "ARG",
+    "SUBJECT": "POULTRY",
+    "TIME": 2026,
+    "KGPERCAP": 38.348
+  },
+  {
+    "LOCATION": "ARG",
+    "SUBJECT": "POULTRY",
+    "TIME": 2027,
+    "KGPERCAP": 38.404
+  },
+  {
+    "LOCATION": "ARG",
+    "SUBJECT": "POULTRY",
+    "TIME": 2028,
+    "KGPERCAP": 38.464
+  },
+  {
+    "LOCATION": "ARG",
+    "SUBJECT": "POULTRY",
+    "TIME": 2029,
+    "KGPERCAP": 38.528
+  },
+  {
+    "LOCATION": "ARG",
+    "SUBJECT": "SHEEP",
+    "TIME": 2018,
+    "KGPERCAP": 0.969
+  },
+  {
+    "LOCATION": "ARG",
+    "SUBJECT": "SHEEP",
+    "TIME": 2019,
+    "KGPERCAP": 0.97
+  },
+  {
+    "LOCATION": "ARG",
+    "SUBJECT": "SHEEP",
+    "TIME": 2020,
+    "KGPERCAP": 0.973
+  },
+  {
+    "LOCATION": "ARG",
+    "SUBJECT": "SHEEP",
+    "TIME": 2021,
+    "KGPERCAP": 0.973
+  },
+  {
+    "LOCATION": "ARG",
+    "SUBJECT": "SHEEP",
+    "TIME": 2022,
+    "KGPERCAP": 0.974
+  },
+  {
+    "LOCATION": "ARG",
+    "SUBJECT": "SHEEP",
+    "TIME": 2023,
+    "KGPERCAP": 0.975
+  },
+  {
+    "LOCATION": "ARG",
+    "SUBJECT": "SHEEP",
+    "TIME": 2024,
+    "KGPERCAP": 0.976
+  },
+  {
+    "LOCATION": "ARG",
+    "SUBJECT": "SHEEP",
+    "TIME": 2025,
+    "KGPERCAP": 0.977
+  },
+  {
+    "LOCATION": "ARG",
+    "SUBJECT": "SHEEP",
+    "TIME": 2026,
+    "KGPERCAP": 0.979
+  },
+  {
+    "LOCATION": "ARG",
+    "SUBJECT": "SHEEP",
+    "TIME": 2027,
+    "KGPERCAP": 0.98
+  },
+  {
+    "LOCATION": "ARG",
+    "SUBJECT": "SHEEP",
+    "TIME": 2028,
+    "KGPERCAP": 0.982
+  },
+  {
+    "LOCATION": "ARG",
+    "SUBJECT": "SHEEP",
+    "TIME": 2029,
+    "KGPERCAP": 0.984
+  },
+  {
+    "LOCATION": "BRA",
+    "SUBJECT": "BEEF",
+    "TIME": 2018,
+    "KGPERCAP": 25.263
+  },
+  {
+    "LOCATION": "BRA",
+    "SUBJECT": "BEEF",
+    "TIME": 2019,
+    "KGPERCAP": 25.187
+  },
+  {
+    "LOCATION": "BRA",
+    "SUBJECT": "BEEF",
+    "TIME": 2020,
+    "KGPERCAP": 24.445
+  },
+  {
+    "LOCATION": "BRA",
+    "SUBJECT": "BEEF",
+    "TIME": 2021,
+    "KGPERCAP": 24.605
+  },
+  {
+    "LOCATION": "BRA",
+    "SUBJECT": "BEEF",
+    "TIME": 2022,
+    "KGPERCAP": 24.559
+  },
+  {
+    "LOCATION": "BRA",
+    "SUBJECT": "BEEF",
+    "TIME": 2023,
+    "KGPERCAP": 24.618
+  },
+  {
+    "LOCATION": "BRA",
+    "SUBJECT": "BEEF",
+    "TIME": 2024,
+    "KGPERCAP": 24.646
+  },
+  {
+    "LOCATION": "BRA",
+    "SUBJECT": "BEEF",
+    "TIME": 2025,
+    "KGPERCAP": 24.754
+  },
+  {
+    "LOCATION": "BRA",
+    "SUBJECT": "BEEF",
+    "TIME": 2026,
+    "KGPERCAP": 24.687
+  },
+  {
+    "LOCATION": "BRA",
+    "SUBJECT": "BEEF",
+    "TIME": 2027,
+    "KGPERCAP": 24.595
+  },
+  {
+    "LOCATION": "BRA",
+    "SUBJECT": "BEEF",
+    "TIME": 2028,
+    "KGPERCAP": 24.502
+  },
+  {
+    "LOCATION": "BRA",
+    "SUBJECT": "BEEF",
+    "TIME": 2029,
+    "KGPERCAP": 24.434
+  },
+  {
+    "LOCATION": "BRA",
+    "SUBJECT": "PIG",
+    "TIME": 2018,
+    "KGPERCAP": 12.711
+  },
+  {
+    "LOCATION": "BRA",
+    "SUBJECT": "PIG",
+    "TIME": 2019,
+    "KGPERCAP": 12.848
+  },
+  {
+    "LOCATION": "BRA",
+    "SUBJECT": "PIG",
+    "TIME": 2020,
+    "KGPERCAP": 12.753
+  },
+  {
+    "LOCATION": "BRA",
+    "SUBJECT": "PIG",
+    "TIME": 2021,
+    "KGPERCAP": 12.857
+  },
+  {
+    "LOCATION": "BRA",
+    "SUBJECT": "PIG",
+    "TIME": 2022,
+    "KGPERCAP": 13.063
+  },
+  {
+    "LOCATION": "BRA",
+    "SUBJECT": "PIG",
+    "TIME": 2023,
+    "KGPERCAP": 12.918
+  },
+  {
+    "LOCATION": "BRA",
+    "SUBJECT": "PIG",
+    "TIME": 2024,
+    "KGPERCAP": 12.988
+  },
+  {
+    "LOCATION": "BRA",
+    "SUBJECT": "PIG",
+    "TIME": 2025,
+    "KGPERCAP": 13.077
+  },
+  {
+    "LOCATION": "BRA",
+    "SUBJECT": "PIG",
+    "TIME": 2026,
+    "KGPERCAP": 13.158
+  },
+  {
+    "LOCATION": "BRA",
+    "SUBJECT": "PIG",
+    "TIME": 2027,
+    "KGPERCAP": 13.248
+  },
+  {
+    "LOCATION": "BRA",
+    "SUBJECT": "PIG",
+    "TIME": 2028,
+    "KGPERCAP": 13.326
+  },
+  {
+    "LOCATION": "BRA",
+    "SUBJECT": "PIG",
+    "TIME": 2029,
+    "KGPERCAP": 13.423
+  },
+  {
+    "LOCATION": "BRA",
+    "SUBJECT": "POULTRY",
+    "TIME": 2018,
+    "KGPERCAP": 40.109
+  },
+  {
+    "LOCATION": "BRA",
+    "SUBJECT": "POULTRY",
+    "TIME": 2019,
+    "KGPERCAP": 40.298
+  },
+  {
+    "LOCATION": "BRA",
+    "SUBJECT": "POULTRY",
+    "TIME": 2020,
+    "KGPERCAP": 40.762
+  },
+  {
+    "LOCATION": "BRA",
+    "SUBJECT": "POULTRY",
+    "TIME": 2021,
+    "KGPERCAP": 40.77
+  },
+  {
+    "LOCATION": "BRA",
+    "SUBJECT": "POULTRY",
+    "TIME": 2022,
+    "KGPERCAP": 40.671
+  },
+  {
+    "LOCATION": "BRA",
+    "SUBJECT": "POULTRY",
+    "TIME": 2023,
+    "KGPERCAP": 40.634
+  },
+  {
+    "LOCATION": "BRA",
+    "SUBJECT": "POULTRY",
+    "TIME": 2024,
+    "KGPERCAP": 40.592
+  },
+  {
+    "LOCATION": "BRA",
+    "SUBJECT": "POULTRY",
+    "TIME": 2025,
+    "KGPERCAP": 40.543
+  },
+  {
+    "LOCATION": "BRA",
+    "SUBJECT": "POULTRY",
+    "TIME": 2026,
+    "KGPERCAP": 40.476
+  },
+  {
+    "LOCATION": "BRA",
+    "SUBJECT": "POULTRY",
+    "TIME": 2027,
+    "KGPERCAP": 40.439
+  },
+  {
+    "LOCATION": "BRA",
+    "SUBJECT": "POULTRY",
+    "TIME": 2028,
+    "KGPERCAP": 40.405
+  },
+  {
+    "LOCATION": "BRA",
+    "SUBJECT": "POULTRY",
+    "TIME": 2029,
+    "KGPERCAP": 40.374
+  },
+  {
+    "LOCATION": "BRA",
+    "SUBJECT": "SHEEP",
+    "TIME": 2018,
+    "KGPERCAP": 0.523
+  },
+  {
+    "LOCATION": "BRA",
+    "SUBJECT": "SHEEP",
+    "TIME": 2019,
+    "KGPERCAP": 0.52
+  },
+  {
+    "LOCATION": "BRA",
+    "SUBJECT": "SHEEP",
+    "TIME": 2020,
+    "KGPERCAP": 0.521
+  },
+  {
+    "LOCATION": "BRA",
+    "SUBJECT": "SHEEP",
+    "TIME": 2021,
+    "KGPERCAP": 0.522
+  },
+  {
+    "LOCATION": "BRA",
+    "SUBJECT": "SHEEP",
+    "TIME": 2022,
+    "KGPERCAP": 0.521
+  },
+  {
+    "LOCATION": "BRA",
+    "SUBJECT": "SHEEP",
+    "TIME": 2023,
+    "KGPERCAP": 0.52
+  },
+  {
+    "LOCATION": "BRA",
+    "SUBJECT": "SHEEP",
+    "TIME": 2024,
+    "KGPERCAP": 0.519
+  },
+  {
+    "LOCATION": "BRA",
+    "SUBJECT": "SHEEP",
+    "TIME": 2025,
+    "KGPERCAP": 0.519
+  },
+  {
+    "LOCATION": "BRA",
+    "SUBJECT": "SHEEP",
+    "TIME": 2026,
+    "KGPERCAP": 0.519
+  },
+  {
+    "LOCATION": "BRA",
+    "SUBJECT": "SHEEP",
+    "TIME": 2027,
+    "KGPERCAP": 0.518
+  },
+  {
+    "LOCATION": "BRA",
+    "SUBJECT": "SHEEP",
+    "TIME": 2028,
+    "KGPERCAP": 0.518
+  },
+  {
+    "LOCATION": "BRA",
+    "SUBJECT": "SHEEP",
+    "TIME": 2029,
+    "KGPERCAP": 0.519
+  },
+  {
+    "LOCATION": "CHL",
+    "SUBJECT": "BEEF",
+    "TIME": 2018,
+    "KGPERCAP": 18.67
+  },
+  {
+    "LOCATION": "CHL",
+    "SUBJECT": "BEEF",
+    "TIME": 2019,
+    "KGPERCAP": 20.118
+  },
+  {
+    "LOCATION": "CHL",
+    "SUBJECT": "BEEF",
+    "TIME": 2020,
+    "KGPERCAP": 20.262
+  },
+  {
+    "LOCATION": "CHL",
+    "SUBJECT": "BEEF",
+    "TIME": 2021,
+    "KGPERCAP": 20.461
+  },
+  {
+    "LOCATION": "CHL",
+    "SUBJECT": "BEEF",
+    "TIME": 2022,
+    "KGPERCAP": 20.666
+  },
+  {
+    "LOCATION": "CHL",
+    "SUBJECT": "BEEF",
+    "TIME": 2023,
+    "KGPERCAP": 20.859
+  },
+  {
+    "LOCATION": "CHL",
+    "SUBJECT": "BEEF",
+    "TIME": 2024,
+    "KGPERCAP": 21.037
+  },
+  {
+    "LOCATION": "CHL",
+    "SUBJECT": "BEEF",
+    "TIME": 2025,
+    "KGPERCAP": 21.201
+  },
+  {
+    "LOCATION": "CHL",
+    "SUBJECT": "BEEF",
+    "TIME": 2026,
+    "KGPERCAP": 21.358
+  },
+  {
+    "LOCATION": "CHL",
+    "SUBJECT": "BEEF",
+    "TIME": 2027,
+    "KGPERCAP": 21.509
+  },
+  {
+    "LOCATION": "CHL",
+    "SUBJECT": "BEEF",
+    "TIME": 2028,
+    "KGPERCAP": 21.669
+  },
+  {
+    "LOCATION": "CHL",
+    "SUBJECT": "BEEF",
+    "TIME": 2029,
+    "KGPERCAP": 21.831
+  },
+  {
+    "LOCATION": "CHL",
+    "SUBJECT": "PIG",
+    "TIME": 2018,
+    "KGPERCAP": 24.473
+  },
+  {
+    "LOCATION": "CHL",
+    "SUBJECT": "PIG",
+    "TIME": 2019,
+    "KGPERCAP": 24.587
+  },
+  {
+    "LOCATION": "CHL",
+    "SUBJECT": "PIG",
+    "TIME": 2020,
+    "KGPERCAP": 24.762
+  },
+  {
+    "LOCATION": "CHL",
+    "SUBJECT": "PIG",
+    "TIME": 2021,
+    "KGPERCAP": 24.975
+  },
+  {
+    "LOCATION": "CHL",
+    "SUBJECT": "PIG",
+    "TIME": 2022,
+    "KGPERCAP": 25.169
+  },
+  {
+    "LOCATION": "CHL",
+    "SUBJECT": "PIG",
+    "TIME": 2023,
+    "KGPERCAP": 25.373
+  },
+  {
+    "LOCATION": "CHL",
+    "SUBJECT": "PIG",
+    "TIME": 2024,
+    "KGPERCAP": 25.587
+  },
+  {
+    "LOCATION": "CHL",
+    "SUBJECT": "PIG",
+    "TIME": 2025,
+    "KGPERCAP": 25.81
+  },
+  {
+    "LOCATION": "CHL",
+    "SUBJECT": "PIG",
+    "TIME": 2026,
+    "KGPERCAP": 26.038
+  },
+  {
+    "LOCATION": "CHL",
+    "SUBJECT": "PIG",
+    "TIME": 2027,
+    "KGPERCAP": 26.276
+  },
+  {
+    "LOCATION": "CHL",
+    "SUBJECT": "PIG",
+    "TIME": 2028,
+    "KGPERCAP": 26.519
+  },
+  {
+    "LOCATION": "CHL",
+    "SUBJECT": "PIG",
+    "TIME": 2029,
+    "KGPERCAP": 26.776
+  },
+  {
+    "LOCATION": "CHL",
+    "SUBJECT": "POULTRY",
+    "TIME": 2018,
+    "KGPERCAP": 36.36
+  },
+  {
+    "LOCATION": "CHL",
+    "SUBJECT": "POULTRY",
+    "TIME": 2019,
+    "KGPERCAP": 36.138
+  },
+  {
+    "LOCATION": "CHL",
+    "SUBJECT": "POULTRY",
+    "TIME": 2020,
+    "KGPERCAP": 37.073
+  },
+  {
+    "LOCATION": "CHL",
+    "SUBJECT": "POULTRY",
+    "TIME": 2021,
+    "KGPERCAP": 37.373
+  },
+  {
+    "LOCATION": "CHL",
+    "SUBJECT": "POULTRY",
+    "TIME": 2022,
+    "KGPERCAP": 37.679
+  },
+  {
+    "LOCATION": "CHL",
+    "SUBJECT": "POULTRY",
+    "TIME": 2023,
+    "KGPERCAP": 37.981
+  },
+  {
+    "LOCATION": "CHL",
+    "SUBJECT": "POULTRY",
+    "TIME": 2024,
+    "KGPERCAP": 38.298
+  },
+  {
+    "LOCATION": "CHL",
+    "SUBJECT": "POULTRY",
+    "TIME": 2025,
+    "KGPERCAP": 38.614
+  },
+  {
+    "LOCATION": "CHL",
+    "SUBJECT": "POULTRY",
+    "TIME": 2026,
+    "KGPERCAP": 38.941
+  },
+  {
+    "LOCATION": "CHL",
+    "SUBJECT": "POULTRY",
+    "TIME": 2027,
+    "KGPERCAP": 39.281
+  },
+  {
+    "LOCATION": "CHL",
+    "SUBJECT": "POULTRY",
+    "TIME": 2028,
+    "KGPERCAP": 39.639
+  },
+  {
+    "LOCATION": "CHL",
+    "SUBJECT": "POULTRY",
+    "TIME": 2029,
+    "KGPERCAP": 40.009
+  },
+  {
+    "LOCATION": "CHL",
+    "SUBJECT": "SHEEP",
+    "TIME": 2018,
+    "KGPERCAP": 0.418
+  },
+  {
+    "LOCATION": "CHL",
+    "SUBJECT": "SHEEP",
+    "TIME": 2019,
+    "KGPERCAP": 0.486
+  },
+  {
+    "LOCATION": "CHL",
+    "SUBJECT": "SHEEP",
+    "TIME": 2020,
+    "KGPERCAP": 0.484
+  },
+  {
+    "LOCATION": "CHL",
+    "SUBJECT": "SHEEP",
+    "TIME": 2021,
+    "KGPERCAP": 0.483
+  },
+  {
+    "LOCATION": "CHL",
+    "SUBJECT": "SHEEP",
+    "TIME": 2022,
+    "KGPERCAP": 0.482
+  },
+  {
+    "LOCATION": "CHL",
+    "SUBJECT": "SHEEP",
+    "TIME": 2023,
+    "KGPERCAP": 0.481
+  },
+  {
+    "LOCATION": "CHL",
+    "SUBJECT": "SHEEP",
+    "TIME": 2024,
+    "KGPERCAP": 0.48
+  },
+  {
+    "LOCATION": "CHL",
+    "SUBJECT": "SHEEP",
+    "TIME": 2025,
+    "KGPERCAP": 0.478
+  },
+  {
+    "LOCATION": "CHL",
+    "SUBJECT": "SHEEP",
+    "TIME": 2026,
+    "KGPERCAP": 0.476
+  },
+  {
+    "LOCATION": "CHL",
+    "SUBJECT": "SHEEP",
+    "TIME": 2027,
+    "KGPERCAP": 0.474
+  },
+  {
+    "LOCATION": "CHL",
+    "SUBJECT": "SHEEP",
+    "TIME": 2028,
+    "KGPERCAP": 0.472
+  },
+  {
+    "LOCATION": "CHL",
+    "SUBJECT": "SHEEP",
+    "TIME": 2029,
+    "KGPERCAP": 0.47
+  },
+  {
+    "LOCATION": "CHN",
+    "SUBJECT": "BEEF",
+    "TIME": 2018,
+    "KGPERCAP": 3.617
+  },
+  {
+    "LOCATION": "CHN",
+    "SUBJECT": "BEEF",
+    "TIME": 2019,
+    "KGPERCAP": 4.086
+  },
+  {
+    "LOCATION": "CHN",
+    "SUBJECT": "BEEF",
+    "TIME": 2020,
+    "KGPERCAP": 4.186
+  },
+  {
+    "LOCATION": "CHN",
+    "SUBJECT": "BEEF",
+    "TIME": 2021,
+    "KGPERCAP": 4.143
+  },
+  {
+    "LOCATION": "CHN",
+    "SUBJECT": "BEEF",
+    "TIME": 2022,
+    "KGPERCAP": 4.095
+  },
+  {
+    "LOCATION": "CHN",
+    "SUBJECT": "BEEF",
+    "TIME": 2023,
+    "KGPERCAP": 4.047
+  },
+  {
+    "LOCATION": "CHN",
+    "SUBJECT": "BEEF",
+    "TIME": 2024,
+    "KGPERCAP": 4.003
+  },
+  {
+    "LOCATION": "CHN",
+    "SUBJECT": "BEEF",
+    "TIME": 2025,
+    "KGPERCAP": 3.962
+  },
+  {
+    "LOCATION": "CHN",
+    "SUBJECT": "BEEF",
+    "TIME": 2026,
+    "KGPERCAP": 3.973
+  },
+  {
+    "LOCATION": "CHN",
+    "SUBJECT": "BEEF",
+    "TIME": 2027,
+    "KGPERCAP": 3.978
+  },
+  {
+    "LOCATION": "CHN",
+    "SUBJECT": "BEEF",
+    "TIME": 2028,
+    "KGPERCAP": 3.986
+  },
+  {
+    "LOCATION": "CHN",
+    "SUBJECT": "BEEF",
+    "TIME": 2029,
+    "KGPERCAP": 3.993
+  },
+  {
+    "LOCATION": "CHN",
+    "SUBJECT": "PIG",
+    "TIME": 2018,
+    "KGPERCAP": 30.253
+  },
+  {
+    "LOCATION": "CHN",
+    "SUBJECT": "PIG",
+    "TIME": 2019,
+    "KGPERCAP": 24.367
+  },
+  {
+    "LOCATION": "CHN",
+    "SUBJECT": "PIG",
+    "TIME": 2020,
+    "KGPERCAP": 22.718
+  },
+  {
+    "LOCATION": "CHN",
+    "SUBJECT": "PIG",
+    "TIME": 2021,
+    "KGPERCAP": 23.679
+  },
+  {
+    "LOCATION": "CHN",
+    "SUBJECT": "PIG",
+    "TIME": 2022,
+    "KGPERCAP": 25.389
+  },
+  {
+    "LOCATION": "CHN",
+    "SUBJECT": "PIG",
+    "TIME": 2023,
+    "KGPERCAP": 26.94
+  },
+  {
+    "LOCATION": "CHN",
+    "SUBJECT": "PIG",
+    "TIME": 2024,
+    "KGPERCAP": 28.499
+  },
+  {
+    "LOCATION": "CHN",
+    "SUBJECT": "PIG",
+    "TIME": 2025,
+    "KGPERCAP": 30.072
+  },
+  {
+    "LOCATION": "CHN",
+    "SUBJECT": "PIG",
+    "TIME": 2026,
+    "KGPERCAP": 30.692
+  },
+  {
+    "LOCATION": "CHN",
+    "SUBJECT": "PIG",
+    "TIME": 2027,
+    "KGPERCAP": 30.807
+  },
+  {
+    "LOCATION": "CHN",
+    "SUBJECT": "PIG",
+    "TIME": 2028,
+    "KGPERCAP": 30.92
+  },
+  {
+    "LOCATION": "CHN",
+    "SUBJECT": "PIG",
+    "TIME": 2029,
+    "KGPERCAP": 31.052
+  },
+  {
+    "LOCATION": "CHN",
+    "SUBJECT": "POULTRY",
+    "TIME": 2018,
+    "KGPERCAP": 12.323
+  },
+  {
+    "LOCATION": "CHN",
+    "SUBJECT": "POULTRY",
+    "TIME": 2019,
+    "KGPERCAP": 14.022
+  },
+  {
+    "LOCATION": "CHN",
+    "SUBJECT": "POULTRY",
+    "TIME": 2020,
+    "KGPERCAP": 14.191
+  },
+  {
+    "LOCATION": "CHN",
+    "SUBJECT": "POULTRY",
+    "TIME": 2021,
+    "KGPERCAP": 13.998
+  },
+  {
+    "LOCATION": "CHN",
+    "SUBJECT": "POULTRY",
+    "TIME": 2022,
+    "KGPERCAP": 13.821
+  },
+  {
+    "LOCATION": "CHN",
+    "SUBJECT": "POULTRY",
+    "TIME": 2023,
+    "KGPERCAP": 13.839
+  },
+  {
+    "LOCATION": "CHN",
+    "SUBJECT": "POULTRY",
+    "TIME": 2024,
+    "KGPERCAP": 13.868
+  },
+  {
+    "LOCATION": "CHN",
+    "SUBJECT": "POULTRY",
+    "TIME": 2025,
+    "KGPERCAP": 13.9
+  },
+  {
+    "LOCATION": "CHN",
+    "SUBJECT": "POULTRY",
+    "TIME": 2026,
+    "KGPERCAP": 13.963
+  },
+  {
+    "LOCATION": "CHN",
+    "SUBJECT": "POULTRY",
+    "TIME": 2027,
+    "KGPERCAP": 14.033
+  },
+  {
+    "LOCATION": "CHN",
+    "SUBJECT": "POULTRY",
+    "TIME": 2028,
+    "KGPERCAP": 14.107
+  },
+  {
+    "LOCATION": "CHN",
+    "SUBJECT": "POULTRY",
+    "TIME": 2029,
+    "KGPERCAP": 14.181
+  },
+  {
+    "LOCATION": "CHN",
+    "SUBJECT": "SHEEP",
+    "TIME": 2018,
+    "KGPERCAP": 3.101
+  },
+  {
+    "LOCATION": "CHN",
+    "SUBJECT": "SHEEP",
+    "TIME": 2019,
+    "KGPERCAP": 3.235
+  },
+  {
+    "LOCATION": "CHN",
+    "SUBJECT": "SHEEP",
+    "TIME": 2020,
+    "KGPERCAP": 3.305
+  },
+  {
+    "LOCATION": "CHN",
+    "SUBJECT": "SHEEP",
+    "TIME": 2021,
+    "KGPERCAP": 3.352
+  },
+  {
+    "LOCATION": "CHN",
+    "SUBJECT": "SHEEP",
+    "TIME": 2022,
+    "KGPERCAP": 3.402
+  },
+  {
+    "LOCATION": "CHN",
+    "SUBJECT": "SHEEP",
+    "TIME": 2023,
+    "KGPERCAP": 3.452
+  },
+  {
+    "LOCATION": "CHN",
+    "SUBJECT": "SHEEP",
+    "TIME": 2024,
+    "KGPERCAP": 3.502
+  },
+  {
+    "LOCATION": "CHN",
+    "SUBJECT": "SHEEP",
+    "TIME": 2025,
+    "KGPERCAP": 3.553
+  },
+  {
+    "LOCATION": "CHN",
+    "SUBJECT": "SHEEP",
+    "TIME": 2026,
+    "KGPERCAP": 3.566
+  },
+  {
+    "LOCATION": "CHN",
+    "SUBJECT": "SHEEP",
+    "TIME": 2027,
+    "KGPERCAP": 3.581
+  },
+  {
+    "LOCATION": "CHN",
+    "SUBJECT": "SHEEP",
+    "TIME": 2028,
+    "KGPERCAP": 3.598
+  },
+  {
+    "LOCATION": "CHN",
+    "SUBJECT": "SHEEP",
+    "TIME": 2029,
+    "KGPERCAP": 3.615
+  },
+  {
+    "LOCATION": "COL",
+    "SUBJECT": "BEEF",
+    "TIME": 2018,
+    "KGPERCAP": 10.624
+  },
+  {
+    "LOCATION": "COL",
+    "SUBJECT": "BEEF",
+    "TIME": 2019,
+    "KGPERCAP": 8.53
+  },
+  {
+    "LOCATION": "COL",
+    "SUBJECT": "BEEF",
+    "TIME": 2020,
+    "KGPERCAP": 8.62
+  },
+  {
+    "LOCATION": "COL",
+    "SUBJECT": "BEEF",
+    "TIME": 2021,
+    "KGPERCAP": 8.717
+  },
+  {
+    "LOCATION": "COL",
+    "SUBJECT": "BEEF",
+    "TIME": 2022,
+    "KGPERCAP": 8.81
+  },
+  {
+    "LOCATION": "COL",
+    "SUBJECT": "BEEF",
+    "TIME": 2023,
+    "KGPERCAP": 8.906
+  },
+  {
+    "LOCATION": "COL",
+    "SUBJECT": "BEEF",
+    "TIME": 2024,
+    "KGPERCAP": 9.003
+  },
+  {
+    "LOCATION": "COL",
+    "SUBJECT": "BEEF",
+    "TIME": 2025,
+    "KGPERCAP": 9.103
+  },
+  {
+    "LOCATION": "COL",
+    "SUBJECT": "BEEF",
+    "TIME": 2026,
+    "KGPERCAP": 9.203
+  },
+  {
+    "LOCATION": "COL",
+    "SUBJECT": "BEEF",
+    "TIME": 2027,
+    "KGPERCAP": 9.303
+  },
+  {
+    "LOCATION": "COL",
+    "SUBJECT": "BEEF",
+    "TIME": 2028,
+    "KGPERCAP": 9.406
+  },
+  {
+    "LOCATION": "COL",
+    "SUBJECT": "BEEF",
+    "TIME": 2029,
+    "KGPERCAP": 9.51
+  },
+  {
+    "LOCATION": "COL",
+    "SUBJECT": "PIG",
+    "TIME": 2018,
+    "KGPERCAP": 8.072
+  },
+  {
+    "LOCATION": "COL",
+    "SUBJECT": "PIG",
+    "TIME": 2019,
+    "KGPERCAP": 8.98
+  },
+  {
+    "LOCATION": "COL",
+    "SUBJECT": "PIG",
+    "TIME": 2020,
+    "KGPERCAP": 8.994
+  },
+  {
+    "LOCATION": "COL",
+    "SUBJECT": "PIG",
+    "TIME": 2021,
+    "KGPERCAP": 9.198
+  },
+  {
+    "LOCATION": "COL",
+    "SUBJECT": "PIG",
+    "TIME": 2022,
+    "KGPERCAP": 9.345
+  },
+  {
+    "LOCATION": "COL",
+    "SUBJECT": "PIG",
+    "TIME": 2023,
+    "KGPERCAP": 9.508
+  },
+  {
+    "LOCATION": "COL",
+    "SUBJECT": "PIG",
+    "TIME": 2024,
+    "KGPERCAP": 9.688
+  },
+  {
+    "LOCATION": "COL",
+    "SUBJECT": "PIG",
+    "TIME": 2025,
+    "KGPERCAP": 9.871
+  },
+  {
+    "LOCATION": "COL",
+    "SUBJECT": "PIG",
+    "TIME": 2026,
+    "KGPERCAP": 10.071
+  },
+  {
+    "LOCATION": "COL",
+    "SUBJECT": "PIG",
+    "TIME": 2027,
+    "KGPERCAP": 10.232
+  },
+  {
+    "LOCATION": "COL",
+    "SUBJECT": "PIG",
+    "TIME": 2028,
+    "KGPERCAP": 10.408
+  },
+  {
+    "LOCATION": "COL",
+    "SUBJECT": "PIG",
+    "TIME": 2029,
+    "KGPERCAP": 10.594
+  },
+  {
+    "LOCATION": "COL",
+    "SUBJECT": "POULTRY",
+    "TIME": 2018,
+    "KGPERCAP": 30.669
+  },
+  {
+    "LOCATION": "COL",
+    "SUBJECT": "POULTRY",
+    "TIME": 2019,
+    "KGPERCAP": 31.281
+  },
+  {
+    "LOCATION": "COL",
+    "SUBJECT": "POULTRY",
+    "TIME": 2020,
+    "KGPERCAP": 31.704
+  },
+  {
+    "LOCATION": "COL",
+    "SUBJECT": "POULTRY",
+    "TIME": 2021,
+    "KGPERCAP": 32.316
+  },
+  {
+    "LOCATION": "COL",
+    "SUBJECT": "POULTRY",
+    "TIME": 2022,
+    "KGPERCAP": 32.772
+  },
+  {
+    "LOCATION": "COL",
+    "SUBJECT": "POULTRY",
+    "TIME": 2023,
+    "KGPERCAP": 33.325
+  },
+  {
+    "LOCATION": "COL",
+    "SUBJECT": "POULTRY",
+    "TIME": 2024,
+    "KGPERCAP": 33.899
+  },
+  {
+    "LOCATION": "COL",
+    "SUBJECT": "POULTRY",
+    "TIME": 2025,
+    "KGPERCAP": 34.471
+  },
+  {
+    "LOCATION": "COL",
+    "SUBJECT": "POULTRY",
+    "TIME": 2026,
+    "KGPERCAP": 35.119
+  },
+  {
+    "LOCATION": "COL",
+    "SUBJECT": "POULTRY",
+    "TIME": 2027,
+    "KGPERCAP": 35.617
+  },
+  {
+    "LOCATION": "COL",
+    "SUBJECT": "POULTRY",
+    "TIME": 2028,
+    "KGPERCAP": 36.181
+  },
+  {
+    "LOCATION": "COL",
+    "SUBJECT": "POULTRY",
+    "TIME": 2029,
+    "KGPERCAP": 36.764
+  },
+  {
+    "LOCATION": "COL",
+    "SUBJECT": "SHEEP",
+    "TIME": 2018,
+    "KGPERCAP": 0.143
+  },
+  {
+    "LOCATION": "COL",
+    "SUBJECT": "SHEEP",
+    "TIME": 2019,
+    "KGPERCAP": 0.142
+  },
+  {
+    "LOCATION": "COL",
+    "SUBJECT": "SHEEP",
+    "TIME": 2020,
+    "KGPERCAP": 0.142
+  },
+  {
+    "LOCATION": "COL",
+    "SUBJECT": "SHEEP",
+    "TIME": 2021,
+    "KGPERCAP": 0.142
+  },
+  {
+    "LOCATION": "COL",
+    "SUBJECT": "SHEEP",
+    "TIME": 2022,
+    "KGPERCAP": 0.141
+  },
+  {
+    "LOCATION": "COL",
+    "SUBJECT": "SHEEP",
+    "TIME": 2023,
+    "KGPERCAP": 0.14
+  },
+  {
+    "LOCATION": "COL",
+    "SUBJECT": "SHEEP",
+    "TIME": 2024,
+    "KGPERCAP": 0.139
+  },
+  {
+    "LOCATION": "COL",
+    "SUBJECT": "SHEEP",
+    "TIME": 2025,
+    "KGPERCAP": 0.139
+  },
+  {
+    "LOCATION": "COL",
+    "SUBJECT": "SHEEP",
+    "TIME": 2026,
+    "KGPERCAP": 0.138
+  },
+  {
+    "LOCATION": "COL",
+    "SUBJECT": "SHEEP",
+    "TIME": 2027,
+    "KGPERCAP": 0.137
+  },
+  {
+    "LOCATION": "COL",
+    "SUBJECT": "SHEEP",
+    "TIME": 2028,
+    "KGPERCAP": 0.137
+  },
+  {
+    "LOCATION": "COL",
+    "SUBJECT": "SHEEP",
+    "TIME": 2029,
+    "KGPERCAP": 0.136
+  },
+  {
+    "LOCATION": "EGY",
+    "SUBJECT": "BEEF",
+    "TIME": 2018,
+    "KGPERCAP": 7.721
+  },
+  {
+    "LOCATION": "EGY",
+    "SUBJECT": "BEEF",
+    "TIME": 2019,
+    "KGPERCAP": 7.819
+  },
+  {
+    "LOCATION": "EGY",
+    "SUBJECT": "BEEF",
+    "TIME": 2020,
+    "KGPERCAP": 7.8
+  },
+  {
+    "LOCATION": "EGY",
+    "SUBJECT": "BEEF",
+    "TIME": 2021,
+    "KGPERCAP": 7.84
+  },
+  {
+    "LOCATION": "EGY",
+    "SUBJECT": "BEEF",
+    "TIME": 2022,
+    "KGPERCAP": 7.863
+  },
+  {
+    "LOCATION": "EGY",
+    "SUBJECT": "BEEF",
+    "TIME": 2023,
+    "KGPERCAP": 7.887
+  },
+  {
+    "LOCATION": "EGY",
+    "SUBJECT": "BEEF",
+    "TIME": 2024,
+    "KGPERCAP": 7.914
+  },
+  {
+    "LOCATION": "EGY",
+    "SUBJECT": "BEEF",
+    "TIME": 2025,
+    "KGPERCAP": 7.946
+  },
+  {
+    "LOCATION": "EGY",
+    "SUBJECT": "BEEF",
+    "TIME": 2026,
+    "KGPERCAP": 7.965
+  },
+  {
+    "LOCATION": "EGY",
+    "SUBJECT": "BEEF",
+    "TIME": 2027,
+    "KGPERCAP": 7.986
+  },
+  {
+    "LOCATION": "EGY",
+    "SUBJECT": "BEEF",
+    "TIME": 2028,
+    "KGPERCAP": 8.006
+  },
+  {
+    "LOCATION": "EGY",
+    "SUBJECT": "BEEF",
+    "TIME": 2029,
+    "KGPERCAP": 8.027
+  },
+  {
+    "LOCATION": "EGY",
+    "SUBJECT": "PIG",
+    "TIME": 2018,
+    "KGPERCAP": 0.002
+  },
+  {
+    "LOCATION": "EGY",
+    "SUBJECT": "PIG",
+    "TIME": 2019,
+    "KGPERCAP": 0.002
+  },
+  {
+    "LOCATION": "EGY",
+    "SUBJECT": "PIG",
+    "TIME": 2020,
+    "KGPERCAP": 0.002
+  },
+  {
+    "LOCATION": "EGY",
+    "SUBJECT": "PIG",
+    "TIME": 2021,
+    "KGPERCAP": 0.002
+  },
+  {
+    "LOCATION": "EGY",
+    "SUBJECT": "PIG",
+    "TIME": 2022,
+    "KGPERCAP": 0.002
+  },
+  {
+    "LOCATION": "EGY",
+    "SUBJECT": "PIG",
+    "TIME": 2023,
+    "KGPERCAP": 0.002
+  },
+  {
+    "LOCATION": "EGY",
+    "SUBJECT": "PIG",
+    "TIME": 2024,
+    "KGPERCAP": 0.002
+  },
+  {
+    "LOCATION": "EGY",
+    "SUBJECT": "PIG",
+    "TIME": 2025,
+    "KGPERCAP": 0.002
+  },
+  {
+    "LOCATION": "EGY",
+    "SUBJECT": "PIG",
+    "TIME": 2026,
+    "KGPERCAP": 0.002
+  },
+  {
+    "LOCATION": "EGY",
+    "SUBJECT": "PIG",
+    "TIME": 2027,
+    "KGPERCAP": 0.002
+  },
+  {
+    "LOCATION": "EGY",
+    "SUBJECT": "PIG",
+    "TIME": 2028,
+    "KGPERCAP": 0.002
+  },
+  {
+    "LOCATION": "EGY",
+    "SUBJECT": "PIG",
+    "TIME": 2029,
+    "KGPERCAP": 0.002
+  },
+  {
+    "LOCATION": "EGY",
+    "SUBJECT": "POULTRY",
+    "TIME": 2018,
+    "KGPERCAP": 10.812
+  },
+  {
+    "LOCATION": "EGY",
+    "SUBJECT": "POULTRY",
+    "TIME": 2019,
+    "KGPERCAP": 11.108
+  },
+  {
+    "LOCATION": "EGY",
+    "SUBJECT": "POULTRY",
+    "TIME": 2020,
+    "KGPERCAP": 11.243
+  },
+  {
+    "LOCATION": "EGY",
+    "SUBJECT": "POULTRY",
+    "TIME": 2021,
+    "KGPERCAP": 11.39
+  },
+  {
+    "LOCATION": "EGY",
+    "SUBJECT": "POULTRY",
+    "TIME": 2022,
+    "KGPERCAP": 11.542
+  },
+  {
+    "LOCATION": "EGY",
+    "SUBJECT": "POULTRY",
+    "TIME": 2023,
+    "KGPERCAP": 11.7
+  },
+  {
+    "LOCATION": "EGY",
+    "SUBJECT": "POULTRY",
+    "TIME": 2024,
+    "KGPERCAP": 11.866
+  },
+  {
+    "LOCATION": "EGY",
+    "SUBJECT": "POULTRY",
+    "TIME": 2025,
+    "KGPERCAP": 12.036
+  },
+  {
+    "LOCATION": "EGY",
+    "SUBJECT": "POULTRY",
+    "TIME": 2026,
+    "KGPERCAP": 12.214
+  },
+  {
+    "LOCATION": "EGY",
+    "SUBJECT": "POULTRY",
+    "TIME": 2027,
+    "KGPERCAP": 12.398
+  },
+  {
+    "LOCATION": "EGY",
+    "SUBJECT": "POULTRY",
+    "TIME": 2028,
+    "KGPERCAP": 12.588
+  },
+  {
+    "LOCATION": "EGY",
+    "SUBJECT": "POULTRY",
+    "TIME": 2029,
+    "KGPERCAP": 12.781
+  },
+  {
+    "LOCATION": "EGY",
+    "SUBJECT": "SHEEP",
+    "TIME": 2018,
+    "KGPERCAP": 1.107
+  },
+  {
+    "LOCATION": "EGY",
+    "SUBJECT": "SHEEP",
+    "TIME": 2019,
+    "KGPERCAP": 1.096
+  },
+  {
+    "LOCATION": "EGY",
+    "SUBJECT": "SHEEP",
+    "TIME": 2020,
+    "KGPERCAP": 1.093
+  },
+  {
+    "LOCATION": "EGY",
+    "SUBJECT": "SHEEP",
+    "TIME": 2021,
+    "KGPERCAP": 1.089
+  },
+  {
+    "LOCATION": "EGY",
+    "SUBJECT": "SHEEP",
+    "TIME": 2022,
+    "KGPERCAP": 1.085
+  },
+  {
+    "LOCATION": "EGY",
+    "SUBJECT": "SHEEP",
+    "TIME": 2023,
+    "KGPERCAP": 1.082
+  },
+  {
+    "LOCATION": "EGY",
+    "SUBJECT": "SHEEP",
+    "TIME": 2024,
+    "KGPERCAP": 1.078
+  },
+  {
+    "LOCATION": "EGY",
+    "SUBJECT": "SHEEP",
+    "TIME": 2025,
+    "KGPERCAP": 1.075
+  },
+  {
+    "LOCATION": "EGY",
+    "SUBJECT": "SHEEP",
+    "TIME": 2026,
+    "KGPERCAP": 1.071
+  },
+  {
+    "LOCATION": "EGY",
+    "SUBJECT": "SHEEP",
+    "TIME": 2027,
+    "KGPERCAP": 1.067
+  },
+  {
+    "LOCATION": "EGY",
+    "SUBJECT": "SHEEP",
+    "TIME": 2028,
+    "KGPERCAP": 1.064
+  },
+  {
+    "LOCATION": "EGY",
+    "SUBJECT": "SHEEP",
+    "TIME": 2029,
+    "KGPERCAP": 1.06
+  },
+  {
+    "LOCATION": "ETH",
+    "SUBJECT": "BEEF",
+    "TIME": 2018,
+    "KGPERCAP": 2.539
+  },
+  {
+    "LOCATION": "ETH",
+    "SUBJECT": "BEEF",
+    "TIME": 2019,
+    "KGPERCAP": 2.497
+  },
+  {
+    "LOCATION": "ETH",
+    "SUBJECT": "BEEF",
+    "TIME": 2020,
+    "KGPERCAP": 2.486
+  },
+  {
+    "LOCATION": "ETH",
+    "SUBJECT": "BEEF",
+    "TIME": 2021,
+    "KGPERCAP": 2.484
+  },
+  {
+    "LOCATION": "ETH",
+    "SUBJECT": "BEEF",
+    "TIME": 2022,
+    "KGPERCAP": 2.479
+  },
+  {
+    "LOCATION": "ETH",
+    "SUBJECT": "BEEF",
+    "TIME": 2023,
+    "KGPERCAP": 2.473
+  },
+  {
+    "LOCATION": "ETH",
+    "SUBJECT": "BEEF",
+    "TIME": 2024,
+    "KGPERCAP": 2.467
+  },
+  {
+    "LOCATION": "ETH",
+    "SUBJECT": "BEEF",
+    "TIME": 2025,
+    "KGPERCAP": 2.463
+  },
+  {
+    "LOCATION": "ETH",
+    "SUBJECT": "BEEF",
+    "TIME": 2026,
+    "KGPERCAP": 2.457
+  },
+  {
+    "LOCATION": "ETH",
+    "SUBJECT": "BEEF",
+    "TIME": 2027,
+    "KGPERCAP": 2.451
+  },
+  {
+    "LOCATION": "ETH",
+    "SUBJECT": "BEEF",
+    "TIME": 2028,
+    "KGPERCAP": 2.446
+  },
+  {
+    "LOCATION": "ETH",
+    "SUBJECT": "BEEF",
+    "TIME": 2029,
+    "KGPERCAP": 2.441
+  },
+  {
+    "LOCATION": "ETH",
+    "SUBJECT": "PIG",
+    "TIME": 2018,
+    "KGPERCAP": 0.015
+  },
+  {
+    "LOCATION": "ETH",
+    "SUBJECT": "PIG",
+    "TIME": 2019,
+    "KGPERCAP": 0.015
+  },
+  {
+    "LOCATION": "ETH",
+    "SUBJECT": "PIG",
+    "TIME": 2020,
+    "KGPERCAP": 0.014
+  },
+  {
+    "LOCATION": "ETH",
+    "SUBJECT": "PIG",
+    "TIME": 2021,
+    "KGPERCAP": 0.014
+  },
+  {
+    "LOCATION": "ETH",
+    "SUBJECT": "PIG",
+    "TIME": 2022,
+    "KGPERCAP": 0.014
+  },
+  {
+    "LOCATION": "ETH",
+    "SUBJECT": "PIG",
+    "TIME": 2023,
+    "KGPERCAP": 0.014
+  },
+  {
+    "LOCATION": "ETH",
+    "SUBJECT": "PIG",
+    "TIME": 2024,
+    "KGPERCAP": 0.014
+  },
+  {
+    "LOCATION": "ETH",
+    "SUBJECT": "PIG",
+    "TIME": 2025,
+    "KGPERCAP": 0.014
+  },
+  {
+    "LOCATION": "ETH",
+    "SUBJECT": "PIG",
+    "TIME": 2026,
+    "KGPERCAP": 0.013
+  },
+  {
+    "LOCATION": "ETH",
+    "SUBJECT": "PIG",
+    "TIME": 2027,
+    "KGPERCAP": 0.013
+  },
+  {
+    "LOCATION": "ETH",
+    "SUBJECT": "PIG",
+    "TIME": 2028,
+    "KGPERCAP": 0.013
+  },
+  {
+    "LOCATION": "ETH",
+    "SUBJECT": "PIG",
+    "TIME": 2029,
+    "KGPERCAP": 0.013
+  },
+  {
+    "LOCATION": "ETH",
+    "SUBJECT": "POULTRY",
+    "TIME": 2018,
+    "KGPERCAP": 0.115
+  },
+  {
+    "LOCATION": "ETH",
+    "SUBJECT": "POULTRY",
+    "TIME": 2019,
+    "KGPERCAP": 0.112
+  },
+  {
+    "LOCATION": "ETH",
+    "SUBJECT": "POULTRY",
+    "TIME": 2020,
+    "KGPERCAP": 0.113
+  },
+  {
+    "LOCATION": "ETH",
+    "SUBJECT": "POULTRY",
+    "TIME": 2021,
+    "KGPERCAP": 0.112
+  },
+  {
+    "LOCATION": "ETH",
+    "SUBJECT": "POULTRY",
+    "TIME": 2022,
+    "KGPERCAP": 0.111
+  },
+  {
+    "LOCATION": "ETH",
+    "SUBJECT": "POULTRY",
+    "TIME": 2023,
+    "KGPERCAP": 0.11
+  },
+  {
+    "LOCATION": "ETH",
+    "SUBJECT": "POULTRY",
+    "TIME": 2024,
+    "KGPERCAP": 0.109
+  },
+  {
+    "LOCATION": "ETH",
+    "SUBJECT": "POULTRY",
+    "TIME": 2025,
+    "KGPERCAP": 0.108
+  },
+  {
+    "LOCATION": "ETH",
+    "SUBJECT": "POULTRY",
+    "TIME": 2026,
+    "KGPERCAP": 0.108
+  },
+  {
+    "LOCATION": "ETH",
+    "SUBJECT": "POULTRY",
+    "TIME": 2027,
+    "KGPERCAP": 0.109
+  },
+  {
+    "LOCATION": "ETH",
+    "SUBJECT": "POULTRY",
+    "TIME": 2028,
+    "KGPERCAP": 0.109
+  },
+  {
+    "LOCATION": "ETH",
+    "SUBJECT": "POULTRY",
+    "TIME": 2029,
+    "KGPERCAP": 0.11
+  },
+  {
+    "LOCATION": "ETH",
+    "SUBJECT": "SHEEP",
+    "TIME": 2018,
+    "KGPERCAP": 0.459
+  },
+  {
+    "LOCATION": "ETH",
+    "SUBJECT": "SHEEP",
+    "TIME": 2019,
+    "KGPERCAP": 0.47
+  },
+  {
+    "LOCATION": "ETH",
+    "SUBJECT": "SHEEP",
+    "TIME": 2020,
+    "KGPERCAP": 0.469
+  },
+  {
+    "LOCATION": "ETH",
+    "SUBJECT": "SHEEP",
+    "TIME": 2021,
+    "KGPERCAP": 0.467
+  },
+  {
+    "LOCATION": "ETH",
+    "SUBJECT": "SHEEP",
+    "TIME": 2022,
+    "KGPERCAP": 0.466
+  },
+  {
+    "LOCATION": "ETH",
+    "SUBJECT": "SHEEP",
+    "TIME": 2023,
+    "KGPERCAP": 0.465
+  },
+  {
+    "LOCATION": "ETH",
+    "SUBJECT": "SHEEP",
+    "TIME": 2024,
+    "KGPERCAP": 0.463
+  },
+  {
+    "LOCATION": "ETH",
+    "SUBJECT": "SHEEP",
+    "TIME": 2025,
+    "KGPERCAP": 0.461
+  },
+  {
+    "LOCATION": "ETH",
+    "SUBJECT": "SHEEP",
+    "TIME": 2026,
+    "KGPERCAP": 0.46
+  },
+  {
+    "LOCATION": "ETH",
+    "SUBJECT": "SHEEP",
+    "TIME": 2027,
+    "KGPERCAP": 0.458
+  },
+  {
+    "LOCATION": "ETH",
+    "SUBJECT": "SHEEP",
+    "TIME": 2028,
+    "KGPERCAP": 0.457
+  },
+  {
+    "LOCATION": "ETH",
+    "SUBJECT": "SHEEP",
+    "TIME": 2029,
+    "KGPERCAP": 0.456
+  },
+  {
+    "LOCATION": "IND",
+    "SUBJECT": "BEEF",
+    "TIME": 2018,
+    "KGPERCAP": 0.563
+  },
+  {
+    "LOCATION": "IND",
+    "SUBJECT": "BEEF",
+    "TIME": 2019,
+    "KGPERCAP": 0.532
+  },
+  {
+    "LOCATION": "IND",
+    "SUBJECT": "BEEF",
+    "TIME": 2020,
+    "KGPERCAP": 0.532
+  },
+  {
+    "LOCATION": "IND",
+    "SUBJECT": "BEEF",
+    "TIME": 2021,
+    "KGPERCAP": 0.536
+  },
+  {
+    "LOCATION": "IND",
+    "SUBJECT": "BEEF",
+    "TIME": 2022,
+    "KGPERCAP": 0.538
+  },
+  {
+    "LOCATION": "IND",
+    "SUBJECT": "BEEF",
+    "TIME": 2023,
+    "KGPERCAP": 0.541
+  },
+  {
+    "LOCATION": "IND",
+    "SUBJECT": "BEEF",
+    "TIME": 2024,
+    "KGPERCAP": 0.542
+  },
+  {
+    "LOCATION": "IND",
+    "SUBJECT": "BEEF",
+    "TIME": 2025,
+    "KGPERCAP": 0.546
+  },
+  {
+    "LOCATION": "IND",
+    "SUBJECT": "BEEF",
+    "TIME": 2026,
+    "KGPERCAP": 0.548
+  },
+  {
+    "LOCATION": "IND",
+    "SUBJECT": "BEEF",
+    "TIME": 2027,
+    "KGPERCAP": 0.55
+  },
+  {
+    "LOCATION": "IND",
+    "SUBJECT": "BEEF",
+    "TIME": 2028,
+    "KGPERCAP": 0.552
+  },
+  {
+    "LOCATION": "IND",
+    "SUBJECT": "BEEF",
+    "TIME": 2029,
+    "KGPERCAP": 0.552
+  },
+  {
+    "LOCATION": "IND",
+    "SUBJECT": "PIG",
+    "TIME": 2018,
+    "KGPERCAP": 0.173
+  },
+  {
+    "LOCATION": "IND",
+    "SUBJECT": "PIG",
+    "TIME": 2019,
+    "KGPERCAP": 0.169
+  },
+  {
+    "LOCATION": "IND",
+    "SUBJECT": "PIG",
+    "TIME": 2020,
+    "KGPERCAP": 0.168
+  },
+  {
+    "LOCATION": "IND",
+    "SUBJECT": "PIG",
+    "TIME": 2021,
+    "KGPERCAP": 0.165
+  },
+  {
+    "LOCATION": "IND",
+    "SUBJECT": "PIG",
+    "TIME": 2022,
+    "KGPERCAP": 0.163
+  },
+  {
+    "LOCATION": "IND",
+    "SUBJECT": "PIG",
+    "TIME": 2023,
+    "KGPERCAP": 0.16
+  },
+  {
+    "LOCATION": "IND",
+    "SUBJECT": "PIG",
+    "TIME": 2024,
+    "KGPERCAP": 0.157
+  },
+  {
+    "LOCATION": "IND",
+    "SUBJECT": "PIG",
+    "TIME": 2025,
+    "KGPERCAP": 0.155
+  },
+  {
+    "LOCATION": "IND",
+    "SUBJECT": "PIG",
+    "TIME": 2026,
+    "KGPERCAP": 0.152
+  },
+  {
+    "LOCATION": "IND",
+    "SUBJECT": "PIG",
+    "TIME": 2027,
+    "KGPERCAP": 0.149
+  },
+  {
+    "LOCATION": "IND",
+    "SUBJECT": "PIG",
+    "TIME": 2028,
+    "KGPERCAP": 0.145
+  },
+  {
+    "LOCATION": "IND",
+    "SUBJECT": "PIG",
+    "TIME": 2029,
+    "KGPERCAP": 0.142
+  },
+  {
+    "LOCATION": "IND",
+    "SUBJECT": "POULTRY",
+    "TIME": 2018,
+    "KGPERCAP": 2.405
+  },
+  {
+    "LOCATION": "IND",
+    "SUBJECT": "POULTRY",
+    "TIME": 2019,
+    "KGPERCAP": 2.403
+  },
+  {
+    "LOCATION": "IND",
+    "SUBJECT": "POULTRY",
+    "TIME": 2020,
+    "KGPERCAP": 2.517
+  },
+  {
+    "LOCATION": "IND",
+    "SUBJECT": "POULTRY",
+    "TIME": 2021,
+    "KGPERCAP": 2.586
+  },
+  {
+    "LOCATION": "IND",
+    "SUBJECT": "POULTRY",
+    "TIME": 2022,
+    "KGPERCAP": 2.652
+  },
+  {
+    "LOCATION": "IND",
+    "SUBJECT": "POULTRY",
+    "TIME": 2023,
+    "KGPERCAP": 2.721
+  },
+  {
+    "LOCATION": "IND",
+    "SUBJECT": "POULTRY",
+    "TIME": 2024,
+    "KGPERCAP": 2.786
+  },
+  {
+    "LOCATION": "IND",
+    "SUBJECT": "POULTRY",
+    "TIME": 2025,
+    "KGPERCAP": 2.859
+  },
+  {
+    "LOCATION": "IND",
+    "SUBJECT": "POULTRY",
+    "TIME": 2026,
+    "KGPERCAP": 2.934
+  },
+  {
+    "LOCATION": "IND",
+    "SUBJECT": "POULTRY",
+    "TIME": 2027,
+    "KGPERCAP": 3.009
+  },
+  {
+    "LOCATION": "IND",
+    "SUBJECT": "POULTRY",
+    "TIME": 2028,
+    "KGPERCAP": 3.086
+  },
+  {
+    "LOCATION": "IND",
+    "SUBJECT": "POULTRY",
+    "TIME": 2029,
+    "KGPERCAP": 3.162
+  },
+  {
+    "LOCATION": "IND",
+    "SUBJECT": "SHEEP",
+    "TIME": 2018,
+    "KGPERCAP": 0.464
+  },
+  {
+    "LOCATION": "IND",
+    "SUBJECT": "SHEEP",
+    "TIME": 2019,
+    "KGPERCAP": 0.458
+  },
+  {
+    "LOCATION": "IND",
+    "SUBJECT": "SHEEP",
+    "TIME": 2020,
+    "KGPERCAP": 0.458
+  },
+  {
+    "LOCATION": "IND",
+    "SUBJECT": "SHEEP",
+    "TIME": 2021,
+    "KGPERCAP": 0.459
+  },
+  {
+    "LOCATION": "IND",
+    "SUBJECT": "SHEEP",
+    "TIME": 2022,
+    "KGPERCAP": 0.459
+  },
+  {
+    "LOCATION": "IND",
+    "SUBJECT": "SHEEP",
+    "TIME": 2023,
+    "KGPERCAP": 0.459
+  },
+  {
+    "LOCATION": "IND",
+    "SUBJECT": "SHEEP",
+    "TIME": 2024,
+    "KGPERCAP": 0.459
+  },
+  {
+    "LOCATION": "IND",
+    "SUBJECT": "SHEEP",
+    "TIME": 2025,
+    "KGPERCAP": 0.46
+  },
+  {
+    "LOCATION": "IND",
+    "SUBJECT": "SHEEP",
+    "TIME": 2026,
+    "KGPERCAP": 0.46
+  },
+  {
+    "LOCATION": "IND",
+    "SUBJECT": "SHEEP",
+    "TIME": 2027,
+    "KGPERCAP": 0.461
+  },
+  {
+    "LOCATION": "IND",
+    "SUBJECT": "SHEEP",
+    "TIME": 2028,
+    "KGPERCAP": 0.462
+  },
+  {
+    "LOCATION": "IND",
+    "SUBJECT": "SHEEP",
+    "TIME": 2029,
+    "KGPERCAP": 0.462
+  },
+  {
+    "LOCATION": "IDN",
+    "SUBJECT": "BEEF",
+    "TIME": 2018,
+    "KGPERCAP": 2.034
+  },
+  {
+    "LOCATION": "IDN",
+    "SUBJECT": "BEEF",
+    "TIME": 2019,
+    "KGPERCAP": 2.159
+  },
+  {
+    "LOCATION": "IDN",
+    "SUBJECT": "BEEF",
+    "TIME": 2020,
+    "KGPERCAP": 2.178
+  },
+  {
+    "LOCATION": "IDN",
+    "SUBJECT": "BEEF",
+    "TIME": 2021,
+    "KGPERCAP": 2.203
+  },
+  {
+    "LOCATION": "IDN",
+    "SUBJECT": "BEEF",
+    "TIME": 2022,
+    "KGPERCAP": 2.226
+  },
+  {
+    "LOCATION": "IDN",
+    "SUBJECT": "BEEF",
+    "TIME": 2023,
+    "KGPERCAP": 2.25
+  },
+  {
+    "LOCATION": "IDN",
+    "SUBJECT": "BEEF",
+    "TIME": 2024,
+    "KGPERCAP": 2.274
+  },
+  {
+    "LOCATION": "IDN",
+    "SUBJECT": "BEEF",
+    "TIME": 2025,
+    "KGPERCAP": 2.301
+  },
+  {
+    "LOCATION": "IDN",
+    "SUBJECT": "BEEF",
+    "TIME": 2026,
+    "KGPERCAP": 2.327
+  },
+  {
+    "LOCATION": "IDN",
+    "SUBJECT": "BEEF",
+    "TIME": 2027,
+    "KGPERCAP": 2.355
+  },
+  {
+    "LOCATION": "IDN",
+    "SUBJECT": "BEEF",
+    "TIME": 2028,
+    "KGPERCAP": 2.384
+  },
+  {
+    "LOCATION": "IDN",
+    "SUBJECT": "BEEF",
+    "TIME": 2029,
+    "KGPERCAP": 2.414
+  },
+  {
+    "LOCATION": "IDN",
+    "SUBJECT": "PIG",
+    "TIME": 2018,
+    "KGPERCAP": 1.019
+  },
+  {
+    "LOCATION": "IDN",
+    "SUBJECT": "PIG",
+    "TIME": 2019,
+    "KGPERCAP": 1.011
+  },
+  {
+    "LOCATION": "IDN",
+    "SUBJECT": "PIG",
+    "TIME": 2020,
+    "KGPERCAP": 1.008
+  },
+  {
+    "LOCATION": "IDN",
+    "SUBJECT": "PIG",
+    "TIME": 2021,
+    "KGPERCAP": 1.021
+  },
+  {
+    "LOCATION": "IDN",
+    "SUBJECT": "PIG",
+    "TIME": 2022,
+    "KGPERCAP": 1.03
+  },
+  {
+    "LOCATION": "IDN",
+    "SUBJECT": "PIG",
+    "TIME": 2023,
+    "KGPERCAP": 1.036
+  },
+  {
+    "LOCATION": "IDN",
+    "SUBJECT": "PIG",
+    "TIME": 2024,
+    "KGPERCAP": 1.043
+  },
+  {
+    "LOCATION": "IDN",
+    "SUBJECT": "PIG",
+    "TIME": 2025,
+    "KGPERCAP": 1.048
+  },
+  {
+    "LOCATION": "IDN",
+    "SUBJECT": "PIG",
+    "TIME": 2026,
+    "KGPERCAP": 1.052
+  },
+  {
+    "LOCATION": "IDN",
+    "SUBJECT": "PIG",
+    "TIME": 2027,
+    "KGPERCAP": 1.054
+  },
+  {
+    "LOCATION": "IDN",
+    "SUBJECT": "PIG",
+    "TIME": 2028,
+    "KGPERCAP": 1.056
+  },
+  {
+    "LOCATION": "IDN",
+    "SUBJECT": "PIG",
+    "TIME": 2029,
+    "KGPERCAP": 1.06
+  },
+  {
+    "LOCATION": "IDN",
+    "SUBJECT": "POULTRY",
+    "TIME": 2018,
+    "KGPERCAP": 7.546
+  },
+  {
+    "LOCATION": "IDN",
+    "SUBJECT": "POULTRY",
+    "TIME": 2019,
+    "KGPERCAP": 7.764
+  },
+  {
+    "LOCATION": "IDN",
+    "SUBJECT": "POULTRY",
+    "TIME": 2020,
+    "KGPERCAP": 7.903
+  },
+  {
+    "LOCATION": "IDN",
+    "SUBJECT": "POULTRY",
+    "TIME": 2021,
+    "KGPERCAP": 8.052
+  },
+  {
+    "LOCATION": "IDN",
+    "SUBJECT": "POULTRY",
+    "TIME": 2022,
+    "KGPERCAP": 8.214
+  },
+  {
+    "LOCATION": "IDN",
+    "SUBJECT": "POULTRY",
+    "TIME": 2023,
+    "KGPERCAP": 8.375
+  },
+  {
+    "LOCATION": "IDN",
+    "SUBJECT": "POULTRY",
+    "TIME": 2024,
+    "KGPERCAP": 8.543
+  },
+  {
+    "LOCATION": "IDN",
+    "SUBJECT": "POULTRY",
+    "TIME": 2025,
+    "KGPERCAP": 8.702
+  },
+  {
+    "LOCATION": "IDN",
+    "SUBJECT": "POULTRY",
+    "TIME": 2026,
+    "KGPERCAP": 8.862
+  },
+  {
+    "LOCATION": "IDN",
+    "SUBJECT": "POULTRY",
+    "TIME": 2027,
+    "KGPERCAP": 9.005
+  },
+  {
+    "LOCATION": "IDN",
+    "SUBJECT": "POULTRY",
+    "TIME": 2028,
+    "KGPERCAP": 9.159
+  },
+  {
+    "LOCATION": "IDN",
+    "SUBJECT": "POULTRY",
+    "TIME": 2029,
+    "KGPERCAP": 9.317
+  },
+  {
+    "LOCATION": "IDN",
+    "SUBJECT": "SHEEP",
+    "TIME": 2018,
+    "KGPERCAP": 0.429
+  },
+  {
+    "LOCATION": "IDN",
+    "SUBJECT": "SHEEP",
+    "TIME": 2019,
+    "KGPERCAP": 0.432
+  },
+  {
+    "LOCATION": "IDN",
+    "SUBJECT": "SHEEP",
+    "TIME": 2020,
+    "KGPERCAP": 0.429
+  },
+  {
+    "LOCATION": "IDN",
+    "SUBJECT": "SHEEP",
+    "TIME": 2021,
+    "KGPERCAP": 0.429
+  },
+  {
+    "LOCATION": "IDN",
+    "SUBJECT": "SHEEP",
+    "TIME": 2022,
+    "KGPERCAP": 0.431
+  },
+  {
+    "LOCATION": "IDN",
+    "SUBJECT": "SHEEP",
+    "TIME": 2023,
+    "KGPERCAP": 0.434
+  },
+  {
+    "LOCATION": "IDN",
+    "SUBJECT": "SHEEP",
+    "TIME": 2024,
+    "KGPERCAP": 0.436
+  },
+  {
+    "LOCATION": "IDN",
+    "SUBJECT": "SHEEP",
+    "TIME": 2025,
+    "KGPERCAP": 0.438
+  },
+  {
+    "LOCATION": "IDN",
+    "SUBJECT": "SHEEP",
+    "TIME": 2026,
+    "KGPERCAP": 0.44
+  },
+  {
+    "LOCATION": "IDN",
+    "SUBJECT": "SHEEP",
+    "TIME": 2027,
+    "KGPERCAP": 0.442
+  },
+  {
+    "LOCATION": "IDN",
+    "SUBJECT": "SHEEP",
+    "TIME": 2028,
+    "KGPERCAP": 0.443
+  },
+  {
+    "LOCATION": "IDN",
+    "SUBJECT": "SHEEP",
+    "TIME": 2029,
+    "KGPERCAP": 0.444
+  },
+  {
+    "LOCATION": "IRN",
+    "SUBJECT": "BEEF",
+    "TIME": 2018,
+    "KGPERCAP": 5.65
+  },
+  {
+    "LOCATION": "IRN",
+    "SUBJECT": "BEEF",
+    "TIME": 2019,
+    "KGPERCAP": 5.711
+  },
+  {
+    "LOCATION": "IRN",
+    "SUBJECT": "BEEF",
+    "TIME": 2020,
+    "KGPERCAP": 5.77
+  },
+  {
+    "LOCATION": "IRN",
+    "SUBJECT": "BEEF",
+    "TIME": 2021,
+    "KGPERCAP": 5.852
+  },
+  {
+    "LOCATION": "IRN",
+    "SUBJECT": "BEEF",
+    "TIME": 2022,
+    "KGPERCAP": 5.926
+  },
+  {
+    "LOCATION": "IRN",
+    "SUBJECT": "BEEF",
+    "TIME": 2023,
+    "KGPERCAP": 6
+  },
+  {
+    "LOCATION": "IRN",
+    "SUBJECT": "BEEF",
+    "TIME": 2024,
+    "KGPERCAP": 6.075
+  },
+  {
+    "LOCATION": "IRN",
+    "SUBJECT": "BEEF",
+    "TIME": 2025,
+    "KGPERCAP": 6.152
+  },
+  {
+    "LOCATION": "IRN",
+    "SUBJECT": "BEEF",
+    "TIME": 2026,
+    "KGPERCAP": 6.223
+  },
+  {
+    "LOCATION": "IRN",
+    "SUBJECT": "BEEF",
+    "TIME": 2027,
+    "KGPERCAP": 6.295
+  },
+  {
+    "LOCATION": "IRN",
+    "SUBJECT": "BEEF",
+    "TIME": 2028,
+    "KGPERCAP": 6.366
+  },
+  {
+    "LOCATION": "IRN",
+    "SUBJECT": "BEEF",
+    "TIME": 2029,
+    "KGPERCAP": 6.439
+  },
+  {
+    "LOCATION": "IRN",
+    "SUBJECT": "PIG",
+    "TIME": 2018,
+    "KGPERCAP": 0
+  },
+  {
+    "LOCATION": "IRN",
+    "SUBJECT": "PIG",
+    "TIME": 2019,
+    "KGPERCAP": 0
+  },
+  {
+    "LOCATION": "IRN",
+    "SUBJECT": "PIG",
+    "TIME": 2020,
+    "KGPERCAP": 0
+  },
+  {
+    "LOCATION": "IRN",
+    "SUBJECT": "PIG",
+    "TIME": 2021,
+    "KGPERCAP": 0
+  },
+  {
+    "LOCATION": "IRN",
+    "SUBJECT": "PIG",
+    "TIME": 2022,
+    "KGPERCAP": 0
+  },
+  {
+    "LOCATION": "IRN",
+    "SUBJECT": "PIG",
+    "TIME": 2023,
+    "KGPERCAP": 0
+  },
+  {
+    "LOCATION": "IRN",
+    "SUBJECT": "PIG",
+    "TIME": 2024,
+    "KGPERCAP": 0
+  },
+  {
+    "LOCATION": "IRN",
+    "SUBJECT": "PIG",
+    "TIME": 2025,
+    "KGPERCAP": 0
+  },
+  {
+    "LOCATION": "IRN",
+    "SUBJECT": "PIG",
+    "TIME": 2026,
+    "KGPERCAP": 0
+  },
+  {
+    "LOCATION": "IRN",
+    "SUBJECT": "PIG",
+    "TIME": 2027,
+    "KGPERCAP": 0
+  },
+  {
+    "LOCATION": "IRN",
+    "SUBJECT": "PIG",
+    "TIME": 2028,
+    "KGPERCAP": 0
+  },
+  {
+    "LOCATION": "IRN",
+    "SUBJECT": "PIG",
+    "TIME": 2029,
+    "KGPERCAP": 0
+  },
+  {
+    "LOCATION": "IRN",
+    "SUBJECT": "POULTRY",
+    "TIME": 2018,
+    "KGPERCAP": 23.009
+  },
+  {
+    "LOCATION": "IRN",
+    "SUBJECT": "POULTRY",
+    "TIME": 2019,
+    "KGPERCAP": 23.226
+  },
+  {
+    "LOCATION": "IRN",
+    "SUBJECT": "POULTRY",
+    "TIME": 2020,
+    "KGPERCAP": 23.474
+  },
+  {
+    "LOCATION": "IRN",
+    "SUBJECT": "POULTRY",
+    "TIME": 2021,
+    "KGPERCAP": 23.67
+  },
+  {
+    "LOCATION": "IRN",
+    "SUBJECT": "POULTRY",
+    "TIME": 2022,
+    "KGPERCAP": 23.873
+  },
+  {
+    "LOCATION": "IRN",
+    "SUBJECT": "POULTRY",
+    "TIME": 2023,
+    "KGPERCAP": 24.084
+  },
+  {
+    "LOCATION": "IRN",
+    "SUBJECT": "POULTRY",
+    "TIME": 2024,
+    "KGPERCAP": 24.307
+  },
+  {
+    "LOCATION": "IRN",
+    "SUBJECT": "POULTRY",
+    "TIME": 2025,
+    "KGPERCAP": 24.537
+  },
+  {
+    "LOCATION": "IRN",
+    "SUBJECT": "POULTRY",
+    "TIME": 2026,
+    "KGPERCAP": 24.776
+  },
+  {
+    "LOCATION": "IRN",
+    "SUBJECT": "POULTRY",
+    "TIME": 2027,
+    "KGPERCAP": 25.025
+  },
+  {
+    "LOCATION": "IRN",
+    "SUBJECT": "POULTRY",
+    "TIME": 2028,
+    "KGPERCAP": 25.281
+  },
+  {
+    "LOCATION": "IRN",
+    "SUBJECT": "POULTRY",
+    "TIME": 2029,
+    "KGPERCAP": 25.542
+  },
+  {
+    "LOCATION": "IRN",
+    "SUBJECT": "SHEEP",
+    "TIME": 2018,
+    "KGPERCAP": 4.218
+  },
+  {
+    "LOCATION": "IRN",
+    "SUBJECT": "SHEEP",
+    "TIME": 2019,
+    "KGPERCAP": 4.22
+  },
+  {
+    "LOCATION": "IRN",
+    "SUBJECT": "SHEEP",
+    "TIME": 2020,
+    "KGPERCAP": 4.184
+  },
+  {
+    "LOCATION": "IRN",
+    "SUBJECT": "SHEEP",
+    "TIME": 2021,
+    "KGPERCAP": 4.152
+  },
+  {
+    "LOCATION": "IRN",
+    "SUBJECT": "SHEEP",
+    "TIME": 2022,
+    "KGPERCAP": 4.122
+  },
+  {
+    "LOCATION": "IRN",
+    "SUBJECT": "SHEEP",
+    "TIME": 2023,
+    "KGPERCAP": 4.094
+  },
+  {
+    "LOCATION": "IRN",
+    "SUBJECT": "SHEEP",
+    "TIME": 2024,
+    "KGPERCAP": 4.067
+  },
+  {
+    "LOCATION": "IRN",
+    "SUBJECT": "SHEEP",
+    "TIME": 2025,
+    "KGPERCAP": 4.042
+  },
+  {
+    "LOCATION": "IRN",
+    "SUBJECT": "SHEEP",
+    "TIME": 2026,
+    "KGPERCAP": 4.019
+  },
+  {
+    "LOCATION": "IRN",
+    "SUBJECT": "SHEEP",
+    "TIME": 2027,
+    "KGPERCAP": 3.999
+  },
+  {
+    "LOCATION": "IRN",
+    "SUBJECT": "SHEEP",
+    "TIME": 2028,
+    "KGPERCAP": 3.981
+  },
+  {
+    "LOCATION": "IRN",
+    "SUBJECT": "SHEEP",
+    "TIME": 2029,
+    "KGPERCAP": 3.965
+  },
+  {
+    "LOCATION": "ISR",
+    "SUBJECT": "BEEF",
+    "TIME": 2018,
+    "KGPERCAP": 22.851
+  },
+  {
+    "LOCATION": "ISR",
+    "SUBJECT": "BEEF",
+    "TIME": 2019,
+    "KGPERCAP": 23.16
+  },
+  {
+    "LOCATION": "ISR",
+    "SUBJECT": "BEEF",
+    "TIME": 2020,
+    "KGPERCAP": 23.214
+  },
+  {
+    "LOCATION": "ISR",
+    "SUBJECT": "BEEF",
+    "TIME": 2021,
+    "KGPERCAP": 23.295
+  },
+  {
+    "LOCATION": "ISR",
+    "SUBJECT": "BEEF",
+    "TIME": 2022,
+    "KGPERCAP": 23.378
+  },
+  {
+    "LOCATION": "ISR",
+    "SUBJECT": "BEEF",
+    "TIME": 2023,
+    "KGPERCAP": 23.467
+  },
+  {
+    "LOCATION": "ISR",
+    "SUBJECT": "BEEF",
+    "TIME": 2024,
+    "KGPERCAP": 23.563
+  },
+  {
+    "LOCATION": "ISR",
+    "SUBJECT": "BEEF",
+    "TIME": 2025,
+    "KGPERCAP": 23.665
+  },
+  {
+    "LOCATION": "ISR",
+    "SUBJECT": "BEEF",
+    "TIME": 2026,
+    "KGPERCAP": 23.768
+  },
+  {
+    "LOCATION": "ISR",
+    "SUBJECT": "BEEF",
+    "TIME": 2027,
+    "KGPERCAP": 23.876
+  },
+  {
+    "LOCATION": "ISR",
+    "SUBJECT": "BEEF",
+    "TIME": 2028,
+    "KGPERCAP": 23.988
+  },
+  {
+    "LOCATION": "ISR",
+    "SUBJECT": "BEEF",
+    "TIME": 2029,
+    "KGPERCAP": 24.105
+  },
+  {
+    "LOCATION": "ISR",
+    "SUBJECT": "PIG",
+    "TIME": 2018,
+    "KGPERCAP": 1.351
+  },
+  {
+    "LOCATION": "ISR",
+    "SUBJECT": "PIG",
+    "TIME": 2019,
+    "KGPERCAP": 1.331
+  },
+  {
+    "LOCATION": "ISR",
+    "SUBJECT": "PIG",
+    "TIME": 2020,
+    "KGPERCAP": 1.311
+  },
+  {
+    "LOCATION": "ISR",
+    "SUBJECT": "PIG",
+    "TIME": 2021,
+    "KGPERCAP": 1.292
+  },
+  {
+    "LOCATION": "ISR",
+    "SUBJECT": "PIG",
+    "TIME": 2022,
+    "KGPERCAP": 1.274
+  },
+  {
+    "LOCATION": "ISR",
+    "SUBJECT": "PIG",
+    "TIME": 2023,
+    "KGPERCAP": 1.256
+  },
+  {
+    "LOCATION": "ISR",
+    "SUBJECT": "PIG",
+    "TIME": 2024,
+    "KGPERCAP": 1.239
+  },
+  {
+    "LOCATION": "ISR",
+    "SUBJECT": "PIG",
+    "TIME": 2025,
+    "KGPERCAP": 1.222
+  },
+  {
+    "LOCATION": "ISR",
+    "SUBJECT": "PIG",
+    "TIME": 2026,
+    "KGPERCAP": 1.206
+  },
+  {
+    "LOCATION": "ISR",
+    "SUBJECT": "PIG",
+    "TIME": 2027,
+    "KGPERCAP": 1.19
+  },
+  {
+    "LOCATION": "ISR",
+    "SUBJECT": "PIG",
+    "TIME": 2028,
+    "KGPERCAP": 1.174
+  },
+  {
+    "LOCATION": "ISR",
+    "SUBJECT": "PIG",
+    "TIME": 2029,
+    "KGPERCAP": 1.159
+  },
+  {
+    "LOCATION": "ISR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2018,
+    "KGPERCAP": 64.771
+  },
+  {
+    "LOCATION": "ISR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2019,
+    "KGPERCAP": 63.981
+  },
+  {
+    "LOCATION": "ISR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2020,
+    "KGPERCAP": 64.436
+  },
+  {
+    "LOCATION": "ISR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2021,
+    "KGPERCAP": 64.913
+  },
+  {
+    "LOCATION": "ISR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2022,
+    "KGPERCAP": 65.384
+  },
+  {
+    "LOCATION": "ISR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2023,
+    "KGPERCAP": 65.868
+  },
+  {
+    "LOCATION": "ISR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2024,
+    "KGPERCAP": 66.345
+  },
+  {
+    "LOCATION": "ISR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2025,
+    "KGPERCAP": 66.821
+  },
+  {
+    "LOCATION": "ISR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2026,
+    "KGPERCAP": 67.3
+  },
+  {
+    "LOCATION": "ISR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2027,
+    "KGPERCAP": 67.78
+  },
+  {
+    "LOCATION": "ISR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2028,
+    "KGPERCAP": 68.263
+  },
+  {
+    "LOCATION": "ISR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2029,
+    "KGPERCAP": 68.748
+  },
+  {
+    "LOCATION": "ISR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2018,
+    "KGPERCAP": 1.527
+  },
+  {
+    "LOCATION": "ISR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2019,
+    "KGPERCAP": 1.517
+  },
+  {
+    "LOCATION": "ISR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2020,
+    "KGPERCAP": 1.525
+  },
+  {
+    "LOCATION": "ISR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2021,
+    "KGPERCAP": 1.533
+  },
+  {
+    "LOCATION": "ISR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2022,
+    "KGPERCAP": 1.541
+  },
+  {
+    "LOCATION": "ISR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2023,
+    "KGPERCAP": 1.548
+  },
+  {
+    "LOCATION": "ISR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2024,
+    "KGPERCAP": 1.556
+  },
+  {
+    "LOCATION": "ISR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2025,
+    "KGPERCAP": 1.564
+  },
+  {
+    "LOCATION": "ISR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2026,
+    "KGPERCAP": 1.572
+  },
+  {
+    "LOCATION": "ISR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2027,
+    "KGPERCAP": 1.579
+  },
+  {
+    "LOCATION": "ISR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2028,
+    "KGPERCAP": 1.587
+  },
+  {
+    "LOCATION": "ISR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2029,
+    "KGPERCAP": 1.595
+  },
+  {
+    "LOCATION": "KAZ",
+    "SUBJECT": "BEEF",
+    "TIME": 2018,
+    "KGPERCAP": 19.779
+  },
+  {
+    "LOCATION": "KAZ",
+    "SUBJECT": "BEEF",
+    "TIME": 2019,
+    "KGPERCAP": 19.698
+  },
+  {
+    "LOCATION": "KAZ",
+    "SUBJECT": "BEEF",
+    "TIME": 2020,
+    "KGPERCAP": 19.828
+  },
+  {
+    "LOCATION": "KAZ",
+    "SUBJECT": "BEEF",
+    "TIME": 2021,
+    "KGPERCAP": 19.932
+  },
+  {
+    "LOCATION": "KAZ",
+    "SUBJECT": "BEEF",
+    "TIME": 2022,
+    "KGPERCAP": 20.073
+  },
+  {
+    "LOCATION": "KAZ",
+    "SUBJECT": "BEEF",
+    "TIME": 2023,
+    "KGPERCAP": 20.284
+  },
+  {
+    "LOCATION": "KAZ",
+    "SUBJECT": "BEEF",
+    "TIME": 2024,
+    "KGPERCAP": 20.397
+  },
+  {
+    "LOCATION": "KAZ",
+    "SUBJECT": "BEEF",
+    "TIME": 2025,
+    "KGPERCAP": 20.506
+  },
+  {
+    "LOCATION": "KAZ",
+    "SUBJECT": "BEEF",
+    "TIME": 2026,
+    "KGPERCAP": 20.602
+  },
+  {
+    "LOCATION": "KAZ",
+    "SUBJECT": "BEEF",
+    "TIME": 2027,
+    "KGPERCAP": 20.698
+  },
+  {
+    "LOCATION": "KAZ",
+    "SUBJECT": "BEEF",
+    "TIME": 2028,
+    "KGPERCAP": 20.795
+  },
+  {
+    "LOCATION": "KAZ",
+    "SUBJECT": "BEEF",
+    "TIME": 2029,
+    "KGPERCAP": 20.891
+  },
+  {
+    "LOCATION": "KAZ",
+    "SUBJECT": "PIG",
+    "TIME": 2018,
+    "KGPERCAP": 4.809
+  },
+  {
+    "LOCATION": "KAZ",
+    "SUBJECT": "PIG",
+    "TIME": 2019,
+    "KGPERCAP": 4.703
+  },
+  {
+    "LOCATION": "KAZ",
+    "SUBJECT": "PIG",
+    "TIME": 2020,
+    "KGPERCAP": 4.664
+  },
+  {
+    "LOCATION": "KAZ",
+    "SUBJECT": "PIG",
+    "TIME": 2021,
+    "KGPERCAP": 4.65
+  },
+  {
+    "LOCATION": "KAZ",
+    "SUBJECT": "PIG",
+    "TIME": 2022,
+    "KGPERCAP": 4.624
+  },
+  {
+    "LOCATION": "KAZ",
+    "SUBJECT": "PIG",
+    "TIME": 2023,
+    "KGPERCAP": 4.599
+  },
+  {
+    "LOCATION": "KAZ",
+    "SUBJECT": "PIG",
+    "TIME": 2024,
+    "KGPERCAP": 4.578
+  },
+  {
+    "LOCATION": "KAZ",
+    "SUBJECT": "PIG",
+    "TIME": 2025,
+    "KGPERCAP": 4.559
+  },
+  {
+    "LOCATION": "KAZ",
+    "SUBJECT": "PIG",
+    "TIME": 2026,
+    "KGPERCAP": 4.542
+  },
+  {
+    "LOCATION": "KAZ",
+    "SUBJECT": "PIG",
+    "TIME": 2027,
+    "KGPERCAP": 4.527
+  },
+  {
+    "LOCATION": "KAZ",
+    "SUBJECT": "PIG",
+    "TIME": 2028,
+    "KGPERCAP": 4.512
+  },
+  {
+    "LOCATION": "KAZ",
+    "SUBJECT": "PIG",
+    "TIME": 2029,
+    "KGPERCAP": 4.499
+  },
+  {
+    "LOCATION": "KAZ",
+    "SUBJECT": "POULTRY",
+    "TIME": 2018,
+    "KGPERCAP": 17.393
+  },
+  {
+    "LOCATION": "KAZ",
+    "SUBJECT": "POULTRY",
+    "TIME": 2019,
+    "KGPERCAP": 16.494
+  },
+  {
+    "LOCATION": "KAZ",
+    "SUBJECT": "POULTRY",
+    "TIME": 2020,
+    "KGPERCAP": 16.761
+  },
+  {
+    "LOCATION": "KAZ",
+    "SUBJECT": "POULTRY",
+    "TIME": 2021,
+    "KGPERCAP": 17.039
+  },
+  {
+    "LOCATION": "KAZ",
+    "SUBJECT": "POULTRY",
+    "TIME": 2022,
+    "KGPERCAP": 17.304
+  },
+  {
+    "LOCATION": "KAZ",
+    "SUBJECT": "POULTRY",
+    "TIME": 2023,
+    "KGPERCAP": 17.685
+  },
+  {
+    "LOCATION": "KAZ",
+    "SUBJECT": "POULTRY",
+    "TIME": 2024,
+    "KGPERCAP": 17.993
+  },
+  {
+    "LOCATION": "KAZ",
+    "SUBJECT": "POULTRY",
+    "TIME": 2025,
+    "KGPERCAP": 18.313
+  },
+  {
+    "LOCATION": "KAZ",
+    "SUBJECT": "POULTRY",
+    "TIME": 2026,
+    "KGPERCAP": 18.637
+  },
+  {
+    "LOCATION": "KAZ",
+    "SUBJECT": "POULTRY",
+    "TIME": 2027,
+    "KGPERCAP": 18.964
+  },
+  {
+    "LOCATION": "KAZ",
+    "SUBJECT": "POULTRY",
+    "TIME": 2028,
+    "KGPERCAP": 19.294
+  },
+  {
+    "LOCATION": "KAZ",
+    "SUBJECT": "POULTRY",
+    "TIME": 2029,
+    "KGPERCAP": 19.625
+  },
+  {
+    "LOCATION": "KAZ",
+    "SUBJECT": "SHEEP",
+    "TIME": 2018,
+    "KGPERCAP": 8.083
+  },
+  {
+    "LOCATION": "KAZ",
+    "SUBJECT": "SHEEP",
+    "TIME": 2019,
+    "KGPERCAP": 8.186
+  },
+  {
+    "LOCATION": "KAZ",
+    "SUBJECT": "SHEEP",
+    "TIME": 2020,
+    "KGPERCAP": 8.247
+  },
+  {
+    "LOCATION": "KAZ",
+    "SUBJECT": "SHEEP",
+    "TIME": 2021,
+    "KGPERCAP": 8.301
+  },
+  {
+    "LOCATION": "KAZ",
+    "SUBJECT": "SHEEP",
+    "TIME": 2022,
+    "KGPERCAP": 8.355
+  },
+  {
+    "LOCATION": "KAZ",
+    "SUBJECT": "SHEEP",
+    "TIME": 2023,
+    "KGPERCAP": 8.412
+  },
+  {
+    "LOCATION": "KAZ",
+    "SUBJECT": "SHEEP",
+    "TIME": 2024,
+    "KGPERCAP": 8.468
+  },
+  {
+    "LOCATION": "KAZ",
+    "SUBJECT": "SHEEP",
+    "TIME": 2025,
+    "KGPERCAP": 8.523
+  },
+  {
+    "LOCATION": "KAZ",
+    "SUBJECT": "SHEEP",
+    "TIME": 2026,
+    "KGPERCAP": 8.579
+  },
+  {
+    "LOCATION": "KAZ",
+    "SUBJECT": "SHEEP",
+    "TIME": 2027,
+    "KGPERCAP": 8.635
+  },
+  {
+    "LOCATION": "KAZ",
+    "SUBJECT": "SHEEP",
+    "TIME": 2028,
+    "KGPERCAP": 8.691
+  },
+  {
+    "LOCATION": "KAZ",
+    "SUBJECT": "SHEEP",
+    "TIME": 2029,
+    "KGPERCAP": 8.748
+  },
+  {
+    "LOCATION": "MYS",
+    "SUBJECT": "BEEF",
+    "TIME": 2018,
+    "KGPERCAP": 5.297
+  },
+  {
+    "LOCATION": "MYS",
+    "SUBJECT": "BEEF",
+    "TIME": 2019,
+    "KGPERCAP": 5.325
+  },
+  {
+    "LOCATION": "MYS",
+    "SUBJECT": "BEEF",
+    "TIME": 2020,
+    "KGPERCAP": 5.409
+  },
+  {
+    "LOCATION": "MYS",
+    "SUBJECT": "BEEF",
+    "TIME": 2021,
+    "KGPERCAP": 5.524
+  },
+  {
+    "LOCATION": "MYS",
+    "SUBJECT": "BEEF",
+    "TIME": 2022,
+    "KGPERCAP": 5.627
+  },
+  {
+    "LOCATION": "MYS",
+    "SUBJECT": "BEEF",
+    "TIME": 2023,
+    "KGPERCAP": 5.727
+  },
+  {
+    "LOCATION": "MYS",
+    "SUBJECT": "BEEF",
+    "TIME": 2024,
+    "KGPERCAP": 5.822
+  },
+  {
+    "LOCATION": "MYS",
+    "SUBJECT": "BEEF",
+    "TIME": 2025,
+    "KGPERCAP": 5.911
+  },
+  {
+    "LOCATION": "MYS",
+    "SUBJECT": "BEEF",
+    "TIME": 2026,
+    "KGPERCAP": 6
+  },
+  {
+    "LOCATION": "MYS",
+    "SUBJECT": "BEEF",
+    "TIME": 2027,
+    "KGPERCAP": 6.081
+  },
+  {
+    "LOCATION": "MYS",
+    "SUBJECT": "BEEF",
+    "TIME": 2028,
+    "KGPERCAP": 6.166
+  },
+  {
+    "LOCATION": "MYS",
+    "SUBJECT": "BEEF",
+    "TIME": 2029,
+    "KGPERCAP": 6.251
+  },
+  {
+    "LOCATION": "MYS",
+    "SUBJECT": "PIG",
+    "TIME": 2018,
+    "KGPERCAP": 5.43
+  },
+  {
+    "LOCATION": "MYS",
+    "SUBJECT": "PIG",
+    "TIME": 2019,
+    "KGPERCAP": 5.314
+  },
+  {
+    "LOCATION": "MYS",
+    "SUBJECT": "PIG",
+    "TIME": 2020,
+    "KGPERCAP": 5.263
+  },
+  {
+    "LOCATION": "MYS",
+    "SUBJECT": "PIG",
+    "TIME": 2021,
+    "KGPERCAP": 5.237
+  },
+  {
+    "LOCATION": "MYS",
+    "SUBJECT": "PIG",
+    "TIME": 2022,
+    "KGPERCAP": 5.195
+  },
+  {
+    "LOCATION": "MYS",
+    "SUBJECT": "PIG",
+    "TIME": 2023,
+    "KGPERCAP": 5.155
+  },
+  {
+    "LOCATION": "MYS",
+    "SUBJECT": "PIG",
+    "TIME": 2024,
+    "KGPERCAP": 5.119
+  },
+  {
+    "LOCATION": "MYS",
+    "SUBJECT": "PIG",
+    "TIME": 2025,
+    "KGPERCAP": 5.086
+  },
+  {
+    "LOCATION": "MYS",
+    "SUBJECT": "PIG",
+    "TIME": 2026,
+    "KGPERCAP": 5.055
+  },
+  {
+    "LOCATION": "MYS",
+    "SUBJECT": "PIG",
+    "TIME": 2027,
+    "KGPERCAP": 5.026
+  },
+  {
+    "LOCATION": "MYS",
+    "SUBJECT": "PIG",
+    "TIME": 2028,
+    "KGPERCAP": 4.998
+  },
+  {
+    "LOCATION": "MYS",
+    "SUBJECT": "PIG",
+    "TIME": 2029,
+    "KGPERCAP": 4.974
+  },
+  {
+    "LOCATION": "MYS",
+    "SUBJECT": "POULTRY",
+    "TIME": 2018,
+    "KGPERCAP": 48.796
+  },
+  {
+    "LOCATION": "MYS",
+    "SUBJECT": "POULTRY",
+    "TIME": 2019,
+    "KGPERCAP": 48.748
+  },
+  {
+    "LOCATION": "MYS",
+    "SUBJECT": "POULTRY",
+    "TIME": 2020,
+    "KGPERCAP": 49.333
+  },
+  {
+    "LOCATION": "MYS",
+    "SUBJECT": "POULTRY",
+    "TIME": 2021,
+    "KGPERCAP": 49.725
+  },
+  {
+    "LOCATION": "MYS",
+    "SUBJECT": "POULTRY",
+    "TIME": 2022,
+    "KGPERCAP": 50.113
+  },
+  {
+    "LOCATION": "MYS",
+    "SUBJECT": "POULTRY",
+    "TIME": 2023,
+    "KGPERCAP": 50.487
+  },
+  {
+    "LOCATION": "MYS",
+    "SUBJECT": "POULTRY",
+    "TIME": 2024,
+    "KGPERCAP": 50.879
+  },
+  {
+    "LOCATION": "MYS",
+    "SUBJECT": "POULTRY",
+    "TIME": 2025,
+    "KGPERCAP": 51.275
+  },
+  {
+    "LOCATION": "MYS",
+    "SUBJECT": "POULTRY",
+    "TIME": 2026,
+    "KGPERCAP": 51.714
+  },
+  {
+    "LOCATION": "MYS",
+    "SUBJECT": "POULTRY",
+    "TIME": 2027,
+    "KGPERCAP": 52.163
+  },
+  {
+    "LOCATION": "MYS",
+    "SUBJECT": "POULTRY",
+    "TIME": 2028,
+    "KGPERCAP": 52.64
+  },
+  {
+    "LOCATION": "MYS",
+    "SUBJECT": "POULTRY",
+    "TIME": 2029,
+    "KGPERCAP": 53.143
+  },
+  {
+    "LOCATION": "MYS",
+    "SUBJECT": "SHEEP",
+    "TIME": 2018,
+    "KGPERCAP": 1.122
+  },
+  {
+    "LOCATION": "MYS",
+    "SUBJECT": "SHEEP",
+    "TIME": 2019,
+    "KGPERCAP": 1.044
+  },
+  {
+    "LOCATION": "MYS",
+    "SUBJECT": "SHEEP",
+    "TIME": 2020,
+    "KGPERCAP": 1.072
+  },
+  {
+    "LOCATION": "MYS",
+    "SUBJECT": "SHEEP",
+    "TIME": 2021,
+    "KGPERCAP": 1.095
+  },
+  {
+    "LOCATION": "MYS",
+    "SUBJECT": "SHEEP",
+    "TIME": 2022,
+    "KGPERCAP": 1.119
+  },
+  {
+    "LOCATION": "MYS",
+    "SUBJECT": "SHEEP",
+    "TIME": 2023,
+    "KGPERCAP": 1.141
+  },
+  {
+    "LOCATION": "MYS",
+    "SUBJECT": "SHEEP",
+    "TIME": 2024,
+    "KGPERCAP": 1.164
+  },
+  {
+    "LOCATION": "MYS",
+    "SUBJECT": "SHEEP",
+    "TIME": 2025,
+    "KGPERCAP": 1.185
+  },
+  {
+    "LOCATION": "MYS",
+    "SUBJECT": "SHEEP",
+    "TIME": 2026,
+    "KGPERCAP": 1.207
+  },
+  {
+    "LOCATION": "MYS",
+    "SUBJECT": "SHEEP",
+    "TIME": 2027,
+    "KGPERCAP": 1.228
+  },
+  {
+    "LOCATION": "MYS",
+    "SUBJECT": "SHEEP",
+    "TIME": 2028,
+    "KGPERCAP": 1.25
+  },
+  {
+    "LOCATION": "MYS",
+    "SUBJECT": "SHEEP",
+    "TIME": 2029,
+    "KGPERCAP": 1.272
+  },
+  {
+    "LOCATION": "NGA",
+    "SUBJECT": "BEEF",
+    "TIME": 2018,
+    "KGPERCAP": 1.343
+  },
+  {
+    "LOCATION": "NGA",
+    "SUBJECT": "BEEF",
+    "TIME": 2019,
+    "KGPERCAP": 1.313
+  },
+  {
+    "LOCATION": "NGA",
+    "SUBJECT": "BEEF",
+    "TIME": 2020,
+    "KGPERCAP": 1.306
+  },
+  {
+    "LOCATION": "NGA",
+    "SUBJECT": "BEEF",
+    "TIME": 2021,
+    "KGPERCAP": 1.3
+  },
+  {
+    "LOCATION": "NGA",
+    "SUBJECT": "BEEF",
+    "TIME": 2022,
+    "KGPERCAP": 1.301
+  },
+  {
+    "LOCATION": "NGA",
+    "SUBJECT": "BEEF",
+    "TIME": 2023,
+    "KGPERCAP": 1.297
+  },
+  {
+    "LOCATION": "NGA",
+    "SUBJECT": "BEEF",
+    "TIME": 2024,
+    "KGPERCAP": 1.293
+  },
+  {
+    "LOCATION": "NGA",
+    "SUBJECT": "BEEF",
+    "TIME": 2025,
+    "KGPERCAP": 1.286
+  },
+  {
+    "LOCATION": "NGA",
+    "SUBJECT": "BEEF",
+    "TIME": 2026,
+    "KGPERCAP": 1.278
+  },
+  {
+    "LOCATION": "NGA",
+    "SUBJECT": "BEEF",
+    "TIME": 2027,
+    "KGPERCAP": 1.27
+  },
+  {
+    "LOCATION": "NGA",
+    "SUBJECT": "BEEF",
+    "TIME": 2028,
+    "KGPERCAP": 1.263
+  },
+  {
+    "LOCATION": "NGA",
+    "SUBJECT": "BEEF",
+    "TIME": 2029,
+    "KGPERCAP": 1.255
+  },
+  {
+    "LOCATION": "NGA",
+    "SUBJECT": "PIG",
+    "TIME": 2018,
+    "KGPERCAP": 1.119
+  },
+  {
+    "LOCATION": "NGA",
+    "SUBJECT": "PIG",
+    "TIME": 2019,
+    "KGPERCAP": 1.087
+  },
+  {
+    "LOCATION": "NGA",
+    "SUBJECT": "PIG",
+    "TIME": 2020,
+    "KGPERCAP": 1.079
+  },
+  {
+    "LOCATION": "NGA",
+    "SUBJECT": "PIG",
+    "TIME": 2021,
+    "KGPERCAP": 1.082
+  },
+  {
+    "LOCATION": "NGA",
+    "SUBJECT": "PIG",
+    "TIME": 2022,
+    "KGPERCAP": 1.072
+  },
+  {
+    "LOCATION": "NGA",
+    "SUBJECT": "PIG",
+    "TIME": 2023,
+    "KGPERCAP": 1.072
+  },
+  {
+    "LOCATION": "NGA",
+    "SUBJECT": "PIG",
+    "TIME": 2024,
+    "KGPERCAP": 1.064
+  },
+  {
+    "LOCATION": "NGA",
+    "SUBJECT": "PIG",
+    "TIME": 2025,
+    "KGPERCAP": 1.061
+  },
+  {
+    "LOCATION": "NGA",
+    "SUBJECT": "PIG",
+    "TIME": 2026,
+    "KGPERCAP": 1.054
+  },
+  {
+    "LOCATION": "NGA",
+    "SUBJECT": "PIG",
+    "TIME": 2027,
+    "KGPERCAP": 1.05
+  },
+  {
+    "LOCATION": "NGA",
+    "SUBJECT": "PIG",
+    "TIME": 2028,
+    "KGPERCAP": 1.044
+  },
+  {
+    "LOCATION": "NGA",
+    "SUBJECT": "PIG",
+    "TIME": 2029,
+    "KGPERCAP": 1.039
+  },
+  {
+    "LOCATION": "NGA",
+    "SUBJECT": "POULTRY",
+    "TIME": 2018,
+    "KGPERCAP": 0.89
+  },
+  {
+    "LOCATION": "NGA",
+    "SUBJECT": "POULTRY",
+    "TIME": 2019,
+    "KGPERCAP": 0.859
+  },
+  {
+    "LOCATION": "NGA",
+    "SUBJECT": "POULTRY",
+    "TIME": 2020,
+    "KGPERCAP": 0.842
+  },
+  {
+    "LOCATION": "NGA",
+    "SUBJECT": "POULTRY",
+    "TIME": 2021,
+    "KGPERCAP": 0.825
+  },
+  {
+    "LOCATION": "NGA",
+    "SUBJECT": "POULTRY",
+    "TIME": 2022,
+    "KGPERCAP": 0.808
+  },
+  {
+    "LOCATION": "NGA",
+    "SUBJECT": "POULTRY",
+    "TIME": 2023,
+    "KGPERCAP": 0.792
+  },
+  {
+    "LOCATION": "NGA",
+    "SUBJECT": "POULTRY",
+    "TIME": 2024,
+    "KGPERCAP": 0.777
+  },
+  {
+    "LOCATION": "NGA",
+    "SUBJECT": "POULTRY",
+    "TIME": 2025,
+    "KGPERCAP": 0.762
+  },
+  {
+    "LOCATION": "NGA",
+    "SUBJECT": "POULTRY",
+    "TIME": 2026,
+    "KGPERCAP": 0.747
+  },
+  {
+    "LOCATION": "NGA",
+    "SUBJECT": "POULTRY",
+    "TIME": 2027,
+    "KGPERCAP": 0.733
+  },
+  {
+    "LOCATION": "NGA",
+    "SUBJECT": "POULTRY",
+    "TIME": 2028,
+    "KGPERCAP": 0.721
+  },
+  {
+    "LOCATION": "NGA",
+    "SUBJECT": "POULTRY",
+    "TIME": 2029,
+    "KGPERCAP": 0.71
+  },
+  {
+    "LOCATION": "NGA",
+    "SUBJECT": "SHEEP",
+    "TIME": 2018,
+    "KGPERCAP": 1.775
+  },
+  {
+    "LOCATION": "NGA",
+    "SUBJECT": "SHEEP",
+    "TIME": 2019,
+    "KGPERCAP": 1.73
+  },
+  {
+    "LOCATION": "NGA",
+    "SUBJECT": "SHEEP",
+    "TIME": 2020,
+    "KGPERCAP": 1.72
+  },
+  {
+    "LOCATION": "NGA",
+    "SUBJECT": "SHEEP",
+    "TIME": 2021,
+    "KGPERCAP": 1.709
+  },
+  {
+    "LOCATION": "NGA",
+    "SUBJECT": "SHEEP",
+    "TIME": 2022,
+    "KGPERCAP": 1.698
+  },
+  {
+    "LOCATION": "NGA",
+    "SUBJECT": "SHEEP",
+    "TIME": 2023,
+    "KGPERCAP": 1.686
+  },
+  {
+    "LOCATION": "NGA",
+    "SUBJECT": "SHEEP",
+    "TIME": 2024,
+    "KGPERCAP": 1.675
+  },
+  {
+    "LOCATION": "NGA",
+    "SUBJECT": "SHEEP",
+    "TIME": 2025,
+    "KGPERCAP": 1.664
+  },
+  {
+    "LOCATION": "NGA",
+    "SUBJECT": "SHEEP",
+    "TIME": 2026,
+    "KGPERCAP": 1.652
+  },
+  {
+    "LOCATION": "NGA",
+    "SUBJECT": "SHEEP",
+    "TIME": 2027,
+    "KGPERCAP": 1.639
+  },
+  {
+    "LOCATION": "NGA",
+    "SUBJECT": "SHEEP",
+    "TIME": 2028,
+    "KGPERCAP": 1.627
+  },
+  {
+    "LOCATION": "NGA",
+    "SUBJECT": "SHEEP",
+    "TIME": 2029,
+    "KGPERCAP": 1.615
+  },
+  {
+    "LOCATION": "PAK",
+    "SUBJECT": "BEEF",
+    "TIME": 2018,
+    "KGPERCAP": 6.451
+  },
+  {
+    "LOCATION": "PAK",
+    "SUBJECT": "BEEF",
+    "TIME": 2019,
+    "KGPERCAP": 6.391
+  },
+  {
+    "LOCATION": "PAK",
+    "SUBJECT": "BEEF",
+    "TIME": 2020,
+    "KGPERCAP": 6.422
+  },
+  {
+    "LOCATION": "PAK",
+    "SUBJECT": "BEEF",
+    "TIME": 2021,
+    "KGPERCAP": 6.469
+  },
+  {
+    "LOCATION": "PAK",
+    "SUBJECT": "BEEF",
+    "TIME": 2022,
+    "KGPERCAP": 6.51
+  },
+  {
+    "LOCATION": "PAK",
+    "SUBJECT": "BEEF",
+    "TIME": 2023,
+    "KGPERCAP": 6.55
+  },
+  {
+    "LOCATION": "PAK",
+    "SUBJECT": "BEEF",
+    "TIME": 2024,
+    "KGPERCAP": 6.588
+  },
+  {
+    "LOCATION": "PAK",
+    "SUBJECT": "BEEF",
+    "TIME": 2025,
+    "KGPERCAP": 6.628
+  },
+  {
+    "LOCATION": "PAK",
+    "SUBJECT": "BEEF",
+    "TIME": 2026,
+    "KGPERCAP": 6.666
+  },
+  {
+    "LOCATION": "PAK",
+    "SUBJECT": "BEEF",
+    "TIME": 2027,
+    "KGPERCAP": 6.703
+  },
+  {
+    "LOCATION": "PAK",
+    "SUBJECT": "BEEF",
+    "TIME": 2028,
+    "KGPERCAP": 6.741
+  },
+  {
+    "LOCATION": "PAK",
+    "SUBJECT": "BEEF",
+    "TIME": 2029,
+    "KGPERCAP": 6.779
+  },
+  {
+    "LOCATION": "PAK",
+    "SUBJECT": "PIG",
+    "TIME": 2018,
+    "KGPERCAP": 0
+  },
+  {
+    "LOCATION": "PAK",
+    "SUBJECT": "PIG",
+    "TIME": 2019,
+    "KGPERCAP": 0
+  },
+  {
+    "LOCATION": "PAK",
+    "SUBJECT": "PIG",
+    "TIME": 2020,
+    "KGPERCAP": 0
+  },
+  {
+    "LOCATION": "PAK",
+    "SUBJECT": "PIG",
+    "TIME": 2021,
+    "KGPERCAP": 0
+  },
+  {
+    "LOCATION": "PAK",
+    "SUBJECT": "PIG",
+    "TIME": 2022,
+    "KGPERCAP": 0
+  },
+  {
+    "LOCATION": "PAK",
+    "SUBJECT": "PIG",
+    "TIME": 2023,
+    "KGPERCAP": 0
+  },
+  {
+    "LOCATION": "PAK",
+    "SUBJECT": "PIG",
+    "TIME": 2024,
+    "KGPERCAP": 0
+  },
+  {
+    "LOCATION": "PAK",
+    "SUBJECT": "PIG",
+    "TIME": 2025,
+    "KGPERCAP": 0
+  },
+  {
+    "LOCATION": "PAK",
+    "SUBJECT": "PIG",
+    "TIME": 2026,
+    "KGPERCAP": 0
+  },
+  {
+    "LOCATION": "PAK",
+    "SUBJECT": "PIG",
+    "TIME": 2027,
+    "KGPERCAP": 0
+  },
+  {
+    "LOCATION": "PAK",
+    "SUBJECT": "PIG",
+    "TIME": 2028,
+    "KGPERCAP": 0
+  },
+  {
+    "LOCATION": "PAK",
+    "SUBJECT": "PIG",
+    "TIME": 2029,
+    "KGPERCAP": 0
+  },
+  {
+    "LOCATION": "PAK",
+    "SUBJECT": "POULTRY",
+    "TIME": 2018,
+    "KGPERCAP": 6.176
+  },
+  {
+    "LOCATION": "PAK",
+    "SUBJECT": "POULTRY",
+    "TIME": 2019,
+    "KGPERCAP": 6.578
+  },
+  {
+    "LOCATION": "PAK",
+    "SUBJECT": "POULTRY",
+    "TIME": 2020,
+    "KGPERCAP": 6.621
+  },
+  {
+    "LOCATION": "PAK",
+    "SUBJECT": "POULTRY",
+    "TIME": 2021,
+    "KGPERCAP": 6.667
+  },
+  {
+    "LOCATION": "PAK",
+    "SUBJECT": "POULTRY",
+    "TIME": 2022,
+    "KGPERCAP": 6.716
+  },
+  {
+    "LOCATION": "PAK",
+    "SUBJECT": "POULTRY",
+    "TIME": 2023,
+    "KGPERCAP": 6.769
+  },
+  {
+    "LOCATION": "PAK",
+    "SUBJECT": "POULTRY",
+    "TIME": 2024,
+    "KGPERCAP": 6.825
+  },
+  {
+    "LOCATION": "PAK",
+    "SUBJECT": "POULTRY",
+    "TIME": 2025,
+    "KGPERCAP": 6.884
+  },
+  {
+    "LOCATION": "PAK",
+    "SUBJECT": "POULTRY",
+    "TIME": 2026,
+    "KGPERCAP": 6.947
+  },
+  {
+    "LOCATION": "PAK",
+    "SUBJECT": "POULTRY",
+    "TIME": 2027,
+    "KGPERCAP": 7.013
+  },
+  {
+    "LOCATION": "PAK",
+    "SUBJECT": "POULTRY",
+    "TIME": 2028,
+    "KGPERCAP": 7.083
+  },
+  {
+    "LOCATION": "PAK",
+    "SUBJECT": "POULTRY",
+    "TIME": 2029,
+    "KGPERCAP": 7.156
+  },
+  {
+    "LOCATION": "PAK",
+    "SUBJECT": "SHEEP",
+    "TIME": 2018,
+    "KGPERCAP": 2.058
+  },
+  {
+    "LOCATION": "PAK",
+    "SUBJECT": "SHEEP",
+    "TIME": 2019,
+    "KGPERCAP": 2.028
+  },
+  {
+    "LOCATION": "PAK",
+    "SUBJECT": "SHEEP",
+    "TIME": 2020,
+    "KGPERCAP": 2.018
+  },
+  {
+    "LOCATION": "PAK",
+    "SUBJECT": "SHEEP",
+    "TIME": 2021,
+    "KGPERCAP": 2.009
+  },
+  {
+    "LOCATION": "PAK",
+    "SUBJECT": "SHEEP",
+    "TIME": 2022,
+    "KGPERCAP": 2.001
+  },
+  {
+    "LOCATION": "PAK",
+    "SUBJECT": "SHEEP",
+    "TIME": 2023,
+    "KGPERCAP": 1.993
+  },
+  {
+    "LOCATION": "PAK",
+    "SUBJECT": "SHEEP",
+    "TIME": 2024,
+    "KGPERCAP": 1.986
+  },
+  {
+    "LOCATION": "PAK",
+    "SUBJECT": "SHEEP",
+    "TIME": 2025,
+    "KGPERCAP": 1.979
+  },
+  {
+    "LOCATION": "PAK",
+    "SUBJECT": "SHEEP",
+    "TIME": 2026,
+    "KGPERCAP": 1.973
+  },
+  {
+    "LOCATION": "PAK",
+    "SUBJECT": "SHEEP",
+    "TIME": 2027,
+    "KGPERCAP": 1.968
+  },
+  {
+    "LOCATION": "PAK",
+    "SUBJECT": "SHEEP",
+    "TIME": 2028,
+    "KGPERCAP": 1.963
+  },
+  {
+    "LOCATION": "PAK",
+    "SUBJECT": "SHEEP",
+    "TIME": 2029,
+    "KGPERCAP": 1.958
+  },
+  {
+    "LOCATION": "PRY",
+    "SUBJECT": "BEEF",
+    "TIME": 2018,
+    "KGPERCAP": 12.718
+  },
+  {
+    "LOCATION": "PRY",
+    "SUBJECT": "BEEF",
+    "TIME": 2019,
+    "KGPERCAP": 12.05
+  },
+  {
+    "LOCATION": "PRY",
+    "SUBJECT": "BEEF",
+    "TIME": 2020,
+    "KGPERCAP": 12.034
+  },
+  {
+    "LOCATION": "PRY",
+    "SUBJECT": "BEEF",
+    "TIME": 2021,
+    "KGPERCAP": 12.095
+  },
+  {
+    "LOCATION": "PRY",
+    "SUBJECT": "BEEF",
+    "TIME": 2022,
+    "KGPERCAP": 12.147
+  },
+  {
+    "LOCATION": "PRY",
+    "SUBJECT": "BEEF",
+    "TIME": 2023,
+    "KGPERCAP": 12.186
+  },
+  {
+    "LOCATION": "PRY",
+    "SUBJECT": "BEEF",
+    "TIME": 2024,
+    "KGPERCAP": 12.191
+  },
+  {
+    "LOCATION": "PRY",
+    "SUBJECT": "BEEF",
+    "TIME": 2025,
+    "KGPERCAP": 12.19
+  },
+  {
+    "LOCATION": "PRY",
+    "SUBJECT": "BEEF",
+    "TIME": 2026,
+    "KGPERCAP": 12.175
+  },
+  {
+    "LOCATION": "PRY",
+    "SUBJECT": "BEEF",
+    "TIME": 2027,
+    "KGPERCAP": 12.159
+  },
+  {
+    "LOCATION": "PRY",
+    "SUBJECT": "BEEF",
+    "TIME": 2028,
+    "KGPERCAP": 12.149
+  },
+  {
+    "LOCATION": "PRY",
+    "SUBJECT": "BEEF",
+    "TIME": 2029,
+    "KGPERCAP": 12.138
+  },
+  {
+    "LOCATION": "PRY",
+    "SUBJECT": "PIG",
+    "TIME": 2018,
+    "KGPERCAP": 21.639
+  },
+  {
+    "LOCATION": "PRY",
+    "SUBJECT": "PIG",
+    "TIME": 2019,
+    "KGPERCAP": 21.561
+  },
+  {
+    "LOCATION": "PRY",
+    "SUBJECT": "PIG",
+    "TIME": 2020,
+    "KGPERCAP": 21.479
+  },
+  {
+    "LOCATION": "PRY",
+    "SUBJECT": "PIG",
+    "TIME": 2021,
+    "KGPERCAP": 21.584
+  },
+  {
+    "LOCATION": "PRY",
+    "SUBJECT": "PIG",
+    "TIME": 2022,
+    "KGPERCAP": 21.629
+  },
+  {
+    "LOCATION": "PRY",
+    "SUBJECT": "PIG",
+    "TIME": 2023,
+    "KGPERCAP": 21.711
+  },
+  {
+    "LOCATION": "PRY",
+    "SUBJECT": "PIG",
+    "TIME": 2024,
+    "KGPERCAP": 21.77
+  },
+  {
+    "LOCATION": "PRY",
+    "SUBJECT": "PIG",
+    "TIME": 2025,
+    "KGPERCAP": 21.823
+  },
+  {
+    "LOCATION": "PRY",
+    "SUBJECT": "PIG",
+    "TIME": 2026,
+    "KGPERCAP": 21.878
+  },
+  {
+    "LOCATION": "PRY",
+    "SUBJECT": "PIG",
+    "TIME": 2027,
+    "KGPERCAP": 21.932
+  },
+  {
+    "LOCATION": "PRY",
+    "SUBJECT": "PIG",
+    "TIME": 2028,
+    "KGPERCAP": 21.984
+  },
+  {
+    "LOCATION": "PRY",
+    "SUBJECT": "PIG",
+    "TIME": 2029,
+    "KGPERCAP": 22.043
+  },
+  {
+    "LOCATION": "PRY",
+    "SUBJECT": "POULTRY",
+    "TIME": 2018,
+    "KGPERCAP": 5.298
+  },
+  {
+    "LOCATION": "PRY",
+    "SUBJECT": "POULTRY",
+    "TIME": 2019,
+    "KGPERCAP": 5.35
+  },
+  {
+    "LOCATION": "PRY",
+    "SUBJECT": "POULTRY",
+    "TIME": 2020,
+    "KGPERCAP": 5.339
+  },
+  {
+    "LOCATION": "PRY",
+    "SUBJECT": "POULTRY",
+    "TIME": 2021,
+    "KGPERCAP": 5.334
+  },
+  {
+    "LOCATION": "PRY",
+    "SUBJECT": "POULTRY",
+    "TIME": 2022,
+    "KGPERCAP": 5.318
+  },
+  {
+    "LOCATION": "PRY",
+    "SUBJECT": "POULTRY",
+    "TIME": 2023,
+    "KGPERCAP": 5.31
+  },
+  {
+    "LOCATION": "PRY",
+    "SUBJECT": "POULTRY",
+    "TIME": 2024,
+    "KGPERCAP": 5.295
+  },
+  {
+    "LOCATION": "PRY",
+    "SUBJECT": "POULTRY",
+    "TIME": 2025,
+    "KGPERCAP": 5.281
+  },
+  {
+    "LOCATION": "PRY",
+    "SUBJECT": "POULTRY",
+    "TIME": 2026,
+    "KGPERCAP": 5.267
+  },
+  {
+    "LOCATION": "PRY",
+    "SUBJECT": "POULTRY",
+    "TIME": 2027,
+    "KGPERCAP": 5.251
+  },
+  {
+    "LOCATION": "PRY",
+    "SUBJECT": "POULTRY",
+    "TIME": 2028,
+    "KGPERCAP": 5.236
+  },
+  {
+    "LOCATION": "PRY",
+    "SUBJECT": "POULTRY",
+    "TIME": 2029,
+    "KGPERCAP": 5.221
+  },
+  {
+    "LOCATION": "PRY",
+    "SUBJECT": "SHEEP",
+    "TIME": 2018,
+    "KGPERCAP": 0.502
+  },
+  {
+    "LOCATION": "PRY",
+    "SUBJECT": "SHEEP",
+    "TIME": 2019,
+    "KGPERCAP": 0.495
+  },
+  {
+    "LOCATION": "PRY",
+    "SUBJECT": "SHEEP",
+    "TIME": 2020,
+    "KGPERCAP": 0.493
+  },
+  {
+    "LOCATION": "PRY",
+    "SUBJECT": "SHEEP",
+    "TIME": 2021,
+    "KGPERCAP": 0.49
+  },
+  {
+    "LOCATION": "PRY",
+    "SUBJECT": "SHEEP",
+    "TIME": 2022,
+    "KGPERCAP": 0.488
+  },
+  {
+    "LOCATION": "PRY",
+    "SUBJECT": "SHEEP",
+    "TIME": 2023,
+    "KGPERCAP": 0.485
+  },
+  {
+    "LOCATION": "PRY",
+    "SUBJECT": "SHEEP",
+    "TIME": 2024,
+    "KGPERCAP": 0.483
+  },
+  {
+    "LOCATION": "PRY",
+    "SUBJECT": "SHEEP",
+    "TIME": 2025,
+    "KGPERCAP": 0.48
+  },
+  {
+    "LOCATION": "PRY",
+    "SUBJECT": "SHEEP",
+    "TIME": 2026,
+    "KGPERCAP": 0.477
+  },
+  {
+    "LOCATION": "PRY",
+    "SUBJECT": "SHEEP",
+    "TIME": 2027,
+    "KGPERCAP": 0.474
+  },
+  {
+    "LOCATION": "PRY",
+    "SUBJECT": "SHEEP",
+    "TIME": 2028,
+    "KGPERCAP": 0.472
+  },
+  {
+    "LOCATION": "PRY",
+    "SUBJECT": "SHEEP",
+    "TIME": 2029,
+    "KGPERCAP": 0.469
+  },
+  {
+    "LOCATION": "PER",
+    "SUBJECT": "BEEF",
+    "TIME": 2018,
+    "KGPERCAP": 4.242
+  },
+  {
+    "LOCATION": "PER",
+    "SUBJECT": "BEEF",
+    "TIME": 2019,
+    "KGPERCAP": 4.21
+  },
+  {
+    "LOCATION": "PER",
+    "SUBJECT": "BEEF",
+    "TIME": 2020,
+    "KGPERCAP": 4.143
+  },
+  {
+    "LOCATION": "PER",
+    "SUBJECT": "BEEF",
+    "TIME": 2021,
+    "KGPERCAP": 4.169
+  },
+  {
+    "LOCATION": "PER",
+    "SUBJECT": "BEEF",
+    "TIME": 2022,
+    "KGPERCAP": 4.163
+  },
+  {
+    "LOCATION": "PER",
+    "SUBJECT": "BEEF",
+    "TIME": 2023,
+    "KGPERCAP": 4.176
+  },
+  {
+    "LOCATION": "PER",
+    "SUBJECT": "BEEF",
+    "TIME": 2024,
+    "KGPERCAP": 4.192
+  },
+  {
+    "LOCATION": "PER",
+    "SUBJECT": "BEEF",
+    "TIME": 2025,
+    "KGPERCAP": 4.203
+  },
+  {
+    "LOCATION": "PER",
+    "SUBJECT": "BEEF",
+    "TIME": 2026,
+    "KGPERCAP": 4.233
+  },
+  {
+    "LOCATION": "PER",
+    "SUBJECT": "BEEF",
+    "TIME": 2027,
+    "KGPERCAP": 4.223
+  },
+  {
+    "LOCATION": "PER",
+    "SUBJECT": "BEEF",
+    "TIME": 2028,
+    "KGPERCAP": 4.233
+  },
+  {
+    "LOCATION": "PER",
+    "SUBJECT": "BEEF",
+    "TIME": 2029,
+    "KGPERCAP": 4.238
+  },
+  {
+    "LOCATION": "PER",
+    "SUBJECT": "PIG",
+    "TIME": 2018,
+    "KGPERCAP": 4.131
+  },
+  {
+    "LOCATION": "PER",
+    "SUBJECT": "PIG",
+    "TIME": 2019,
+    "KGPERCAP": 4.13
+  },
+  {
+    "LOCATION": "PER",
+    "SUBJECT": "PIG",
+    "TIME": 2020,
+    "KGPERCAP": 4.038
+  },
+  {
+    "LOCATION": "PER",
+    "SUBJECT": "PIG",
+    "TIME": 2021,
+    "KGPERCAP": 4.138
+  },
+  {
+    "LOCATION": "PER",
+    "SUBJECT": "PIG",
+    "TIME": 2022,
+    "KGPERCAP": 4.177
+  },
+  {
+    "LOCATION": "PER",
+    "SUBJECT": "PIG",
+    "TIME": 2023,
+    "KGPERCAP": 4.239
+  },
+  {
+    "LOCATION": "PER",
+    "SUBJECT": "PIG",
+    "TIME": 2024,
+    "KGPERCAP": 4.304
+  },
+  {
+    "LOCATION": "PER",
+    "SUBJECT": "PIG",
+    "TIME": 2025,
+    "KGPERCAP": 4.368
+  },
+  {
+    "LOCATION": "PER",
+    "SUBJECT": "PIG",
+    "TIME": 2026,
+    "KGPERCAP": 4.466
+  },
+  {
+    "LOCATION": "PER",
+    "SUBJECT": "PIG",
+    "TIME": 2027,
+    "KGPERCAP": 4.486
+  },
+  {
+    "LOCATION": "PER",
+    "SUBJECT": "PIG",
+    "TIME": 2028,
+    "KGPERCAP": 4.549
+  },
+  {
+    "LOCATION": "PER",
+    "SUBJECT": "PIG",
+    "TIME": 2029,
+    "KGPERCAP": 4.616
+  },
+  {
+    "LOCATION": "PER",
+    "SUBJECT": "POULTRY",
+    "TIME": 2018,
+    "KGPERCAP": 44.467
+  },
+  {
+    "LOCATION": "PER",
+    "SUBJECT": "POULTRY",
+    "TIME": 2019,
+    "KGPERCAP": 45.334
+  },
+  {
+    "LOCATION": "PER",
+    "SUBJECT": "POULTRY",
+    "TIME": 2020,
+    "KGPERCAP": 45.957
+  },
+  {
+    "LOCATION": "PER",
+    "SUBJECT": "POULTRY",
+    "TIME": 2021,
+    "KGPERCAP": 46.651
+  },
+  {
+    "LOCATION": "PER",
+    "SUBJECT": "POULTRY",
+    "TIME": 2022,
+    "KGPERCAP": 47.349
+  },
+  {
+    "LOCATION": "PER",
+    "SUBJECT": "POULTRY",
+    "TIME": 2023,
+    "KGPERCAP": 48.061
+  },
+  {
+    "LOCATION": "PER",
+    "SUBJECT": "POULTRY",
+    "TIME": 2024,
+    "KGPERCAP": 48.804
+  },
+  {
+    "LOCATION": "PER",
+    "SUBJECT": "POULTRY",
+    "TIME": 2025,
+    "KGPERCAP": 49.566
+  },
+  {
+    "LOCATION": "PER",
+    "SUBJECT": "POULTRY",
+    "TIME": 2026,
+    "KGPERCAP": 50.343
+  },
+  {
+    "LOCATION": "PER",
+    "SUBJECT": "POULTRY",
+    "TIME": 2027,
+    "KGPERCAP": 51.138
+  },
+  {
+    "LOCATION": "PER",
+    "SUBJECT": "POULTRY",
+    "TIME": 2028,
+    "KGPERCAP": 51.962
+  },
+  {
+    "LOCATION": "PER",
+    "SUBJECT": "POULTRY",
+    "TIME": 2029,
+    "KGPERCAP": 52.829
+  },
+  {
+    "LOCATION": "PER",
+    "SUBJECT": "SHEEP",
+    "TIME": 2018,
+    "KGPERCAP": 1.054
+  },
+  {
+    "LOCATION": "PER",
+    "SUBJECT": "SHEEP",
+    "TIME": 2019,
+    "KGPERCAP": 1.042
+  },
+  {
+    "LOCATION": "PER",
+    "SUBJECT": "SHEEP",
+    "TIME": 2020,
+    "KGPERCAP": 1.027
+  },
+  {
+    "LOCATION": "PER",
+    "SUBJECT": "SHEEP",
+    "TIME": 2021,
+    "KGPERCAP": 1.02
+  },
+  {
+    "LOCATION": "PER",
+    "SUBJECT": "SHEEP",
+    "TIME": 2022,
+    "KGPERCAP": 1.013
+  },
+  {
+    "LOCATION": "PER",
+    "SUBJECT": "SHEEP",
+    "TIME": 2023,
+    "KGPERCAP": 1.001
+  },
+  {
+    "LOCATION": "PER",
+    "SUBJECT": "SHEEP",
+    "TIME": 2024,
+    "KGPERCAP": 0.993
+  },
+  {
+    "LOCATION": "PER",
+    "SUBJECT": "SHEEP",
+    "TIME": 2025,
+    "KGPERCAP": 0.984
+  },
+  {
+    "LOCATION": "PER",
+    "SUBJECT": "SHEEP",
+    "TIME": 2026,
+    "KGPERCAP": 0.979
+  },
+  {
+    "LOCATION": "PER",
+    "SUBJECT": "SHEEP",
+    "TIME": 2027,
+    "KGPERCAP": 0.968
+  },
+  {
+    "LOCATION": "PER",
+    "SUBJECT": "SHEEP",
+    "TIME": 2028,
+    "KGPERCAP": 0.955
+  },
+  {
+    "LOCATION": "PER",
+    "SUBJECT": "SHEEP",
+    "TIME": 2029,
+    "KGPERCAP": 0.946
+  },
+  {
+    "LOCATION": "PHL",
+    "SUBJECT": "BEEF",
+    "TIME": 2018,
+    "KGPERCAP": 3.161
+  },
+  {
+    "LOCATION": "PHL",
+    "SUBJECT": "BEEF",
+    "TIME": 2019,
+    "KGPERCAP": 3.152
+  },
+  {
+    "LOCATION": "PHL",
+    "SUBJECT": "BEEF",
+    "TIME": 2020,
+    "KGPERCAP": 3.129
+  },
+  {
+    "LOCATION": "PHL",
+    "SUBJECT": "BEEF",
+    "TIME": 2021,
+    "KGPERCAP": 3.152
+  },
+  {
+    "LOCATION": "PHL",
+    "SUBJECT": "BEEF",
+    "TIME": 2022,
+    "KGPERCAP": 3.17
+  },
+  {
+    "LOCATION": "PHL",
+    "SUBJECT": "BEEF",
+    "TIME": 2023,
+    "KGPERCAP": 3.189
+  },
+  {
+    "LOCATION": "PHL",
+    "SUBJECT": "BEEF",
+    "TIME": 2024,
+    "KGPERCAP": 3.204
+  },
+  {
+    "LOCATION": "PHL",
+    "SUBJECT": "BEEF",
+    "TIME": 2025,
+    "KGPERCAP": 3.225
+  },
+  {
+    "LOCATION": "PHL",
+    "SUBJECT": "BEEF",
+    "TIME": 2026,
+    "KGPERCAP": 3.244
+  },
+  {
+    "LOCATION": "PHL",
+    "SUBJECT": "BEEF",
+    "TIME": 2027,
+    "KGPERCAP": 3.264
+  },
+  {
+    "LOCATION": "PHL",
+    "SUBJECT": "BEEF",
+    "TIME": 2028,
+    "KGPERCAP": 3.282
+  },
+  {
+    "LOCATION": "PHL",
+    "SUBJECT": "BEEF",
+    "TIME": 2029,
+    "KGPERCAP": 3.301
+  },
+  {
+    "LOCATION": "PHL",
+    "SUBJECT": "PIG",
+    "TIME": 2018,
+    "KGPERCAP": 14.965
+  },
+  {
+    "LOCATION": "PHL",
+    "SUBJECT": "PIG",
+    "TIME": 2019,
+    "KGPERCAP": 15.222
+  },
+  {
+    "LOCATION": "PHL",
+    "SUBJECT": "PIG",
+    "TIME": 2020,
+    "KGPERCAP": 14.898
+  },
+  {
+    "LOCATION": "PHL",
+    "SUBJECT": "PIG",
+    "TIME": 2021,
+    "KGPERCAP": 14.918
+  },
+  {
+    "LOCATION": "PHL",
+    "SUBJECT": "PIG",
+    "TIME": 2022,
+    "KGPERCAP": 14.977
+  },
+  {
+    "LOCATION": "PHL",
+    "SUBJECT": "PIG",
+    "TIME": 2023,
+    "KGPERCAP": 15.066
+  },
+  {
+    "LOCATION": "PHL",
+    "SUBJECT": "PIG",
+    "TIME": 2024,
+    "KGPERCAP": 15.137
+  },
+  {
+    "LOCATION": "PHL",
+    "SUBJECT": "PIG",
+    "TIME": 2025,
+    "KGPERCAP": 15.199
+  },
+  {
+    "LOCATION": "PHL",
+    "SUBJECT": "PIG",
+    "TIME": 2026,
+    "KGPERCAP": 15.275
+  },
+  {
+    "LOCATION": "PHL",
+    "SUBJECT": "PIG",
+    "TIME": 2027,
+    "KGPERCAP": 15.339
+  },
+  {
+    "LOCATION": "PHL",
+    "SUBJECT": "PIG",
+    "TIME": 2028,
+    "KGPERCAP": 15.408
+  },
+  {
+    "LOCATION": "PHL",
+    "SUBJECT": "PIG",
+    "TIME": 2029,
+    "KGPERCAP": 15.488
+  },
+  {
+    "LOCATION": "PHL",
+    "SUBJECT": "POULTRY",
+    "TIME": 2018,
+    "KGPERCAP": 13.18
+  },
+  {
+    "LOCATION": "PHL",
+    "SUBJECT": "POULTRY",
+    "TIME": 2019,
+    "KGPERCAP": 13.487
+  },
+  {
+    "LOCATION": "PHL",
+    "SUBJECT": "POULTRY",
+    "TIME": 2020,
+    "KGPERCAP": 13.742
+  },
+  {
+    "LOCATION": "PHL",
+    "SUBJECT": "POULTRY",
+    "TIME": 2021,
+    "KGPERCAP": 14.031
+  },
+  {
+    "LOCATION": "PHL",
+    "SUBJECT": "POULTRY",
+    "TIME": 2022,
+    "KGPERCAP": 14.319
+  },
+  {
+    "LOCATION": "PHL",
+    "SUBJECT": "POULTRY",
+    "TIME": 2023,
+    "KGPERCAP": 14.609
+  },
+  {
+    "LOCATION": "PHL",
+    "SUBJECT": "POULTRY",
+    "TIME": 2024,
+    "KGPERCAP": 14.913
+  },
+  {
+    "LOCATION": "PHL",
+    "SUBJECT": "POULTRY",
+    "TIME": 2025,
+    "KGPERCAP": 15.224
+  },
+  {
+    "LOCATION": "PHL",
+    "SUBJECT": "POULTRY",
+    "TIME": 2026,
+    "KGPERCAP": 15.541
+  },
+  {
+    "LOCATION": "PHL",
+    "SUBJECT": "POULTRY",
+    "TIME": 2027,
+    "KGPERCAP": 15.87
+  },
+  {
+    "LOCATION": "PHL",
+    "SUBJECT": "POULTRY",
+    "TIME": 2028,
+    "KGPERCAP": 16.21
+  },
+  {
+    "LOCATION": "PHL",
+    "SUBJECT": "POULTRY",
+    "TIME": 2029,
+    "KGPERCAP": 16.561
+  },
+  {
+    "LOCATION": "PHL",
+    "SUBJECT": "SHEEP",
+    "TIME": 2018,
+    "KGPERCAP": 0.51
+  },
+  {
+    "LOCATION": "PHL",
+    "SUBJECT": "SHEEP",
+    "TIME": 2019,
+    "KGPERCAP": 0.503
+  },
+  {
+    "LOCATION": "PHL",
+    "SUBJECT": "SHEEP",
+    "TIME": 2020,
+    "KGPERCAP": 0.506
+  },
+  {
+    "LOCATION": "PHL",
+    "SUBJECT": "SHEEP",
+    "TIME": 2021,
+    "KGPERCAP": 0.509
+  },
+  {
+    "LOCATION": "PHL",
+    "SUBJECT": "SHEEP",
+    "TIME": 2022,
+    "KGPERCAP": 0.512
+  },
+  {
+    "LOCATION": "PHL",
+    "SUBJECT": "SHEEP",
+    "TIME": 2023,
+    "KGPERCAP": 0.516
+  },
+  {
+    "LOCATION": "PHL",
+    "SUBJECT": "SHEEP",
+    "TIME": 2024,
+    "KGPERCAP": 0.521
+  },
+  {
+    "LOCATION": "PHL",
+    "SUBJECT": "SHEEP",
+    "TIME": 2025,
+    "KGPERCAP": 0.526
+  },
+  {
+    "LOCATION": "PHL",
+    "SUBJECT": "SHEEP",
+    "TIME": 2026,
+    "KGPERCAP": 0.531
+  },
+  {
+    "LOCATION": "PHL",
+    "SUBJECT": "SHEEP",
+    "TIME": 2027,
+    "KGPERCAP": 0.536
+  },
+  {
+    "LOCATION": "PHL",
+    "SUBJECT": "SHEEP",
+    "TIME": 2028,
+    "KGPERCAP": 0.541
+  },
+  {
+    "LOCATION": "PHL",
+    "SUBJECT": "SHEEP",
+    "TIME": 2029,
+    "KGPERCAP": 0.546
+  },
+  {
+    "LOCATION": "RUS",
+    "SUBJECT": "BEEF",
+    "TIME": 2018,
+    "KGPERCAP": 9.996
+  },
+  {
+    "LOCATION": "RUS",
+    "SUBJECT": "BEEF",
+    "TIME": 2019,
+    "KGPERCAP": 10.07
+  },
+  {
+    "LOCATION": "RUS",
+    "SUBJECT": "BEEF",
+    "TIME": 2020,
+    "KGPERCAP": 10.034
+  },
+  {
+    "LOCATION": "RUS",
+    "SUBJECT": "BEEF",
+    "TIME": 2021,
+    "KGPERCAP": 10.02
+  },
+  {
+    "LOCATION": "RUS",
+    "SUBJECT": "BEEF",
+    "TIME": 2022,
+    "KGPERCAP": 10.029
+  },
+  {
+    "LOCATION": "RUS",
+    "SUBJECT": "BEEF",
+    "TIME": 2023,
+    "KGPERCAP": 10.041
+  },
+  {
+    "LOCATION": "RUS",
+    "SUBJECT": "BEEF",
+    "TIME": 2024,
+    "KGPERCAP": 10.053
+  },
+  {
+    "LOCATION": "RUS",
+    "SUBJECT": "BEEF",
+    "TIME": 2025,
+    "KGPERCAP": 10.073
+  },
+  {
+    "LOCATION": "RUS",
+    "SUBJECT": "BEEF",
+    "TIME": 2026,
+    "KGPERCAP": 10.084
+  },
+  {
+    "LOCATION": "RUS",
+    "SUBJECT": "BEEF",
+    "TIME": 2027,
+    "KGPERCAP": 10.097
+  },
+  {
+    "LOCATION": "RUS",
+    "SUBJECT": "BEEF",
+    "TIME": 2028,
+    "KGPERCAP": 10.114
+  },
+  {
+    "LOCATION": "RUS",
+    "SUBJECT": "BEEF",
+    "TIME": 2029,
+    "KGPERCAP": 10.13
+  },
+  {
+    "LOCATION": "RUS",
+    "SUBJECT": "PIG",
+    "TIME": 2018,
+    "KGPERCAP": 19.953
+  },
+  {
+    "LOCATION": "RUS",
+    "SUBJECT": "PIG",
+    "TIME": 2019,
+    "KGPERCAP": 20.582
+  },
+  {
+    "LOCATION": "RUS",
+    "SUBJECT": "PIG",
+    "TIME": 2020,
+    "KGPERCAP": 20.714
+  },
+  {
+    "LOCATION": "RUS",
+    "SUBJECT": "PIG",
+    "TIME": 2021,
+    "KGPERCAP": 20.918
+  },
+  {
+    "LOCATION": "RUS",
+    "SUBJECT": "PIG",
+    "TIME": 2022,
+    "KGPERCAP": 20.979
+  },
+  {
+    "LOCATION": "RUS",
+    "SUBJECT": "PIG",
+    "TIME": 2023,
+    "KGPERCAP": 21.092
+  },
+  {
+    "LOCATION": "RUS",
+    "SUBJECT": "PIG",
+    "TIME": 2024,
+    "KGPERCAP": 21.216
+  },
+  {
+    "LOCATION": "RUS",
+    "SUBJECT": "PIG",
+    "TIME": 2025,
+    "KGPERCAP": 21.346
+  },
+  {
+    "LOCATION": "RUS",
+    "SUBJECT": "PIG",
+    "TIME": 2026,
+    "KGPERCAP": 21.486
+  },
+  {
+    "LOCATION": "RUS",
+    "SUBJECT": "PIG",
+    "TIME": 2027,
+    "KGPERCAP": 21.641
+  },
+  {
+    "LOCATION": "RUS",
+    "SUBJECT": "PIG",
+    "TIME": 2028,
+    "KGPERCAP": 21.781
+  },
+  {
+    "LOCATION": "RUS",
+    "SUBJECT": "PIG",
+    "TIME": 2029,
+    "KGPERCAP": 21.95
+  },
+  {
+    "LOCATION": "RUS",
+    "SUBJECT": "POULTRY",
+    "TIME": 2018,
+    "KGPERCAP": 30.429
+  },
+  {
+    "LOCATION": "RUS",
+    "SUBJECT": "POULTRY",
+    "TIME": 2019,
+    "KGPERCAP": 30.622
+  },
+  {
+    "LOCATION": "RUS",
+    "SUBJECT": "POULTRY",
+    "TIME": 2020,
+    "KGPERCAP": 30.816
+  },
+  {
+    "LOCATION": "RUS",
+    "SUBJECT": "POULTRY",
+    "TIME": 2021,
+    "KGPERCAP": 30.893
+  },
+  {
+    "LOCATION": "RUS",
+    "SUBJECT": "POULTRY",
+    "TIME": 2022,
+    "KGPERCAP": 31.048
+  },
+  {
+    "LOCATION": "RUS",
+    "SUBJECT": "POULTRY",
+    "TIME": 2023,
+    "KGPERCAP": 31.192
+  },
+  {
+    "LOCATION": "RUS",
+    "SUBJECT": "POULTRY",
+    "TIME": 2024,
+    "KGPERCAP": 31.362
+  },
+  {
+    "LOCATION": "RUS",
+    "SUBJECT": "POULTRY",
+    "TIME": 2025,
+    "KGPERCAP": 31.53
+  },
+  {
+    "LOCATION": "RUS",
+    "SUBJECT": "POULTRY",
+    "TIME": 2026,
+    "KGPERCAP": 31.704
+  },
+  {
+    "LOCATION": "RUS",
+    "SUBJECT": "POULTRY",
+    "TIME": 2027,
+    "KGPERCAP": 31.89
+  },
+  {
+    "LOCATION": "RUS",
+    "SUBJECT": "POULTRY",
+    "TIME": 2028,
+    "KGPERCAP": 32.074
+  },
+  {
+    "LOCATION": "RUS",
+    "SUBJECT": "POULTRY",
+    "TIME": 2029,
+    "KGPERCAP": 32.266
+  },
+  {
+    "LOCATION": "RUS",
+    "SUBJECT": "SHEEP",
+    "TIME": 2018,
+    "KGPERCAP": 1.291
+  },
+  {
+    "LOCATION": "RUS",
+    "SUBJECT": "SHEEP",
+    "TIME": 2019,
+    "KGPERCAP": 1.273
+  },
+  {
+    "LOCATION": "RUS",
+    "SUBJECT": "SHEEP",
+    "TIME": 2020,
+    "KGPERCAP": 1.276
+  },
+  {
+    "LOCATION": "RUS",
+    "SUBJECT": "SHEEP",
+    "TIME": 2021,
+    "KGPERCAP": 1.273
+  },
+  {
+    "LOCATION": "RUS",
+    "SUBJECT": "SHEEP",
+    "TIME": 2022,
+    "KGPERCAP": 1.277
+  },
+  {
+    "LOCATION": "RUS",
+    "SUBJECT": "SHEEP",
+    "TIME": 2023,
+    "KGPERCAP": 1.281
+  },
+  {
+    "LOCATION": "RUS",
+    "SUBJECT": "SHEEP",
+    "TIME": 2024,
+    "KGPERCAP": 1.286
+  },
+  {
+    "LOCATION": "RUS",
+    "SUBJECT": "SHEEP",
+    "TIME": 2025,
+    "KGPERCAP": 1.291
+  },
+  {
+    "LOCATION": "RUS",
+    "SUBJECT": "SHEEP",
+    "TIME": 2026,
+    "KGPERCAP": 1.296
+  },
+  {
+    "LOCATION": "RUS",
+    "SUBJECT": "SHEEP",
+    "TIME": 2027,
+    "KGPERCAP": 1.301
+  },
+  {
+    "LOCATION": "RUS",
+    "SUBJECT": "SHEEP",
+    "TIME": 2028,
+    "KGPERCAP": 1.308
+  },
+  {
+    "LOCATION": "RUS",
+    "SUBJECT": "SHEEP",
+    "TIME": 2029,
+    "KGPERCAP": 1.314
+  },
+  {
+    "LOCATION": "SAU",
+    "SUBJECT": "BEEF",
+    "TIME": 2018,
+    "KGPERCAP": 3.679
+  },
+  {
+    "LOCATION": "SAU",
+    "SUBJECT": "BEEF",
+    "TIME": 2019,
+    "KGPERCAP": 3.83
+  },
+  {
+    "LOCATION": "SAU",
+    "SUBJECT": "BEEF",
+    "TIME": 2020,
+    "KGPERCAP": 3.868
+  },
+  {
+    "LOCATION": "SAU",
+    "SUBJECT": "BEEF",
+    "TIME": 2021,
+    "KGPERCAP": 3.917
+  },
+  {
+    "LOCATION": "SAU",
+    "SUBJECT": "BEEF",
+    "TIME": 2022,
+    "KGPERCAP": 3.969
+  },
+  {
+    "LOCATION": "SAU",
+    "SUBJECT": "BEEF",
+    "TIME": 2023,
+    "KGPERCAP": 4.021
+  },
+  {
+    "LOCATION": "SAU",
+    "SUBJECT": "BEEF",
+    "TIME": 2024,
+    "KGPERCAP": 4.073
+  },
+  {
+    "LOCATION": "SAU",
+    "SUBJECT": "BEEF",
+    "TIME": 2025,
+    "KGPERCAP": 4.125
+  },
+  {
+    "LOCATION": "SAU",
+    "SUBJECT": "BEEF",
+    "TIME": 2026,
+    "KGPERCAP": 4.178
+  },
+  {
+    "LOCATION": "SAU",
+    "SUBJECT": "BEEF",
+    "TIME": 2027,
+    "KGPERCAP": 4.231
+  },
+  {
+    "LOCATION": "SAU",
+    "SUBJECT": "BEEF",
+    "TIME": 2028,
+    "KGPERCAP": 4.286
+  },
+  {
+    "LOCATION": "SAU",
+    "SUBJECT": "BEEF",
+    "TIME": 2029,
+    "KGPERCAP": 4.342
+  },
+  {
+    "LOCATION": "SAU",
+    "SUBJECT": "PIG",
+    "TIME": 2018,
+    "KGPERCAP": 0.486
+  },
+  {
+    "LOCATION": "SAU",
+    "SUBJECT": "PIG",
+    "TIME": 2019,
+    "KGPERCAP": 0.409
+  },
+  {
+    "LOCATION": "SAU",
+    "SUBJECT": "PIG",
+    "TIME": 2020,
+    "KGPERCAP": 0.402
+  },
+  {
+    "LOCATION": "SAU",
+    "SUBJECT": "PIG",
+    "TIME": 2021,
+    "KGPERCAP": 0.396
+  },
+  {
+    "LOCATION": "SAU",
+    "SUBJECT": "PIG",
+    "TIME": 2022,
+    "KGPERCAP": 0.39
+  },
+  {
+    "LOCATION": "SAU",
+    "SUBJECT": "PIG",
+    "TIME": 2023,
+    "KGPERCAP": 0.385
+  },
+  {
+    "LOCATION": "SAU",
+    "SUBJECT": "PIG",
+    "TIME": 2024,
+    "KGPERCAP": 0.379
+  },
+  {
+    "LOCATION": "SAU",
+    "SUBJECT": "PIG",
+    "TIME": 2025,
+    "KGPERCAP": 0.374
+  },
+  {
+    "LOCATION": "SAU",
+    "SUBJECT": "PIG",
+    "TIME": 2026,
+    "KGPERCAP": 0.37
+  },
+  {
+    "LOCATION": "SAU",
+    "SUBJECT": "PIG",
+    "TIME": 2027,
+    "KGPERCAP": 0.365
+  },
+  {
+    "LOCATION": "SAU",
+    "SUBJECT": "PIG",
+    "TIME": 2028,
+    "KGPERCAP": 0.361
+  },
+  {
+    "LOCATION": "SAU",
+    "SUBJECT": "PIG",
+    "TIME": 2029,
+    "KGPERCAP": 0.357
+  },
+  {
+    "LOCATION": "SAU",
+    "SUBJECT": "POULTRY",
+    "TIME": 2018,
+    "KGPERCAP": 35.233
+  },
+  {
+    "LOCATION": "SAU",
+    "SUBJECT": "POULTRY",
+    "TIME": 2019,
+    "KGPERCAP": 34.93
+  },
+  {
+    "LOCATION": "SAU",
+    "SUBJECT": "POULTRY",
+    "TIME": 2020,
+    "KGPERCAP": 34.83
+  },
+  {
+    "LOCATION": "SAU",
+    "SUBJECT": "POULTRY",
+    "TIME": 2021,
+    "KGPERCAP": 34.763
+  },
+  {
+    "LOCATION": "SAU",
+    "SUBJECT": "POULTRY",
+    "TIME": 2022,
+    "KGPERCAP": 34.712
+  },
+  {
+    "LOCATION": "SAU",
+    "SUBJECT": "POULTRY",
+    "TIME": 2023,
+    "KGPERCAP": 34.676
+  },
+  {
+    "LOCATION": "SAU",
+    "SUBJECT": "POULTRY",
+    "TIME": 2024,
+    "KGPERCAP": 34.661
+  },
+  {
+    "LOCATION": "SAU",
+    "SUBJECT": "POULTRY",
+    "TIME": 2025,
+    "KGPERCAP": 34.658
+  },
+  {
+    "LOCATION": "SAU",
+    "SUBJECT": "POULTRY",
+    "TIME": 2026,
+    "KGPERCAP": 34.669
+  },
+  {
+    "LOCATION": "SAU",
+    "SUBJECT": "POULTRY",
+    "TIME": 2027,
+    "KGPERCAP": 34.692
+  },
+  {
+    "LOCATION": "SAU",
+    "SUBJECT": "POULTRY",
+    "TIME": 2028,
+    "KGPERCAP": 34.726
+  },
+  {
+    "LOCATION": "SAU",
+    "SUBJECT": "POULTRY",
+    "TIME": 2029,
+    "KGPERCAP": 34.772
+  },
+  {
+    "LOCATION": "SAU",
+    "SUBJECT": "SHEEP",
+    "TIME": 2018,
+    "KGPERCAP": 4.41
+  },
+  {
+    "LOCATION": "SAU",
+    "SUBJECT": "SHEEP",
+    "TIME": 2019,
+    "KGPERCAP": 4.427
+  },
+  {
+    "LOCATION": "SAU",
+    "SUBJECT": "SHEEP",
+    "TIME": 2020,
+    "KGPERCAP": 4.387
+  },
+  {
+    "LOCATION": "SAU",
+    "SUBJECT": "SHEEP",
+    "TIME": 2021,
+    "KGPERCAP": 4.355
+  },
+  {
+    "LOCATION": "SAU",
+    "SUBJECT": "SHEEP",
+    "TIME": 2022,
+    "KGPERCAP": 4.326
+  },
+  {
+    "LOCATION": "SAU",
+    "SUBJECT": "SHEEP",
+    "TIME": 2023,
+    "KGPERCAP": 4.297
+  },
+  {
+    "LOCATION": "SAU",
+    "SUBJECT": "SHEEP",
+    "TIME": 2024,
+    "KGPERCAP": 4.267
+  },
+  {
+    "LOCATION": "SAU",
+    "SUBJECT": "SHEEP",
+    "TIME": 2025,
+    "KGPERCAP": 4.237
+  },
+  {
+    "LOCATION": "SAU",
+    "SUBJECT": "SHEEP",
+    "TIME": 2026,
+    "KGPERCAP": 4.208
+  },
+  {
+    "LOCATION": "SAU",
+    "SUBJECT": "SHEEP",
+    "TIME": 2027,
+    "KGPERCAP": 4.178
+  },
+  {
+    "LOCATION": "SAU",
+    "SUBJECT": "SHEEP",
+    "TIME": 2028,
+    "KGPERCAP": 4.149
+  },
+  {
+    "LOCATION": "SAU",
+    "SUBJECT": "SHEEP",
+    "TIME": 2029,
+    "KGPERCAP": 4.12
+  },
+  {
+    "LOCATION": "ZAF",
+    "SUBJECT": "BEEF",
+    "TIME": 2018,
+    "KGPERCAP": 11.751
+  },
+  {
+    "LOCATION": "ZAF",
+    "SUBJECT": "BEEF",
+    "TIME": 2019,
+    "KGPERCAP": 11.142
+  },
+  {
+    "LOCATION": "ZAF",
+    "SUBJECT": "BEEF",
+    "TIME": 2020,
+    "KGPERCAP": 11.395
+  },
+  {
+    "LOCATION": "ZAF",
+    "SUBJECT": "BEEF",
+    "TIME": 2021,
+    "KGPERCAP": 11.692
+  },
+  {
+    "LOCATION": "ZAF",
+    "SUBJECT": "BEEF",
+    "TIME": 2022,
+    "KGPERCAP": 11.968
+  },
+  {
+    "LOCATION": "ZAF",
+    "SUBJECT": "BEEF",
+    "TIME": 2023,
+    "KGPERCAP": 12.242
+  },
+  {
+    "LOCATION": "ZAF",
+    "SUBJECT": "BEEF",
+    "TIME": 2024,
+    "KGPERCAP": 12.514
+  },
+  {
+    "LOCATION": "ZAF",
+    "SUBJECT": "BEEF",
+    "TIME": 2025,
+    "KGPERCAP": 12.791
+  },
+  {
+    "LOCATION": "ZAF",
+    "SUBJECT": "BEEF",
+    "TIME": 2026,
+    "KGPERCAP": 13.054
+  },
+  {
+    "LOCATION": "ZAF",
+    "SUBJECT": "BEEF",
+    "TIME": 2027,
+    "KGPERCAP": 13.318
+  },
+  {
+    "LOCATION": "ZAF",
+    "SUBJECT": "BEEF",
+    "TIME": 2028,
+    "KGPERCAP": 13.581
+  },
+  {
+    "LOCATION": "ZAF",
+    "SUBJECT": "BEEF",
+    "TIME": 2029,
+    "KGPERCAP": 13.844
+  },
+  {
+    "LOCATION": "ZAF",
+    "SUBJECT": "PIG",
+    "TIME": 2018,
+    "KGPERCAP": 3.698
+  },
+  {
+    "LOCATION": "ZAF",
+    "SUBJECT": "PIG",
+    "TIME": 2019,
+    "KGPERCAP": 3.686
+  },
+  {
+    "LOCATION": "ZAF",
+    "SUBJECT": "PIG",
+    "TIME": 2020,
+    "KGPERCAP": 3.699
+  },
+  {
+    "LOCATION": "ZAF",
+    "SUBJECT": "PIG",
+    "TIME": 2021,
+    "KGPERCAP": 3.751
+  },
+  {
+    "LOCATION": "ZAF",
+    "SUBJECT": "PIG",
+    "TIME": 2022,
+    "KGPERCAP": 3.796
+  },
+  {
+    "LOCATION": "ZAF",
+    "SUBJECT": "PIG",
+    "TIME": 2023,
+    "KGPERCAP": 3.842
+  },
+  {
+    "LOCATION": "ZAF",
+    "SUBJECT": "PIG",
+    "TIME": 2024,
+    "KGPERCAP": 3.89
+  },
+  {
+    "LOCATION": "ZAF",
+    "SUBJECT": "PIG",
+    "TIME": 2025,
+    "KGPERCAP": 3.937
+  },
+  {
+    "LOCATION": "ZAF",
+    "SUBJECT": "PIG",
+    "TIME": 2026,
+    "KGPERCAP": 3.985
+  },
+  {
+    "LOCATION": "ZAF",
+    "SUBJECT": "PIG",
+    "TIME": 2027,
+    "KGPERCAP": 4.035
+  },
+  {
+    "LOCATION": "ZAF",
+    "SUBJECT": "PIG",
+    "TIME": 2028,
+    "KGPERCAP": 4.085
+  },
+  {
+    "LOCATION": "ZAF",
+    "SUBJECT": "PIG",
+    "TIME": 2029,
+    "KGPERCAP": 4.137
+  },
+  {
+    "LOCATION": "ZAF",
+    "SUBJECT": "POULTRY",
+    "TIME": 2018,
+    "KGPERCAP": 34.751
+  },
+  {
+    "LOCATION": "ZAF",
+    "SUBJECT": "POULTRY",
+    "TIME": 2019,
+    "KGPERCAP": 34.22
+  },
+  {
+    "LOCATION": "ZAF",
+    "SUBJECT": "POULTRY",
+    "TIME": 2020,
+    "KGPERCAP": 34.5
+  },
+  {
+    "LOCATION": "ZAF",
+    "SUBJECT": "POULTRY",
+    "TIME": 2021,
+    "KGPERCAP": 34.793
+  },
+  {
+    "LOCATION": "ZAF",
+    "SUBJECT": "POULTRY",
+    "TIME": 2022,
+    "KGPERCAP": 35.086
+  },
+  {
+    "LOCATION": "ZAF",
+    "SUBJECT": "POULTRY",
+    "TIME": 2023,
+    "KGPERCAP": 35.368
+  },
+  {
+    "LOCATION": "ZAF",
+    "SUBJECT": "POULTRY",
+    "TIME": 2024,
+    "KGPERCAP": 35.656
+  },
+  {
+    "LOCATION": "ZAF",
+    "SUBJECT": "POULTRY",
+    "TIME": 2025,
+    "KGPERCAP": 35.935
+  },
+  {
+    "LOCATION": "ZAF",
+    "SUBJECT": "POULTRY",
+    "TIME": 2026,
+    "KGPERCAP": 36.212
+  },
+  {
+    "LOCATION": "ZAF",
+    "SUBJECT": "POULTRY",
+    "TIME": 2027,
+    "KGPERCAP": 36.49
+  },
+  {
+    "LOCATION": "ZAF",
+    "SUBJECT": "POULTRY",
+    "TIME": 2028,
+    "KGPERCAP": 36.768
+  },
+  {
+    "LOCATION": "ZAF",
+    "SUBJECT": "POULTRY",
+    "TIME": 2029,
+    "KGPERCAP": 37.044
+  },
+  {
+    "LOCATION": "ZAF",
+    "SUBJECT": "SHEEP",
+    "TIME": 2018,
+    "KGPERCAP": 2.631
+  },
+  {
+    "LOCATION": "ZAF",
+    "SUBJECT": "SHEEP",
+    "TIME": 2019,
+    "KGPERCAP": 2.59
+  },
+  {
+    "LOCATION": "ZAF",
+    "SUBJECT": "SHEEP",
+    "TIME": 2020,
+    "KGPERCAP": 2.586
+  },
+  {
+    "LOCATION": "ZAF",
+    "SUBJECT": "SHEEP",
+    "TIME": 2021,
+    "KGPERCAP": 2.578
+  },
+  {
+    "LOCATION": "ZAF",
+    "SUBJECT": "SHEEP",
+    "TIME": 2022,
+    "KGPERCAP": 2.574
+  },
+  {
+    "LOCATION": "ZAF",
+    "SUBJECT": "SHEEP",
+    "TIME": 2023,
+    "KGPERCAP": 2.569
+  },
+  {
+    "LOCATION": "ZAF",
+    "SUBJECT": "SHEEP",
+    "TIME": 2024,
+    "KGPERCAP": 2.566
+  },
+  {
+    "LOCATION": "ZAF",
+    "SUBJECT": "SHEEP",
+    "TIME": 2025,
+    "KGPERCAP": 2.562
+  },
+  {
+    "LOCATION": "ZAF",
+    "SUBJECT": "SHEEP",
+    "TIME": 2026,
+    "KGPERCAP": 2.559
+  },
+  {
+    "LOCATION": "ZAF",
+    "SUBJECT": "SHEEP",
+    "TIME": 2027,
+    "KGPERCAP": 2.556
+  },
+  {
+    "LOCATION": "ZAF",
+    "SUBJECT": "SHEEP",
+    "TIME": 2028,
+    "KGPERCAP": 2.554
+  },
+  {
+    "LOCATION": "ZAF",
+    "SUBJECT": "SHEEP",
+    "TIME": 2029,
+    "KGPERCAP": 2.553
+  },
+  {
+    "LOCATION": "THA",
+    "SUBJECT": "BEEF",
+    "TIME": 2018,
+    "KGPERCAP": 1.306
+  },
+  {
+    "LOCATION": "THA",
+    "SUBJECT": "BEEF",
+    "TIME": 2019,
+    "KGPERCAP": 1.229
+  },
+  {
+    "LOCATION": "THA",
+    "SUBJECT": "BEEF",
+    "TIME": 2020,
+    "KGPERCAP": 1.233
+  },
+  {
+    "LOCATION": "THA",
+    "SUBJECT": "BEEF",
+    "TIME": 2021,
+    "KGPERCAP": 1.237
+  },
+  {
+    "LOCATION": "THA",
+    "SUBJECT": "BEEF",
+    "TIME": 2022,
+    "KGPERCAP": 1.246
+  },
+  {
+    "LOCATION": "THA",
+    "SUBJECT": "BEEF",
+    "TIME": 2023,
+    "KGPERCAP": 1.253
+  },
+  {
+    "LOCATION": "THA",
+    "SUBJECT": "BEEF",
+    "TIME": 2024,
+    "KGPERCAP": 1.257
+  },
+  {
+    "LOCATION": "THA",
+    "SUBJECT": "BEEF",
+    "TIME": 2025,
+    "KGPERCAP": 1.259
+  },
+  {
+    "LOCATION": "THA",
+    "SUBJECT": "BEEF",
+    "TIME": 2026,
+    "KGPERCAP": 1.261
+  },
+  {
+    "LOCATION": "THA",
+    "SUBJECT": "BEEF",
+    "TIME": 2027,
+    "KGPERCAP": 1.261
+  },
+  {
+    "LOCATION": "THA",
+    "SUBJECT": "BEEF",
+    "TIME": 2028,
+    "KGPERCAP": 1.262
+  },
+  {
+    "LOCATION": "THA",
+    "SUBJECT": "BEEF",
+    "TIME": 2029,
+    "KGPERCAP": 1.263
+  },
+  {
+    "LOCATION": "THA",
+    "SUBJECT": "PIG",
+    "TIME": 2018,
+    "KGPERCAP": 9.899
+  },
+  {
+    "LOCATION": "THA",
+    "SUBJECT": "PIG",
+    "TIME": 2019,
+    "KGPERCAP": 9.863
+  },
+  {
+    "LOCATION": "THA",
+    "SUBJECT": "PIG",
+    "TIME": 2020,
+    "KGPERCAP": 9.873
+  },
+  {
+    "LOCATION": "THA",
+    "SUBJECT": "PIG",
+    "TIME": 2021,
+    "KGPERCAP": 9.969
+  },
+  {
+    "LOCATION": "THA",
+    "SUBJECT": "PIG",
+    "TIME": 2022,
+    "KGPERCAP": 10.031
+  },
+  {
+    "LOCATION": "THA",
+    "SUBJECT": "PIG",
+    "TIME": 2023,
+    "KGPERCAP": 10.075
+  },
+  {
+    "LOCATION": "THA",
+    "SUBJECT": "PIG",
+    "TIME": 2024,
+    "KGPERCAP": 10.124
+  },
+  {
+    "LOCATION": "THA",
+    "SUBJECT": "PIG",
+    "TIME": 2025,
+    "KGPERCAP": 10.152
+  },
+  {
+    "LOCATION": "THA",
+    "SUBJECT": "PIG",
+    "TIME": 2026,
+    "KGPERCAP": 10.18
+  },
+  {
+    "LOCATION": "THA",
+    "SUBJECT": "PIG",
+    "TIME": 2027,
+    "KGPERCAP": 10.187
+  },
+  {
+    "LOCATION": "THA",
+    "SUBJECT": "PIG",
+    "TIME": 2028,
+    "KGPERCAP": 10.206
+  },
+  {
+    "LOCATION": "THA",
+    "SUBJECT": "PIG",
+    "TIME": 2029,
+    "KGPERCAP": 10.23
+  },
+  {
+    "LOCATION": "THA",
+    "SUBJECT": "POULTRY",
+    "TIME": 2018,
+    "KGPERCAP": 8.288
+  },
+  {
+    "LOCATION": "THA",
+    "SUBJECT": "POULTRY",
+    "TIME": 2019,
+    "KGPERCAP": 7.825
+  },
+  {
+    "LOCATION": "THA",
+    "SUBJECT": "POULTRY",
+    "TIME": 2020,
+    "KGPERCAP": 7.902
+  },
+  {
+    "LOCATION": "THA",
+    "SUBJECT": "POULTRY",
+    "TIME": 2021,
+    "KGPERCAP": 7.992
+  },
+  {
+    "LOCATION": "THA",
+    "SUBJECT": "POULTRY",
+    "TIME": 2022,
+    "KGPERCAP": 8.082
+  },
+  {
+    "LOCATION": "THA",
+    "SUBJECT": "POULTRY",
+    "TIME": 2023,
+    "KGPERCAP": 8.171
+  },
+  {
+    "LOCATION": "THA",
+    "SUBJECT": "POULTRY",
+    "TIME": 2024,
+    "KGPERCAP": 8.262
+  },
+  {
+    "LOCATION": "THA",
+    "SUBJECT": "POULTRY",
+    "TIME": 2025,
+    "KGPERCAP": 8.354
+  },
+  {
+    "LOCATION": "THA",
+    "SUBJECT": "POULTRY",
+    "TIME": 2026,
+    "KGPERCAP": 8.444
+  },
+  {
+    "LOCATION": "THA",
+    "SUBJECT": "POULTRY",
+    "TIME": 2027,
+    "KGPERCAP": 8.537
+  },
+  {
+    "LOCATION": "THA",
+    "SUBJECT": "POULTRY",
+    "TIME": 2028,
+    "KGPERCAP": 8.631
+  },
+  {
+    "LOCATION": "THA",
+    "SUBJECT": "POULTRY",
+    "TIME": 2029,
+    "KGPERCAP": 8.726
+  },
+  {
+    "LOCATION": "THA",
+    "SUBJECT": "SHEEP",
+    "TIME": 2018,
+    "KGPERCAP": 0.047
+  },
+  {
+    "LOCATION": "THA",
+    "SUBJECT": "SHEEP",
+    "TIME": 2019,
+    "KGPERCAP": 0.042
+  },
+  {
+    "LOCATION": "THA",
+    "SUBJECT": "SHEEP",
+    "TIME": 2020,
+    "KGPERCAP": 0.043
+  },
+  {
+    "LOCATION": "THA",
+    "SUBJECT": "SHEEP",
+    "TIME": 2021,
+    "KGPERCAP": 0.044
+  },
+  {
+    "LOCATION": "THA",
+    "SUBJECT": "SHEEP",
+    "TIME": 2022,
+    "KGPERCAP": 0.045
+  },
+  {
+    "LOCATION": "THA",
+    "SUBJECT": "SHEEP",
+    "TIME": 2023,
+    "KGPERCAP": 0.046
+  },
+  {
+    "LOCATION": "THA",
+    "SUBJECT": "SHEEP",
+    "TIME": 2024,
+    "KGPERCAP": 0.047
+  },
+  {
+    "LOCATION": "THA",
+    "SUBJECT": "SHEEP",
+    "TIME": 2025,
+    "KGPERCAP": 0.048
+  },
+  {
+    "LOCATION": "THA",
+    "SUBJECT": "SHEEP",
+    "TIME": 2026,
+    "KGPERCAP": 0.049
+  },
+  {
+    "LOCATION": "THA",
+    "SUBJECT": "SHEEP",
+    "TIME": 2027,
+    "KGPERCAP": 0.05
+  },
+  {
+    "LOCATION": "THA",
+    "SUBJECT": "SHEEP",
+    "TIME": 2028,
+    "KGPERCAP": 0.051
+  },
+  {
+    "LOCATION": "THA",
+    "SUBJECT": "SHEEP",
+    "TIME": 2029,
+    "KGPERCAP": 0.052
+  },
+  {
+    "LOCATION": "UKR",
+    "SUBJECT": "BEEF",
+    "TIME": 2018,
+    "KGPERCAP": 5.027
+  },
+  {
+    "LOCATION": "UKR",
+    "SUBJECT": "BEEF",
+    "TIME": 2019,
+    "KGPERCAP": 4.622
+  },
+  {
+    "LOCATION": "UKR",
+    "SUBJECT": "BEEF",
+    "TIME": 2020,
+    "KGPERCAP": 4.644
+  },
+  {
+    "LOCATION": "UKR",
+    "SUBJECT": "BEEF",
+    "TIME": 2021,
+    "KGPERCAP": 4.685
+  },
+  {
+    "LOCATION": "UKR",
+    "SUBJECT": "BEEF",
+    "TIME": 2022,
+    "KGPERCAP": 4.73
+  },
+  {
+    "LOCATION": "UKR",
+    "SUBJECT": "BEEF",
+    "TIME": 2023,
+    "KGPERCAP": 4.768
+  },
+  {
+    "LOCATION": "UKR",
+    "SUBJECT": "BEEF",
+    "TIME": 2024,
+    "KGPERCAP": 4.799
+  },
+  {
+    "LOCATION": "UKR",
+    "SUBJECT": "BEEF",
+    "TIME": 2025,
+    "KGPERCAP": 4.827
+  },
+  {
+    "LOCATION": "UKR",
+    "SUBJECT": "BEEF",
+    "TIME": 2026,
+    "KGPERCAP": 4.849
+  },
+  {
+    "LOCATION": "UKR",
+    "SUBJECT": "BEEF",
+    "TIME": 2027,
+    "KGPERCAP": 4.872
+  },
+  {
+    "LOCATION": "UKR",
+    "SUBJECT": "BEEF",
+    "TIME": 2028,
+    "KGPERCAP": 4.897
+  },
+  {
+    "LOCATION": "UKR",
+    "SUBJECT": "BEEF",
+    "TIME": 2029,
+    "KGPERCAP": 4.922
+  },
+  {
+    "LOCATION": "UKR",
+    "SUBJECT": "PIG",
+    "TIME": 2018,
+    "KGPERCAP": 13.009
+  },
+  {
+    "LOCATION": "UKR",
+    "SUBJECT": "PIG",
+    "TIME": 2019,
+    "KGPERCAP": 12.924
+  },
+  {
+    "LOCATION": "UKR",
+    "SUBJECT": "PIG",
+    "TIME": 2020,
+    "KGPERCAP": 12.86
+  },
+  {
+    "LOCATION": "UKR",
+    "SUBJECT": "PIG",
+    "TIME": 2021,
+    "KGPERCAP": 13.037
+  },
+  {
+    "LOCATION": "UKR",
+    "SUBJECT": "PIG",
+    "TIME": 2022,
+    "KGPERCAP": 13.223
+  },
+  {
+    "LOCATION": "UKR",
+    "SUBJECT": "PIG",
+    "TIME": 2023,
+    "KGPERCAP": 13.44
+  },
+  {
+    "LOCATION": "UKR",
+    "SUBJECT": "PIG",
+    "TIME": 2024,
+    "KGPERCAP": 13.629
+  },
+  {
+    "LOCATION": "UKR",
+    "SUBJECT": "PIG",
+    "TIME": 2025,
+    "KGPERCAP": 13.833
+  },
+  {
+    "LOCATION": "UKR",
+    "SUBJECT": "PIG",
+    "TIME": 2026,
+    "KGPERCAP": 14.032
+  },
+  {
+    "LOCATION": "UKR",
+    "SUBJECT": "PIG",
+    "TIME": 2027,
+    "KGPERCAP": 14.233
+  },
+  {
+    "LOCATION": "UKR",
+    "SUBJECT": "PIG",
+    "TIME": 2028,
+    "KGPERCAP": 14.434
+  },
+  {
+    "LOCATION": "UKR",
+    "SUBJECT": "PIG",
+    "TIME": 2029,
+    "KGPERCAP": 14.643
+  },
+  {
+    "LOCATION": "UKR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2018,
+    "KGPERCAP": 21.576
+  },
+  {
+    "LOCATION": "UKR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2019,
+    "KGPERCAP": 22.304
+  },
+  {
+    "LOCATION": "UKR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2020,
+    "KGPERCAP": 22.693
+  },
+  {
+    "LOCATION": "UKR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2021,
+    "KGPERCAP": 23.162
+  },
+  {
+    "LOCATION": "UKR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2022,
+    "KGPERCAP": 23.626
+  },
+  {
+    "LOCATION": "UKR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2023,
+    "KGPERCAP": 24.065
+  },
+  {
+    "LOCATION": "UKR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2024,
+    "KGPERCAP": 24.508
+  },
+  {
+    "LOCATION": "UKR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2025,
+    "KGPERCAP": 24.936
+  },
+  {
+    "LOCATION": "UKR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2026,
+    "KGPERCAP": 25.362
+  },
+  {
+    "LOCATION": "UKR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2027,
+    "KGPERCAP": 25.792
+  },
+  {
+    "LOCATION": "UKR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2028,
+    "KGPERCAP": 26.222
+  },
+  {
+    "LOCATION": "UKR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2029,
+    "KGPERCAP": 26.649
+  },
+  {
+    "LOCATION": "UKR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2018,
+    "KGPERCAP": 0.276
+  },
+  {
+    "LOCATION": "UKR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2019,
+    "KGPERCAP": 0.277
+  },
+  {
+    "LOCATION": "UKR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2020,
+    "KGPERCAP": 0.28
+  },
+  {
+    "LOCATION": "UKR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2021,
+    "KGPERCAP": 0.282
+  },
+  {
+    "LOCATION": "UKR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2022,
+    "KGPERCAP": 0.284
+  },
+  {
+    "LOCATION": "UKR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2023,
+    "KGPERCAP": 0.286
+  },
+  {
+    "LOCATION": "UKR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2024,
+    "KGPERCAP": 0.288
+  },
+  {
+    "LOCATION": "UKR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2025,
+    "KGPERCAP": 0.29
+  },
+  {
+    "LOCATION": "UKR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2026,
+    "KGPERCAP": 0.292
+  },
+  {
+    "LOCATION": "UKR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2027,
+    "KGPERCAP": 0.294
+  },
+  {
+    "LOCATION": "UKR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2028,
+    "KGPERCAP": 0.296
+  },
+  {
+    "LOCATION": "UKR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2029,
+    "KGPERCAP": 0.298
+  },
+  {
+    "LOCATION": "VNM",
+    "SUBJECT": "BEEF",
+    "TIME": 2018,
+    "KGPERCAP": 8.935
+  },
+  {
+    "LOCATION": "VNM",
+    "SUBJECT": "BEEF",
+    "TIME": 2019,
+    "KGPERCAP": 8.145
+  },
+  {
+    "LOCATION": "VNM",
+    "SUBJECT": "BEEF",
+    "TIME": 2020,
+    "KGPERCAP": 8.254
+  },
+  {
+    "LOCATION": "VNM",
+    "SUBJECT": "BEEF",
+    "TIME": 2021,
+    "KGPERCAP": 8.422
+  },
+  {
+    "LOCATION": "VNM",
+    "SUBJECT": "BEEF",
+    "TIME": 2022,
+    "KGPERCAP": 8.575
+  },
+  {
+    "LOCATION": "VNM",
+    "SUBJECT": "BEEF",
+    "TIME": 2023,
+    "KGPERCAP": 8.727
+  },
+  {
+    "LOCATION": "VNM",
+    "SUBJECT": "BEEF",
+    "TIME": 2024,
+    "KGPERCAP": 8.88
+  },
+  {
+    "LOCATION": "VNM",
+    "SUBJECT": "BEEF",
+    "TIME": 2025,
+    "KGPERCAP": 9.041
+  },
+  {
+    "LOCATION": "VNM",
+    "SUBJECT": "BEEF",
+    "TIME": 2026,
+    "KGPERCAP": 9.185
+  },
+  {
+    "LOCATION": "VNM",
+    "SUBJECT": "BEEF",
+    "TIME": 2027,
+    "KGPERCAP": 9.333
+  },
+  {
+    "LOCATION": "VNM",
+    "SUBJECT": "BEEF",
+    "TIME": 2028,
+    "KGPERCAP": 9.479
+  },
+  {
+    "LOCATION": "VNM",
+    "SUBJECT": "BEEF",
+    "TIME": 2029,
+    "KGPERCAP": 9.628
+  },
+  {
+    "LOCATION": "VNM",
+    "SUBJECT": "PIG",
+    "TIME": 2018,
+    "KGPERCAP": 31.399
+  },
+  {
+    "LOCATION": "VNM",
+    "SUBJECT": "PIG",
+    "TIME": 2019,
+    "KGPERCAP": 25.953
+  },
+  {
+    "LOCATION": "VNM",
+    "SUBJECT": "PIG",
+    "TIME": 2020,
+    "KGPERCAP": 25.017
+  },
+  {
+    "LOCATION": "VNM",
+    "SUBJECT": "PIG",
+    "TIME": 2021,
+    "KGPERCAP": 25.927
+  },
+  {
+    "LOCATION": "VNM",
+    "SUBJECT": "PIG",
+    "TIME": 2022,
+    "KGPERCAP": 26.819
+  },
+  {
+    "LOCATION": "VNM",
+    "SUBJECT": "PIG",
+    "TIME": 2023,
+    "KGPERCAP": 27.735
+  },
+  {
+    "LOCATION": "VNM",
+    "SUBJECT": "PIG",
+    "TIME": 2024,
+    "KGPERCAP": 28.639
+  },
+  {
+    "LOCATION": "VNM",
+    "SUBJECT": "PIG",
+    "TIME": 2025,
+    "KGPERCAP": 29.563
+  },
+  {
+    "LOCATION": "VNM",
+    "SUBJECT": "PIG",
+    "TIME": 2026,
+    "KGPERCAP": 30.843
+  },
+  {
+    "LOCATION": "VNM",
+    "SUBJECT": "PIG",
+    "TIME": 2027,
+    "KGPERCAP": 31.976
+  },
+  {
+    "LOCATION": "VNM",
+    "SUBJECT": "PIG",
+    "TIME": 2028,
+    "KGPERCAP": 32.381
+  },
+  {
+    "LOCATION": "VNM",
+    "SUBJECT": "PIG",
+    "TIME": 2029,
+    "KGPERCAP": 32.72
+  },
+  {
+    "LOCATION": "VNM",
+    "SUBJECT": "POULTRY",
+    "TIME": 2018,
+    "KGPERCAP": 15.361
+  },
+  {
+    "LOCATION": "VNM",
+    "SUBJECT": "POULTRY",
+    "TIME": 2019,
+    "KGPERCAP": 16.208
+  },
+  {
+    "LOCATION": "VNM",
+    "SUBJECT": "POULTRY",
+    "TIME": 2020,
+    "KGPERCAP": 16.521
+  },
+  {
+    "LOCATION": "VNM",
+    "SUBJECT": "POULTRY",
+    "TIME": 2021,
+    "KGPERCAP": 16.867
+  },
+  {
+    "LOCATION": "VNM",
+    "SUBJECT": "POULTRY",
+    "TIME": 2022,
+    "KGPERCAP": 17.219
+  },
+  {
+    "LOCATION": "VNM",
+    "SUBJECT": "POULTRY",
+    "TIME": 2023,
+    "KGPERCAP": 17.576
+  },
+  {
+    "LOCATION": "VNM",
+    "SUBJECT": "POULTRY",
+    "TIME": 2024,
+    "KGPERCAP": 17.948
+  },
+  {
+    "LOCATION": "VNM",
+    "SUBJECT": "POULTRY",
+    "TIME": 2025,
+    "KGPERCAP": 18.334
+  },
+  {
+    "LOCATION": "VNM",
+    "SUBJECT": "POULTRY",
+    "TIME": 2026,
+    "KGPERCAP": 18.73
+  },
+  {
+    "LOCATION": "VNM",
+    "SUBJECT": "POULTRY",
+    "TIME": 2027,
+    "KGPERCAP": 19.147
+  },
+  {
+    "LOCATION": "VNM",
+    "SUBJECT": "POULTRY",
+    "TIME": 2028,
+    "KGPERCAP": 19.579
+  },
+  {
+    "LOCATION": "VNM",
+    "SUBJECT": "POULTRY",
+    "TIME": 2029,
+    "KGPERCAP": 20.028
+  },
+  {
+    "LOCATION": "VNM",
+    "SUBJECT": "SHEEP",
+    "TIME": 2018,
+    "KGPERCAP": 0.164
+  },
+  {
+    "LOCATION": "VNM",
+    "SUBJECT": "SHEEP",
+    "TIME": 2019,
+    "KGPERCAP": 0.163
+  },
+  {
+    "LOCATION": "VNM",
+    "SUBJECT": "SHEEP",
+    "TIME": 2020,
+    "KGPERCAP": 0.167
+  },
+  {
+    "LOCATION": "VNM",
+    "SUBJECT": "SHEEP",
+    "TIME": 2021,
+    "KGPERCAP": 0.171
+  },
+  {
+    "LOCATION": "VNM",
+    "SUBJECT": "SHEEP",
+    "TIME": 2022,
+    "KGPERCAP": 0.175
+  },
+  {
+    "LOCATION": "VNM",
+    "SUBJECT": "SHEEP",
+    "TIME": 2023,
+    "KGPERCAP": 0.179
+  },
+  {
+    "LOCATION": "VNM",
+    "SUBJECT": "SHEEP",
+    "TIME": 2024,
+    "KGPERCAP": 0.183
+  },
+  {
+    "LOCATION": "VNM",
+    "SUBJECT": "SHEEP",
+    "TIME": 2025,
+    "KGPERCAP": 0.187
+  },
+  {
+    "LOCATION": "VNM",
+    "SUBJECT": "SHEEP",
+    "TIME": 2026,
+    "KGPERCAP": 0.191
+  },
+  {
+    "LOCATION": "VNM",
+    "SUBJECT": "SHEEP",
+    "TIME": 2027,
+    "KGPERCAP": 0.195
+  },
+  {
+    "LOCATION": "VNM",
+    "SUBJECT": "SHEEP",
+    "TIME": 2028,
+    "KGPERCAP": 0.199
+  },
+  {
+    "LOCATION": "VNM",
+    "SUBJECT": "SHEEP",
+    "TIME": 2029,
+    "KGPERCAP": 0.203
+  },
+  {
+    "LOCATION": "WLD",
+    "SUBJECT": "BEEF",
+    "TIME": 2018,
+    "KGPERCAP": 6.401
+  },
+  {
+    "LOCATION": "WLD",
+    "SUBJECT": "BEEF",
+    "TIME": 2019,
+    "KGPERCAP": 6.421
+  },
+  {
+    "LOCATION": "WLD",
+    "SUBJECT": "BEEF",
+    "TIME": 2020,
+    "KGPERCAP": 6.391
+  },
+  {
+    "LOCATION": "WLD",
+    "SUBJECT": "BEEF",
+    "TIME": 2021,
+    "KGPERCAP": 6.377
+  },
+  {
+    "LOCATION": "WLD",
+    "SUBJECT": "BEEF",
+    "TIME": 2022,
+    "KGPERCAP": 6.33
+  },
+  {
+    "LOCATION": "WLD",
+    "SUBJECT": "BEEF",
+    "TIME": 2023,
+    "KGPERCAP": 6.314
+  },
+  {
+    "LOCATION": "WLD",
+    "SUBJECT": "BEEF",
+    "TIME": 2024,
+    "KGPERCAP": 6.298
+  },
+  {
+    "LOCATION": "WLD",
+    "SUBJECT": "BEEF",
+    "TIME": 2025,
+    "KGPERCAP": 6.29
+  },
+  {
+    "LOCATION": "WLD",
+    "SUBJECT": "BEEF",
+    "TIME": 2026,
+    "KGPERCAP": 6.29
+  },
+  {
+    "LOCATION": "WLD",
+    "SUBJECT": "BEEF",
+    "TIME": 2027,
+    "KGPERCAP": 6.285
+  },
+  {
+    "LOCATION": "WLD",
+    "SUBJECT": "BEEF",
+    "TIME": 2028,
+    "KGPERCAP": 6.286
+  },
+  {
+    "LOCATION": "WLD",
+    "SUBJECT": "BEEF",
+    "TIME": 2029,
+    "KGPERCAP": 6.279
+  },
+  {
+    "LOCATION": "WLD",
+    "SUBJECT": "PIG",
+    "TIME": 2018,
+    "KGPERCAP": 12.327
+  },
+  {
+    "LOCATION": "WLD",
+    "SUBJECT": "PIG",
+    "TIME": 2019,
+    "KGPERCAP": 11.091
+  },
+  {
+    "LOCATION": "WLD",
+    "SUBJECT": "PIG",
+    "TIME": 2020,
+    "KGPERCAP": 10.678
+  },
+  {
+    "LOCATION": "WLD",
+    "SUBJECT": "PIG",
+    "TIME": 2021,
+    "KGPERCAP": 10.817
+  },
+  {
+    "LOCATION": "WLD",
+    "SUBJECT": "PIG",
+    "TIME": 2022,
+    "KGPERCAP": 11.085
+  },
+  {
+    "LOCATION": "WLD",
+    "SUBJECT": "PIG",
+    "TIME": 2023,
+    "KGPERCAP": 11.314
+  },
+  {
+    "LOCATION": "WLD",
+    "SUBJECT": "PIG",
+    "TIME": 2024,
+    "KGPERCAP": 11.554
+  },
+  {
+    "LOCATION": "WLD",
+    "SUBJECT": "PIG",
+    "TIME": 2025,
+    "KGPERCAP": 11.792
+  },
+  {
+    "LOCATION": "WLD",
+    "SUBJECT": "PIG",
+    "TIME": 2026,
+    "KGPERCAP": 11.859
+  },
+  {
+    "LOCATION": "WLD",
+    "SUBJECT": "PIG",
+    "TIME": 2027,
+    "KGPERCAP": 11.831
+  },
+  {
+    "LOCATION": "WLD",
+    "SUBJECT": "PIG",
+    "TIME": 2028,
+    "KGPERCAP": 11.793
+  },
+  {
+    "LOCATION": "WLD",
+    "SUBJECT": "PIG",
+    "TIME": 2029,
+    "KGPERCAP": 11.76
+  },
+  {
+    "LOCATION": "WLD",
+    "SUBJECT": "POULTRY",
+    "TIME": 2018,
+    "KGPERCAP": 14.334
+  },
+  {
+    "LOCATION": "WLD",
+    "SUBJECT": "POULTRY",
+    "TIME": 2019,
+    "KGPERCAP": 14.748
+  },
+  {
+    "LOCATION": "WLD",
+    "SUBJECT": "POULTRY",
+    "TIME": 2020,
+    "KGPERCAP": 14.875
+  },
+  {
+    "LOCATION": "WLD",
+    "SUBJECT": "POULTRY",
+    "TIME": 2021,
+    "KGPERCAP": 14.858
+  },
+  {
+    "LOCATION": "WLD",
+    "SUBJECT": "POULTRY",
+    "TIME": 2022,
+    "KGPERCAP": 14.852
+  },
+  {
+    "LOCATION": "WLD",
+    "SUBJECT": "POULTRY",
+    "TIME": 2023,
+    "KGPERCAP": 14.88
+  },
+  {
+    "LOCATION": "WLD",
+    "SUBJECT": "POULTRY",
+    "TIME": 2024,
+    "KGPERCAP": 14.909
+  },
+  {
+    "LOCATION": "WLD",
+    "SUBJECT": "POULTRY",
+    "TIME": 2025,
+    "KGPERCAP": 14.943
+  },
+  {
+    "LOCATION": "WLD",
+    "SUBJECT": "POULTRY",
+    "TIME": 2026,
+    "KGPERCAP": 14.977
+  },
+  {
+    "LOCATION": "WLD",
+    "SUBJECT": "POULTRY",
+    "TIME": 2027,
+    "KGPERCAP": 15.016
+  },
+  {
+    "LOCATION": "WLD",
+    "SUBJECT": "POULTRY",
+    "TIME": 2028,
+    "KGPERCAP": 15.059
+  },
+  {
+    "LOCATION": "WLD",
+    "SUBJECT": "POULTRY",
+    "TIME": 2029,
+    "KGPERCAP": 15.102
+  },
+  {
+    "LOCATION": "WLD",
+    "SUBJECT": "SHEEP",
+    "TIME": 2018,
+    "KGPERCAP": 1.745
+  },
+  {
+    "LOCATION": "WLD",
+    "SUBJECT": "SHEEP",
+    "TIME": 2019,
+    "KGPERCAP": 1.75
+  },
+  {
+    "LOCATION": "WLD",
+    "SUBJECT": "SHEEP",
+    "TIME": 2020,
+    "KGPERCAP": 1.759
+  },
+  {
+    "LOCATION": "WLD",
+    "SUBJECT": "SHEEP",
+    "TIME": 2021,
+    "KGPERCAP": 1.766
+  },
+  {
+    "LOCATION": "WLD",
+    "SUBJECT": "SHEEP",
+    "TIME": 2022,
+    "KGPERCAP": 1.774
+  },
+  {
+    "LOCATION": "WLD",
+    "SUBJECT": "SHEEP",
+    "TIME": 2023,
+    "KGPERCAP": 1.782
+  },
+  {
+    "LOCATION": "WLD",
+    "SUBJECT": "SHEEP",
+    "TIME": 2024,
+    "KGPERCAP": 1.789
+  },
+  {
+    "LOCATION": "WLD",
+    "SUBJECT": "SHEEP",
+    "TIME": 2025,
+    "KGPERCAP": 1.796
+  },
+  {
+    "LOCATION": "WLD",
+    "SUBJECT": "SHEEP",
+    "TIME": 2026,
+    "KGPERCAP": 1.796
+  },
+  {
+    "LOCATION": "WLD",
+    "SUBJECT": "SHEEP",
+    "TIME": 2027,
+    "KGPERCAP": 1.797
+  },
+  {
+    "LOCATION": "WLD",
+    "SUBJECT": "SHEEP",
+    "TIME": 2028,
+    "KGPERCAP": 1.799
+  },
+  {
+    "LOCATION": "WLD",
+    "SUBJECT": "SHEEP",
+    "TIME": 2029,
+    "KGPERCAP": 1.8
+  },
+  {
+    "LOCATION": "OECD",
+    "SUBJECT": "BEEF",
+    "TIME": 2018,
+    "KGPERCAP": 14.521
+  },
+  {
+    "LOCATION": "OECD",
+    "SUBJECT": "BEEF",
+    "TIME": 2019,
+    "KGPERCAP": 14.472
+  },
+  {
+    "LOCATION": "OECD",
+    "SUBJECT": "BEEF",
+    "TIME": 2020,
+    "KGPERCAP": 14.425
+  },
+  {
+    "LOCATION": "OECD",
+    "SUBJECT": "BEEF",
+    "TIME": 2021,
+    "KGPERCAP": 14.406
+  },
+  {
+    "LOCATION": "OECD",
+    "SUBJECT": "BEEF",
+    "TIME": 2022,
+    "KGPERCAP": 14.244
+  },
+  {
+    "LOCATION": "OECD",
+    "SUBJECT": "BEEF",
+    "TIME": 2023,
+    "KGPERCAP": 14.24
+  },
+  {
+    "LOCATION": "OECD",
+    "SUBJECT": "BEEF",
+    "TIME": 2024,
+    "KGPERCAP": 14.25
+  },
+  {
+    "LOCATION": "OECD",
+    "SUBJECT": "BEEF",
+    "TIME": 2025,
+    "KGPERCAP": 14.274
+  },
+  {
+    "LOCATION": "OECD",
+    "SUBJECT": "BEEF",
+    "TIME": 2026,
+    "KGPERCAP": 14.325
+  },
+  {
+    "LOCATION": "OECD",
+    "SUBJECT": "BEEF",
+    "TIME": 2027,
+    "KGPERCAP": 14.36
+  },
+  {
+    "LOCATION": "OECD",
+    "SUBJECT": "BEEF",
+    "TIME": 2028,
+    "KGPERCAP": 14.425
+  },
+  {
+    "LOCATION": "OECD",
+    "SUBJECT": "BEEF",
+    "TIME": 2029,
+    "KGPERCAP": 14.438
+  },
+  {
+    "LOCATION": "OECD",
+    "SUBJECT": "PIG",
+    "TIME": 2018,
+    "KGPERCAP": 23.014
+  },
+  {
+    "LOCATION": "OECD",
+    "SUBJECT": "PIG",
+    "TIME": 2019,
+    "KGPERCAP": 23.022
+  },
+  {
+    "LOCATION": "OECD",
+    "SUBJECT": "PIG",
+    "TIME": 2020,
+    "KGPERCAP": 22.856
+  },
+  {
+    "LOCATION": "OECD",
+    "SUBJECT": "PIG",
+    "TIME": 2021,
+    "KGPERCAP": 22.848
+  },
+  {
+    "LOCATION": "OECD",
+    "SUBJECT": "PIG",
+    "TIME": 2022,
+    "KGPERCAP": 22.82
+  },
+  {
+    "LOCATION": "OECD",
+    "SUBJECT": "PIG",
+    "TIME": 2023,
+    "KGPERCAP": 22.807
+  },
+  {
+    "LOCATION": "OECD",
+    "SUBJECT": "PIG",
+    "TIME": 2024,
+    "KGPERCAP": 22.844
+  },
+  {
+    "LOCATION": "OECD",
+    "SUBJECT": "PIG",
+    "TIME": 2025,
+    "KGPERCAP": 22.869
+  },
+  {
+    "LOCATION": "OECD",
+    "SUBJECT": "PIG",
+    "TIME": 2026,
+    "KGPERCAP": 22.886
+  },
+  {
+    "LOCATION": "OECD",
+    "SUBJECT": "PIG",
+    "TIME": 2027,
+    "KGPERCAP": 22.884
+  },
+  {
+    "LOCATION": "OECD",
+    "SUBJECT": "PIG",
+    "TIME": 2028,
+    "KGPERCAP": 22.882
+  },
+  {
+    "LOCATION": "OECD",
+    "SUBJECT": "PIG",
+    "TIME": 2029,
+    "KGPERCAP": 22.89
+  },
+  {
+    "LOCATION": "OECD",
+    "SUBJECT": "POULTRY",
+    "TIME": 2018,
+    "KGPERCAP": 30.686
+  },
+  {
+    "LOCATION": "OECD",
+    "SUBJECT": "POULTRY",
+    "TIME": 2019,
+    "KGPERCAP": 31.323
+  },
+  {
+    "LOCATION": "OECD",
+    "SUBJECT": "POULTRY",
+    "TIME": 2020,
+    "KGPERCAP": 31.708
+  },
+  {
+    "LOCATION": "OECD",
+    "SUBJECT": "POULTRY",
+    "TIME": 2021,
+    "KGPERCAP": 31.816
+  },
+  {
+    "LOCATION": "OECD",
+    "SUBJECT": "POULTRY",
+    "TIME": 2022,
+    "KGPERCAP": 31.984
+  },
+  {
+    "LOCATION": "OECD",
+    "SUBJECT": "POULTRY",
+    "TIME": 2023,
+    "KGPERCAP": 32.135
+  },
+  {
+    "LOCATION": "OECD",
+    "SUBJECT": "POULTRY",
+    "TIME": 2024,
+    "KGPERCAP": 32.276
+  },
+  {
+    "LOCATION": "OECD",
+    "SUBJECT": "POULTRY",
+    "TIME": 2025,
+    "KGPERCAP": 32.441
+  },
+  {
+    "LOCATION": "OECD",
+    "SUBJECT": "POULTRY",
+    "TIME": 2026,
+    "KGPERCAP": 32.566
+  },
+  {
+    "LOCATION": "OECD",
+    "SUBJECT": "POULTRY",
+    "TIME": 2027,
+    "KGPERCAP": 32.7
+  },
+  {
+    "LOCATION": "OECD",
+    "SUBJECT": "POULTRY",
+    "TIME": 2028,
+    "KGPERCAP": 32.85
+  },
+  {
+    "LOCATION": "OECD",
+    "SUBJECT": "POULTRY",
+    "TIME": 2029,
+    "KGPERCAP": 32.995
+  },
+  {
+    "LOCATION": "OECD",
+    "SUBJECT": "SHEEP",
+    "TIME": 2018,
+    "KGPERCAP": 1.317
+  },
+  {
+    "LOCATION": "OECD",
+    "SUBJECT": "SHEEP",
+    "TIME": 2019,
+    "KGPERCAP": 1.279
+  },
+  {
+    "LOCATION": "OECD",
+    "SUBJECT": "SHEEP",
+    "TIME": 2020,
+    "KGPERCAP": 1.269
+  },
+  {
+    "LOCATION": "OECD",
+    "SUBJECT": "SHEEP",
+    "TIME": 2021,
+    "KGPERCAP": 1.268
+  },
+  {
+    "LOCATION": "OECD",
+    "SUBJECT": "SHEEP",
+    "TIME": 2022,
+    "KGPERCAP": 1.267
+  },
+  {
+    "LOCATION": "OECD",
+    "SUBJECT": "SHEEP",
+    "TIME": 2023,
+    "KGPERCAP": 1.269
+  },
+  {
+    "LOCATION": "OECD",
+    "SUBJECT": "SHEEP",
+    "TIME": 2024,
+    "KGPERCAP": 1.269
+  },
+  {
+    "LOCATION": "OECD",
+    "SUBJECT": "SHEEP",
+    "TIME": 2025,
+    "KGPERCAP": 1.267
+  },
+  {
+    "LOCATION": "OECD",
+    "SUBJECT": "SHEEP",
+    "TIME": 2026,
+    "KGPERCAP": 1.266
+  },
+  {
+    "LOCATION": "OECD",
+    "SUBJECT": "SHEEP",
+    "TIME": 2027,
+    "KGPERCAP": 1.263
+  },
+  {
+    "LOCATION": "OECD",
+    "SUBJECT": "SHEEP",
+    "TIME": 2028,
+    "KGPERCAP": 1.264
+  },
+  {
+    "LOCATION": "OECD",
+    "SUBJECT": "SHEEP",
+    "TIME": 2029,
+    "KGPERCAP": 1.264
+  },
+  {
+    "LOCATION": "BRICS",
+    "SUBJECT": "BEEF",
+    "TIME": 2018,
+    "KGPERCAP": 4.179
+  },
+  {
+    "LOCATION": "BRICS",
+    "SUBJECT": "BEEF",
+    "TIME": 2019,
+    "KGPERCAP": 4.357
+  },
+  {
+    "LOCATION": "BRICS",
+    "SUBJECT": "BEEF",
+    "TIME": 2020,
+    "KGPERCAP": 4.349
+  },
+  {
+    "LOCATION": "BRICS",
+    "SUBJECT": "BEEF",
+    "TIME": 2021,
+    "KGPERCAP": 4.34
+  },
+  {
+    "LOCATION": "BRICS",
+    "SUBJECT": "BEEF",
+    "TIME": 2022,
+    "KGPERCAP": 4.315
+  },
+  {
+    "LOCATION": "BRICS",
+    "SUBJECT": "BEEF",
+    "TIME": 2023,
+    "KGPERCAP": 4.298
+  },
+  {
+    "LOCATION": "BRICS",
+    "SUBJECT": "BEEF",
+    "TIME": 2024,
+    "KGPERCAP": 4.28
+  },
+  {
+    "LOCATION": "BRICS",
+    "SUBJECT": "BEEF",
+    "TIME": 2025,
+    "KGPERCAP": 4.27
+  },
+  {
+    "LOCATION": "BRICS",
+    "SUBJECT": "BEEF",
+    "TIME": 2026,
+    "KGPERCAP": 4.27
+  },
+  {
+    "LOCATION": "BRICS",
+    "SUBJECT": "BEEF",
+    "TIME": 2027,
+    "KGPERCAP": 4.265
+  },
+  {
+    "LOCATION": "BRICS",
+    "SUBJECT": "BEEF",
+    "TIME": 2028,
+    "KGPERCAP": 4.262
+  },
+  {
+    "LOCATION": "BRICS",
+    "SUBJECT": "BEEF",
+    "TIME": 2029,
+    "KGPERCAP": 4.26
+  },
+  {
+    "LOCATION": "BRICS",
+    "SUBJECT": "PIG",
+    "TIME": 2018,
+    "KGPERCAP": 15.405
+  },
+  {
+    "LOCATION": "BRICS",
+    "SUBJECT": "PIG",
+    "TIME": 2019,
+    "KGPERCAP": 12.773
+  },
+  {
+    "LOCATION": "BRICS",
+    "SUBJECT": "PIG",
+    "TIME": 2020,
+    "KGPERCAP": 12.002
+  },
+  {
+    "LOCATION": "BRICS",
+    "SUBJECT": "PIG",
+    "TIME": 2021,
+    "KGPERCAP": 12.406
+  },
+  {
+    "LOCATION": "BRICS",
+    "SUBJECT": "PIG",
+    "TIME": 2022,
+    "KGPERCAP": 13.138
+  },
+  {
+    "LOCATION": "BRICS",
+    "SUBJECT": "PIG",
+    "TIME": 2023,
+    "KGPERCAP": 13.772
+  },
+  {
+    "LOCATION": "BRICS",
+    "SUBJECT": "PIG",
+    "TIME": 2024,
+    "KGPERCAP": 14.421
+  },
+  {
+    "LOCATION": "BRICS",
+    "SUBJECT": "PIG",
+    "TIME": 2025,
+    "KGPERCAP": 15.071
+  },
+  {
+    "LOCATION": "BRICS",
+    "SUBJECT": "PIG",
+    "TIME": 2026,
+    "KGPERCAP": 15.302
+  },
+  {
+    "LOCATION": "BRICS",
+    "SUBJECT": "PIG",
+    "TIME": 2027,
+    "KGPERCAP": 15.312
+  },
+  {
+    "LOCATION": "BRICS",
+    "SUBJECT": "PIG",
+    "TIME": 2028,
+    "KGPERCAP": 15.319
+  },
+  {
+    "LOCATION": "BRICS",
+    "SUBJECT": "PIG",
+    "TIME": 2029,
+    "KGPERCAP": 15.336
+  },
+  {
+    "LOCATION": "BRICS",
+    "SUBJECT": "POULTRY",
+    "TIME": 2018,
+    "KGPERCAP": 11.17
+  },
+  {
+    "LOCATION": "BRICS",
+    "SUBJECT": "POULTRY",
+    "TIME": 2019,
+    "KGPERCAP": 11.92
+  },
+  {
+    "LOCATION": "BRICS",
+    "SUBJECT": "POULTRY",
+    "TIME": 2020,
+    "KGPERCAP": 12.067
+  },
+  {
+    "LOCATION": "BRICS",
+    "SUBJECT": "POULTRY",
+    "TIME": 2021,
+    "KGPERCAP": 11.999
+  },
+  {
+    "LOCATION": "BRICS",
+    "SUBJECT": "POULTRY",
+    "TIME": 2022,
+    "KGPERCAP": 11.933
+  },
+  {
+    "LOCATION": "BRICS",
+    "SUBJECT": "POULTRY",
+    "TIME": 2023,
+    "KGPERCAP": 11.958
+  },
+  {
+    "LOCATION": "BRICS",
+    "SUBJECT": "POULTRY",
+    "TIME": 2024,
+    "KGPERCAP": 11.986
+  },
+  {
+    "LOCATION": "BRICS",
+    "SUBJECT": "POULTRY",
+    "TIME": 2025,
+    "KGPERCAP": 12.019
+  },
+  {
+    "LOCATION": "BRICS",
+    "SUBJECT": "POULTRY",
+    "TIME": 2026,
+    "KGPERCAP": 12.065
+  },
+  {
+    "LOCATION": "BRICS",
+    "SUBJECT": "POULTRY",
+    "TIME": 2027,
+    "KGPERCAP": 12.117
+  },
+  {
+    "LOCATION": "BRICS",
+    "SUBJECT": "POULTRY",
+    "TIME": 2028,
+    "KGPERCAP": 12.171
+  },
+  {
+    "LOCATION": "BRICS",
+    "SUBJECT": "POULTRY",
+    "TIME": 2029,
+    "KGPERCAP": 12.226
+  },
+  {
+    "LOCATION": "BRICS",
+    "SUBJECT": "SHEEP",
+    "TIME": 2018,
+    "KGPERCAP": 1.723
+  },
+  {
+    "LOCATION": "BRICS",
+    "SUBJECT": "SHEEP",
+    "TIME": 2019,
+    "KGPERCAP": 1.775
+  },
+  {
+    "LOCATION": "BRICS",
+    "SUBJECT": "SHEEP",
+    "TIME": 2020,
+    "KGPERCAP": 1.803
+  },
+  {
+    "LOCATION": "BRICS",
+    "SUBJECT": "SHEEP",
+    "TIME": 2021,
+    "KGPERCAP": 1.819
+  },
+  {
+    "LOCATION": "BRICS",
+    "SUBJECT": "SHEEP",
+    "TIME": 2022,
+    "KGPERCAP": 1.837
+  },
+  {
+    "LOCATION": "BRICS",
+    "SUBJECT": "SHEEP",
+    "TIME": 2023,
+    "KGPERCAP": 1.855
+  },
+  {
+    "LOCATION": "BRICS",
+    "SUBJECT": "SHEEP",
+    "TIME": 2024,
+    "KGPERCAP": 1.873
+  },
+  {
+    "LOCATION": "BRICS",
+    "SUBJECT": "SHEEP",
+    "TIME": 2025,
+    "KGPERCAP": 1.891
+  },
+  {
+    "LOCATION": "BRICS",
+    "SUBJECT": "SHEEP",
+    "TIME": 2026,
+    "KGPERCAP": 1.892
+  },
+  {
+    "LOCATION": "BRICS",
+    "SUBJECT": "SHEEP",
+    "TIME": 2027,
+    "KGPERCAP": 1.894
+  },
+  {
+    "LOCATION": "BRICS",
+    "SUBJECT": "SHEEP",
+    "TIME": 2028,
+    "KGPERCAP": 1.897
+  },
+  {
+    "LOCATION": "BRICS",
+    "SUBJECT": "SHEEP",
+    "TIME": 2029,
+    "KGPERCAP": 1.901
+  },
+  {
+    "LOCATION": "NOR",
+    "SUBJECT": "BEEF",
+    "TIME": 2018,
+    "KGPERCAP": 12.88
+  },
+  {
+    "LOCATION": "NOR",
+    "SUBJECT": "BEEF",
+    "TIME": 2019,
+    "KGPERCAP": 12.668
+  },
+  {
+    "LOCATION": "NOR",
+    "SUBJECT": "BEEF",
+    "TIME": 2020,
+    "KGPERCAP": 12.806
+  },
+  {
+    "LOCATION": "NOR",
+    "SUBJECT": "BEEF",
+    "TIME": 2021,
+    "KGPERCAP": 12.926
+  },
+  {
+    "LOCATION": "NOR",
+    "SUBJECT": "BEEF",
+    "TIME": 2022,
+    "KGPERCAP": 13.053
+  },
+  {
+    "LOCATION": "NOR",
+    "SUBJECT": "BEEF",
+    "TIME": 2023,
+    "KGPERCAP": 12.982
+  },
+  {
+    "LOCATION": "NOR",
+    "SUBJECT": "BEEF",
+    "TIME": 2024,
+    "KGPERCAP": 12.925
+  },
+  {
+    "LOCATION": "NOR",
+    "SUBJECT": "BEEF",
+    "TIME": 2025,
+    "KGPERCAP": 12.86
+  },
+  {
+    "LOCATION": "NOR",
+    "SUBJECT": "BEEF",
+    "TIME": 2026,
+    "KGPERCAP": 12.802
+  },
+  {
+    "LOCATION": "NOR",
+    "SUBJECT": "BEEF",
+    "TIME": 2027,
+    "KGPERCAP": 12.741
+  },
+  {
+    "LOCATION": "NOR",
+    "SUBJECT": "BEEF",
+    "TIME": 2028,
+    "KGPERCAP": 12.686
+  },
+  {
+    "LOCATION": "NOR",
+    "SUBJECT": "BEEF",
+    "TIME": 2029,
+    "KGPERCAP": 12.628
+  },
+  {
+    "LOCATION": "NOR",
+    "SUBJECT": "PIG",
+    "TIME": 2018,
+    "KGPERCAP": 20.974
+  },
+  {
+    "LOCATION": "NOR",
+    "SUBJECT": "PIG",
+    "TIME": 2019,
+    "KGPERCAP": 21.03
+  },
+  {
+    "LOCATION": "NOR",
+    "SUBJECT": "PIG",
+    "TIME": 2020,
+    "KGPERCAP": 21.102
+  },
+  {
+    "LOCATION": "NOR",
+    "SUBJECT": "PIG",
+    "TIME": 2021,
+    "KGPERCAP": 21.082
+  },
+  {
+    "LOCATION": "NOR",
+    "SUBJECT": "PIG",
+    "TIME": 2022,
+    "KGPERCAP": 21.033
+  },
+  {
+    "LOCATION": "NOR",
+    "SUBJECT": "PIG",
+    "TIME": 2023,
+    "KGPERCAP": 21.007
+  },
+  {
+    "LOCATION": "NOR",
+    "SUBJECT": "PIG",
+    "TIME": 2024,
+    "KGPERCAP": 20.965
+  },
+  {
+    "LOCATION": "NOR",
+    "SUBJECT": "PIG",
+    "TIME": 2025,
+    "KGPERCAP": 20.938
+  },
+  {
+    "LOCATION": "NOR",
+    "SUBJECT": "PIG",
+    "TIME": 2026,
+    "KGPERCAP": 20.904
+  },
+  {
+    "LOCATION": "NOR",
+    "SUBJECT": "PIG",
+    "TIME": 2027,
+    "KGPERCAP": 20.879
+  },
+  {
+    "LOCATION": "NOR",
+    "SUBJECT": "PIG",
+    "TIME": 2028,
+    "KGPERCAP": 20.847
+  },
+  {
+    "LOCATION": "NOR",
+    "SUBJECT": "PIG",
+    "TIME": 2029,
+    "KGPERCAP": 20.825
+  },
+  {
+    "LOCATION": "NOR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2018,
+    "KGPERCAP": 17.314
+  },
+  {
+    "LOCATION": "NOR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2019,
+    "KGPERCAP": 17.741
+  },
+  {
+    "LOCATION": "NOR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2020,
+    "KGPERCAP": 17.837
+  },
+  {
+    "LOCATION": "NOR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2021,
+    "KGPERCAP": 17.927
+  },
+  {
+    "LOCATION": "NOR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2022,
+    "KGPERCAP": 18.012
+  },
+  {
+    "LOCATION": "NOR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2023,
+    "KGPERCAP": 18.084
+  },
+  {
+    "LOCATION": "NOR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2024,
+    "KGPERCAP": 18.161
+  },
+  {
+    "LOCATION": "NOR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2025,
+    "KGPERCAP": 18.234
+  },
+  {
+    "LOCATION": "NOR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2026,
+    "KGPERCAP": 18.305
+  },
+  {
+    "LOCATION": "NOR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2027,
+    "KGPERCAP": 18.373
+  },
+  {
+    "LOCATION": "NOR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2028,
+    "KGPERCAP": 18.443
+  },
+  {
+    "LOCATION": "NOR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2029,
+    "KGPERCAP": 18.513
+  },
+  {
+    "LOCATION": "NOR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2018,
+    "KGPERCAP": 4.606
+  },
+  {
+    "LOCATION": "NOR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2019,
+    "KGPERCAP": 4.544
+  },
+  {
+    "LOCATION": "NOR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2020,
+    "KGPERCAP": 4.477
+  },
+  {
+    "LOCATION": "NOR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2021,
+    "KGPERCAP": 4.422
+  },
+  {
+    "LOCATION": "NOR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2022,
+    "KGPERCAP": 4.366
+  },
+  {
+    "LOCATION": "NOR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2023,
+    "KGPERCAP": 4.309
+  },
+  {
+    "LOCATION": "NOR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2024,
+    "KGPERCAP": 4.252
+  },
+  {
+    "LOCATION": "NOR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2025,
+    "KGPERCAP": 4.196
+  },
+  {
+    "LOCATION": "NOR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2026,
+    "KGPERCAP": 4.14
+  },
+  {
+    "LOCATION": "NOR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2027,
+    "KGPERCAP": 4.088
+  },
+  {
+    "LOCATION": "NOR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2028,
+    "KGPERCAP": 4.037
+  },
+  {
+    "LOCATION": "NOR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2029,
+    "KGPERCAP": 3.986
+  },
+  {
+    "LOCATION": "CHE",
+    "SUBJECT": "BEEF",
+    "TIME": 2018,
+    "KGPERCAP": 13.305
+  },
+  {
+    "LOCATION": "CHE",
+    "SUBJECT": "BEEF",
+    "TIME": 2019,
+    "KGPERCAP": 13.171
+  },
+  {
+    "LOCATION": "CHE",
+    "SUBJECT": "BEEF",
+    "TIME": 2020,
+    "KGPERCAP": 13.107
+  },
+  {
+    "LOCATION": "CHE",
+    "SUBJECT": "BEEF",
+    "TIME": 2021,
+    "KGPERCAP": 13.01
+  },
+  {
+    "LOCATION": "CHE",
+    "SUBJECT": "BEEF",
+    "TIME": 2022,
+    "KGPERCAP": 12.929
+  },
+  {
+    "LOCATION": "CHE",
+    "SUBJECT": "BEEF",
+    "TIME": 2023,
+    "KGPERCAP": 12.845
+  },
+  {
+    "LOCATION": "CHE",
+    "SUBJECT": "BEEF",
+    "TIME": 2024,
+    "KGPERCAP": 12.761
+  },
+  {
+    "LOCATION": "CHE",
+    "SUBJECT": "BEEF",
+    "TIME": 2025,
+    "KGPERCAP": 12.685
+  },
+  {
+    "LOCATION": "CHE",
+    "SUBJECT": "BEEF",
+    "TIME": 2026,
+    "KGPERCAP": 12.608
+  },
+  {
+    "LOCATION": "CHE",
+    "SUBJECT": "BEEF",
+    "TIME": 2027,
+    "KGPERCAP": 12.571
+  },
+  {
+    "LOCATION": "CHE",
+    "SUBJECT": "BEEF",
+    "TIME": 2028,
+    "KGPERCAP": 12.538
+  },
+  {
+    "LOCATION": "CHE",
+    "SUBJECT": "BEEF",
+    "TIME": 2029,
+    "KGPERCAP": 12.506
+  },
+  {
+    "LOCATION": "CHE",
+    "SUBJECT": "PIG",
+    "TIME": 2018,
+    "KGPERCAP": 22.596
+  },
+  {
+    "LOCATION": "CHE",
+    "SUBJECT": "PIG",
+    "TIME": 2019,
+    "KGPERCAP": 22.545
+  },
+  {
+    "LOCATION": "CHE",
+    "SUBJECT": "PIG",
+    "TIME": 2020,
+    "KGPERCAP": 22.46
+  },
+  {
+    "LOCATION": "CHE",
+    "SUBJECT": "PIG",
+    "TIME": 2021,
+    "KGPERCAP": 22.37
+  },
+  {
+    "LOCATION": "CHE",
+    "SUBJECT": "PIG",
+    "TIME": 2022,
+    "KGPERCAP": 22.247
+  },
+  {
+    "LOCATION": "CHE",
+    "SUBJECT": "PIG",
+    "TIME": 2023,
+    "KGPERCAP": 22.171
+  },
+  {
+    "LOCATION": "CHE",
+    "SUBJECT": "PIG",
+    "TIME": 2024,
+    "KGPERCAP": 22.076
+  },
+  {
+    "LOCATION": "CHE",
+    "SUBJECT": "PIG",
+    "TIME": 2025,
+    "KGPERCAP": 21.988
+  },
+  {
+    "LOCATION": "CHE",
+    "SUBJECT": "PIG",
+    "TIME": 2026,
+    "KGPERCAP": 21.905
+  },
+  {
+    "LOCATION": "CHE",
+    "SUBJECT": "PIG",
+    "TIME": 2027,
+    "KGPERCAP": 21.826
+  },
+  {
+    "LOCATION": "CHE",
+    "SUBJECT": "PIG",
+    "TIME": 2028,
+    "KGPERCAP": 21.747
+  },
+  {
+    "LOCATION": "CHE",
+    "SUBJECT": "PIG",
+    "TIME": 2029,
+    "KGPERCAP": 21.681
+  },
+  {
+    "LOCATION": "CHE",
+    "SUBJECT": "POULTRY",
+    "TIME": 2018,
+    "KGPERCAP": 14.666
+  },
+  {
+    "LOCATION": "CHE",
+    "SUBJECT": "POULTRY",
+    "TIME": 2019,
+    "KGPERCAP": 14.729
+  },
+  {
+    "LOCATION": "CHE",
+    "SUBJECT": "POULTRY",
+    "TIME": 2020,
+    "KGPERCAP": 14.769
+  },
+  {
+    "LOCATION": "CHE",
+    "SUBJECT": "POULTRY",
+    "TIME": 2021,
+    "KGPERCAP": 14.841
+  },
+  {
+    "LOCATION": "CHE",
+    "SUBJECT": "POULTRY",
+    "TIME": 2022,
+    "KGPERCAP": 14.91
+  },
+  {
+    "LOCATION": "CHE",
+    "SUBJECT": "POULTRY",
+    "TIME": 2023,
+    "KGPERCAP": 15.017
+  },
+  {
+    "LOCATION": "CHE",
+    "SUBJECT": "POULTRY",
+    "TIME": 2024,
+    "KGPERCAP": 15.131
+  },
+  {
+    "LOCATION": "CHE",
+    "SUBJECT": "POULTRY",
+    "TIME": 2025,
+    "KGPERCAP": 15.243
+  },
+  {
+    "LOCATION": "CHE",
+    "SUBJECT": "POULTRY",
+    "TIME": 2026,
+    "KGPERCAP": 15.354
+  },
+  {
+    "LOCATION": "CHE",
+    "SUBJECT": "POULTRY",
+    "TIME": 2027,
+    "KGPERCAP": 15.465
+  },
+  {
+    "LOCATION": "CHE",
+    "SUBJECT": "POULTRY",
+    "TIME": 2028,
+    "KGPERCAP": 15.576
+  },
+  {
+    "LOCATION": "CHE",
+    "SUBJECT": "POULTRY",
+    "TIME": 2029,
+    "KGPERCAP": 15.689
+  },
+  {
+    "LOCATION": "CHE",
+    "SUBJECT": "SHEEP",
+    "TIME": 2018,
+    "KGPERCAP": 1.192
+  },
+  {
+    "LOCATION": "CHE",
+    "SUBJECT": "SHEEP",
+    "TIME": 2019,
+    "KGPERCAP": 1.183
+  },
+  {
+    "LOCATION": "CHE",
+    "SUBJECT": "SHEEP",
+    "TIME": 2020,
+    "KGPERCAP": 1.146
+  },
+  {
+    "LOCATION": "CHE",
+    "SUBJECT": "SHEEP",
+    "TIME": 2021,
+    "KGPERCAP": 1.142
+  },
+  {
+    "LOCATION": "CHE",
+    "SUBJECT": "SHEEP",
+    "TIME": 2022,
+    "KGPERCAP": 1.137
+  },
+  {
+    "LOCATION": "CHE",
+    "SUBJECT": "SHEEP",
+    "TIME": 2023,
+    "KGPERCAP": 1.133
+  },
+  {
+    "LOCATION": "CHE",
+    "SUBJECT": "SHEEP",
+    "TIME": 2024,
+    "KGPERCAP": 1.13
+  },
+  {
+    "LOCATION": "CHE",
+    "SUBJECT": "SHEEP",
+    "TIME": 2025,
+    "KGPERCAP": 1.126
+  },
+  {
+    "LOCATION": "CHE",
+    "SUBJECT": "SHEEP",
+    "TIME": 2026,
+    "KGPERCAP": 1.123
+  },
+  {
+    "LOCATION": "CHE",
+    "SUBJECT": "SHEEP",
+    "TIME": 2027,
+    "KGPERCAP": 1.12
+  },
+  {
+    "LOCATION": "CHE",
+    "SUBJECT": "SHEEP",
+    "TIME": 2028,
+    "KGPERCAP": 1.117
+  },
+  {
+    "LOCATION": "CHE",
+    "SUBJECT": "SHEEP",
+    "TIME": 2029,
+    "KGPERCAP": 1.114
+  },
+  {
+    "LOCATION": "GBR",
+    "SUBJECT": "BEEF",
+    "TIME": 2018,
+    "KGPERCAP": 11.735
+  },
+  {
+    "LOCATION": "GBR",
+    "SUBJECT": "BEEF",
+    "TIME": 2019,
+    "KGPERCAP": 11.408
+  },
+  {
+    "LOCATION": "GBR",
+    "SUBJECT": "BEEF",
+    "TIME": 2020,
+    "KGPERCAP": 11.329
+  },
+  {
+    "LOCATION": "GBR",
+    "SUBJECT": "BEEF",
+    "TIME": 2021,
+    "KGPERCAP": 11.362
+  },
+  {
+    "LOCATION": "GBR",
+    "SUBJECT": "BEEF",
+    "TIME": 2022,
+    "KGPERCAP": 11.341
+  },
+  {
+    "LOCATION": "GBR",
+    "SUBJECT": "BEEF",
+    "TIME": 2023,
+    "KGPERCAP": 11.245
+  },
+  {
+    "LOCATION": "GBR",
+    "SUBJECT": "BEEF",
+    "TIME": 2024,
+    "KGPERCAP": 11.185
+  },
+  {
+    "LOCATION": "GBR",
+    "SUBJECT": "BEEF",
+    "TIME": 2025,
+    "KGPERCAP": 11.144
+  },
+  {
+    "LOCATION": "GBR",
+    "SUBJECT": "BEEF",
+    "TIME": 2026,
+    "KGPERCAP": 11.085
+  },
+  {
+    "LOCATION": "GBR",
+    "SUBJECT": "BEEF",
+    "TIME": 2027,
+    "KGPERCAP": 11.032
+  },
+  {
+    "LOCATION": "GBR",
+    "SUBJECT": "BEEF",
+    "TIME": 2028,
+    "KGPERCAP": 11.055
+  },
+  {
+    "LOCATION": "GBR",
+    "SUBJECT": "BEEF",
+    "TIME": 2029,
+    "KGPERCAP": 11.031
+  },
+  {
+    "LOCATION": "GBR",
+    "SUBJECT": "PIG",
+    "TIME": 2018,
+    "KGPERCAP": 16.834
+  },
+  {
+    "LOCATION": "GBR",
+    "SUBJECT": "PIG",
+    "TIME": 2019,
+    "KGPERCAP": 16.046
+  },
+  {
+    "LOCATION": "GBR",
+    "SUBJECT": "PIG",
+    "TIME": 2020,
+    "KGPERCAP": 15.816
+  },
+  {
+    "LOCATION": "GBR",
+    "SUBJECT": "PIG",
+    "TIME": 2021,
+    "KGPERCAP": 15.905
+  },
+  {
+    "LOCATION": "GBR",
+    "SUBJECT": "PIG",
+    "TIME": 2022,
+    "KGPERCAP": 15.914
+  },
+  {
+    "LOCATION": "GBR",
+    "SUBJECT": "PIG",
+    "TIME": 2023,
+    "KGPERCAP": 15.91
+  },
+  {
+    "LOCATION": "GBR",
+    "SUBJECT": "PIG",
+    "TIME": 2024,
+    "KGPERCAP": 15.913
+  },
+  {
+    "LOCATION": "GBR",
+    "SUBJECT": "PIG",
+    "TIME": 2025,
+    "KGPERCAP": 15.881
+  },
+  {
+    "LOCATION": "GBR",
+    "SUBJECT": "PIG",
+    "TIME": 2026,
+    "KGPERCAP": 15.809
+  },
+  {
+    "LOCATION": "GBR",
+    "SUBJECT": "PIG",
+    "TIME": 2027,
+    "KGPERCAP": 15.76
+  },
+  {
+    "LOCATION": "GBR",
+    "SUBJECT": "PIG",
+    "TIME": 2028,
+    "KGPERCAP": 15.711
+  },
+  {
+    "LOCATION": "GBR",
+    "SUBJECT": "PIG",
+    "TIME": 2029,
+    "KGPERCAP": 15.672
+  },
+  {
+    "LOCATION": "GBR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2018,
+    "KGPERCAP": 28.434
+  },
+  {
+    "LOCATION": "GBR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2019,
+    "KGPERCAP": 30.062
+  },
+  {
+    "LOCATION": "GBR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2020,
+    "KGPERCAP": 30.451
+  },
+  {
+    "LOCATION": "GBR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2021,
+    "KGPERCAP": 30.502
+  },
+  {
+    "LOCATION": "GBR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2022,
+    "KGPERCAP": 30.515
+  },
+  {
+    "LOCATION": "GBR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2023,
+    "KGPERCAP": 30.517
+  },
+  {
+    "LOCATION": "GBR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2024,
+    "KGPERCAP": 30.541
+  },
+  {
+    "LOCATION": "GBR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2025,
+    "KGPERCAP": 30.556
+  },
+  {
+    "LOCATION": "GBR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2026,
+    "KGPERCAP": 30.553
+  },
+  {
+    "LOCATION": "GBR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2027,
+    "KGPERCAP": 30.553
+  },
+  {
+    "LOCATION": "GBR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2028,
+    "KGPERCAP": 30.564
+  },
+  {
+    "LOCATION": "GBR",
+    "SUBJECT": "POULTRY",
+    "TIME": 2029,
+    "KGPERCAP": 30.563
+  },
+  {
+    "LOCATION": "GBR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2018,
+    "KGPERCAP": 3.921
+  },
+  {
+    "LOCATION": "GBR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2019,
+    "KGPERCAP": 3.935
+  },
+  {
+    "LOCATION": "GBR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2020,
+    "KGPERCAP": 3.928
+  },
+  {
+    "LOCATION": "GBR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2021,
+    "KGPERCAP": 3.912
+  },
+  {
+    "LOCATION": "GBR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2022,
+    "KGPERCAP": 3.9
+  },
+  {
+    "LOCATION": "GBR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2023,
+    "KGPERCAP": 3.888
+  },
+  {
+    "LOCATION": "GBR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2024,
+    "KGPERCAP": 3.874
+  },
+  {
+    "LOCATION": "GBR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2025,
+    "KGPERCAP": 3.861
+  },
+  {
+    "LOCATION": "GBR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2026,
+    "KGPERCAP": 3.847
+  },
+  {
+    "LOCATION": "GBR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2027,
+    "KGPERCAP": 3.836
+  },
+  {
+    "LOCATION": "GBR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2028,
+    "KGPERCAP": 3.826
+  },
+  {
+    "LOCATION": "GBR",
+    "SUBJECT": "SHEEP",
+    "TIME": 2029,
+    "KGPERCAP": 3.814
+  }
+]

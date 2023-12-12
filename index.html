@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+  div.tooltip {
+  position: absolute;
+  text-align: center;
+  /* width: 60px; */
+  /* height: 28px; */
+  padding: 5px;
+  font: 8px sans-serif;
+  background: #eeeeee;
+  border: 0px;
+  border-radius: 6px;
+  pointer-events: none;
+}
+div.tooltip label{
+  font-size: 15px;
+  position:relative;
+}
+button.cur{
+  background:#ffffff;
+  outline:5px solid black;
+}
+button{
+  background-color: #efefef;
+  border:none;
+  -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+    -moz-box-sizing: border-box;    /* Firefox, other Gecko */
+    box-sizing: border-box;         /* Opera/IE 8+ */
+    position:relative;
+    bottom: 290px;
+    left:20px;
+    font-size: 15px;
+    width:80px;
+    height:40px;
+    margin:5px;
+    border-radius:4px;
+    position:relative;
+}
+button:hover{
+  outline: 1px solid black;
+  background-color: #f4f4f4;
+}
+button.cur:hover{
+  outline: 6px solid black;
+}
+.slidecontainer{
+  position:absolute;
+  top:350px;
+  left:1001px;
+  width:250px;
+}
+#myRange{
+  -webkit-appearance: none;  /* Override default CSS styles */
+  appearance: none;
+  width: 100%; /* Full-width */
+  height: 25px; /* Specified height */
+  background: #d3d3d3; /* Grey background */
+  outline: none; /* Remove outline */
+  opacity: 0.7; /* Set transparency (for mouse-over effects on hover) */
+  -webkit-transition: .2s; /* 0.2 seconds transition on hover */
+  transition: opacity .2s;
+}
+#myRange::-webkit-slider-thumb {
+  -webkit-appearance: none; /* Override default look */
+  appearance: none;
+  width: 25px; /* Set a specific slider handle width */
+  height: 25px; /* Slider handle height */
+  background: #04AA6D; /* Green background */
+  cursor: pointer; /* Cursor on hover */
+}
+
+#myRange::-moz-range-thumb {
+  width: 25px; /* Set a specific slider handle width */
+  height: 25px; /* Slider handle height */
+  background: #04AA6D; /* Green background */
+  cursor: pointer; /* Cursor on hover */
+}
+.slidecontainer #time{
+  margin-left:106px;
+  position:relative;
+  top:10px;
+  font-size:20px;
+  font-weight:lighter;
+  font-family:sans-serif;
+}
+*{
+  margin:0;
+  padding:0;
+}
+
+h1{
+  font-size:40px;
+  font-family:sans-serif;
+  font-weight:lighter;
+  text-align:center;
+  position:relative;
+  top:50px;
+}
+</style>
+<!-- Load d3.js -->
+<script src="https://d3js.org/d3.v6.js"></script>
+<h1>Meat Consumption by Country over Time</h1>
+<!-- Create an element where the map will take place -->
+<svg id="my_dataviz" width="914" height="600" style = "position:relative; top: 100px;"></svg>
+<button onclick="pig()" id = "pig" style = "position:relative; bottom:180px;">Pork</button>
+<button onclick="beef()" id = "beef" style = "position:relative; bottom:180px;" class = "cur">Beef</button>
+<button onclick="poultry()" id = "poultry" style = "position:relative; bottom:180px;">Poultry</button>
+<button onclick="lamb()" id = "lamb" style = "position:relative; bottom:180px;">Lamb</button>
+
+<div class="slidecontainer">
+  <input type="range" min="0" max="11" value="0" class="slider" id="myRange"><br>
+  <label id = "time">2018</label>
+</div>
+<img id = "scale" src = "scalemid.png" width="920" style="position:relative; top:60px;"></img>
+<script>
+
+  // The svg
+  var slider = document.getElementById("myRange");
+var output = document.getElementById("time");
+var scale = document.getElementById("scale");
+
+// Update the current slider value (each time you drag the slider handle)
+slider.oninput = function() {
+  output.innerHTML = parseFloat(this.value) + 2018;
+  year = parseFloat(this.value); 
+  redraw();
+}
+  var type = "BEEF";
+  const svg = d3.select("svg"),
+    width = +svg.attr("width"),
+    height = +svg.attr("height");
+  
+var year = 0;
+    var div = d3.select("body").append("div")
+    .attr("class", "tooltip")
+    .style("opacity", 0);
+  // Map and projection
+  const path = d3.geoPath();
+  const projection = d3.geoMercator()
+    .scale(160)
+    .center([0,20])
+    .translate([width / 2, height / 2]);
+  
+  // Data and color scale
+  const data = new Map();
+  var beefScale = []
+  for(var i = 0; i < 800; i++){
+    beefScale.push(0.1 * i);
+  }
+  const colorScaleBeef = d3.scaleThreshold()
+    .domain(beefScale)
+    .range(["#feeae1","#fee9e0","#fee9de","#fee8dd","#fee7dc","#fee6db","#fee6da","#fee5d9","#fee4d8","#fee3d7","#fee2d6","#fee2d5","#fee1d4","#fee0d2","#fedfd1","#feded0","#feddcf","#fedccd","#fedbcc","#fedacb","#fed9ca","#fed8c8","#fed7c7","#fdd6c6","#fdd5c4","#fdd4c3","#fdd3c1","#fdd2c0","#fdd1bf","#fdd0bd","#fdcfbc","#fdceba","#fdcdb9","#fdccb7","#fdcbb6","#fdc9b4","#fdc8b3","#fdc7b2","#fdc6b0","#fdc5af","#fdc4ad","#fdc2ac","#fdc1aa","#fdc0a8","#fcbfa7","#fcbea5","#fcbca4","#fcbba2","#fcbaa1","#fcb99f","#fcb89e","#fcb69c","#fcb59b","#fcb499","#fcb398","#fcb196","#fcb095","#fcaf94","#fcae92","#fcac91","#fcab8f","#fcaa8e","#fca98c","#fca78b","#fca689","#fca588","#fca486","#fca285","#fca183","#fca082","#fc9e81","#fc9d7f","#fc9c7e","#fc9b7c","#fc997b","#fc987a","#fc9778","#fc9677","#fc9475","#fc9374","#fc9273","#fc9071","#fc8f70","#fc8e6f","#fc8d6d","#fc8b6c","#fc8a6b","#fc8969","#fc8868","#fc8667","#fc8565","#fc8464","#fb8263","#fb8162","#fb8060","#fb7f5f","#fb7d5e","#fb7c5d","#fb7b5b","#fb795a","#fb7859","#fb7758","#fb7657","#fb7455","#fa7354","#fa7253","#fa7052","#fa6f51","#fa6e50","#fa6c4e","#f96b4d","#f96a4c","#f9684b","#f9674a","#f96549","#f86448","#f86347","#f86146","#f86045","#f75e44","#f75d43","#f75c42","#f65a41","#f65940","#f6573f","#f5563e","#f5553d","#f4533c","#f4523b","#f4503a","#f34f39","#f34e38","#f24c37","#f24b37","#f14936","#f14835","#f04734","#ef4533","#ef4433","#ee4332","#ed4131","#ed4030","#ec3f2f","#eb3d2f","#eb3c2e","#ea3b2d","#e93a2d","#e8382c","#e7372b","#e6362b","#e6352a","#e5342a","#e43229","#e33128","#e23028","#e12f27","#e02e27","#df2d26","#de2c26","#dd2b25","#dc2a25","#db2924","#da2824","#d92723","#d72623","#d62522","#d52422","#d42321","#d32221","#d22121","#d12020","#d01f20","#ce1f1f","#cd1e1f","#cc1d1f","#cb1d1e","#ca1c1e","#c91b1e","#c71b1d","#c61a1d","#c5191d","#c4191c","#c3181c","#c2181c","#c0171b","#bf171b","#be161b","#bd161a","#bb151a","#ba151a","#b91419","#b81419","#b61419","#b51319","#b41318","#b21218","#b11218","#b01218","#ae1117","#ad1117","#ac1117","#aa1017","#a91016","#a71016","#a60f16","#a40f16","#a30e15","#a10e15","#a00e15","#9e0d15","#9c0d14","#9b0c14","#990c14","#970c14","#960b13","#940b13","#920a13","#900a13","#8f0a12","#8d0912","#8b0912","#890812","#870811","#860711","#840711","#820711","#800610","#7e0610","#7c0510","#7a0510","#78040f","#76040f","#75030f","#73030f","#71020e","#6f020e","#6d010e","#6b010e","#69000d","#67000d"]);
+  
+  var pigScale = []
+  for(var i = 0; i < 500; i++){
+    pigScale.push(0.1 * i);
+  }
+  const colorScalePig = d3.scaleThreshold()
+    .domain(pigScale)
+    .range(["#feeae1","#fee9e0","#fee9de","#fee8dd","#fee7dc","#fee6db","#fee6da","#fee5d9","#fee4d8","#fee3d7","#fee2d6","#fee2d5","#fee1d4","#fee0d2","#fedfd1","#feded0","#feddcf","#fedccd","#fedbcc","#fedacb","#fed9ca","#fed8c8","#fed7c7","#fdd6c6","#fdd5c4","#fdd4c3","#fdd3c1","#fdd2c0","#fdd1bf","#fdd0bd","#fdcfbc","#fdceba","#fdcdb9","#fdccb7","#fdcbb6","#fdc9b4","#fdc8b3","#fdc7b2","#fdc6b0","#fdc5af","#fdc4ad","#fdc2ac","#fdc1aa","#fdc0a8","#fcbfa7","#fcbea5","#fcbca4","#fcbba2","#fcbaa1","#fcb99f","#fcb89e","#fcb69c","#fcb59b","#fcb499","#fcb398","#fcb196","#fcb095","#fcaf94","#fcae92","#fcac91","#fcab8f","#fcaa8e","#fca98c","#fca78b","#fca689","#fca588","#fca486","#fca285","#fca183","#fca082","#fc9e81","#fc9d7f","#fc9c7e","#fc9b7c","#fc997b","#fc987a","#fc9778","#fc9677","#fc9475","#fc9374","#fc9273","#fc9071","#fc8f70","#fc8e6f","#fc8d6d","#fc8b6c","#fc8a6b","#fc8969","#fc8868","#fc8667","#fc8565","#fc8464","#fb8263","#fb8162","#fb8060","#fb7f5f","#fb7d5e","#fb7c5d","#fb7b5b","#fb795a","#fb7859","#fb7758","#fb7657","#fb7455","#fa7354","#fa7253","#fa7052","#fa6f51","#fa6e50","#fa6c4e","#f96b4d","#f96a4c","#f9684b","#f9674a","#f96549","#f86448","#f86347","#f86146","#f86045","#f75e44","#f75d43","#f75c42","#f65a41","#f65940","#f6573f","#f5563e","#f5553d","#f4533c","#f4523b","#f4503a","#f34f39","#f34e38","#f24c37","#f24b37","#f14936","#f14835","#f04734","#ef4533","#ef4433","#ee4332","#ed4131","#ed4030","#ec3f2f","#eb3d2f","#eb3c2e","#ea3b2d","#e93a2d","#e8382c","#e7372b","#e6362b","#e6352a","#e5342a","#e43229","#e33128","#e23028","#e12f27","#e02e27","#df2d26","#de2c26","#dd2b25","#dc2a25","#db2924","#da2824","#d92723","#d72623","#d62522","#d52422","#d42321","#d32221","#d22121","#d12020","#d01f20","#ce1f1f","#cd1e1f","#cc1d1f","#cb1d1e","#ca1c1e","#c91b1e","#c71b1d","#c61a1d","#c5191d","#c4191c","#c3181c","#c2181c","#c0171b","#bf171b","#be161b","#bd161a","#bb151a","#ba151a","#b91419","#b81419","#b61419","#b51319","#b41318","#b21218","#b11218","#b01218","#ae1117","#ad1117","#ac1117","#aa1017","#a91016","#a71016","#a60f16","#a40f16","#a30e15","#a10e15","#a00e15","#9e0d15","#9c0d14","#9b0c14","#990c14","#970c14","#960b13","#940b13","#920a13","#900a13","#8f0a12","#8d0912","#8b0912","#890812","#870811","#860711","#840711","#820711","#800610","#7e0610","#7c0510","#7a0510","#78040f","#76040f","#75030f","#73030f","#71020e","#6f020e","#6d010e","#6b010e","#69000d","#67000d"]);
+  
+  var lambScale = []
+  for(var i = 0; i < 500; i++){
+    lambScale.push(0.02 * i);
+  }
+  const colorScaleLamb = d3.scaleThreshold()
+    .domain(lambScale)
+    .range(["#feeae1","#fee9e0","#fee9de","#fee8dd","#fee7dc","#fee6db","#fee6da","#fee5d9","#fee4d8","#fee3d7","#fee2d6","#fee2d5","#fee1d4","#fee0d2","#fedfd1","#feded0","#feddcf","#fedccd","#fedbcc","#fedacb","#fed9ca","#fed8c8","#fed7c7","#fdd6c6","#fdd5c4","#fdd4c3","#fdd3c1","#fdd2c0","#fdd1bf","#fdd0bd","#fdcfbc","#fdceba","#fdcdb9","#fdccb7","#fdcbb6","#fdc9b4","#fdc8b3","#fdc7b2","#fdc6b0","#fdc5af","#fdc4ad","#fdc2ac","#fdc1aa","#fdc0a8","#fcbfa7","#fcbea5","#fcbca4","#fcbba2","#fcbaa1","#fcb99f","#fcb89e","#fcb69c","#fcb59b","#fcb499","#fcb398","#fcb196","#fcb095","#fcaf94","#fcae92","#fcac91","#fcab8f","#fcaa8e","#fca98c","#fca78b","#fca689","#fca588","#fca486","#fca285","#fca183","#fca082","#fc9e81","#fc9d7f","#fc9c7e","#fc9b7c","#fc997b","#fc987a","#fc9778","#fc9677","#fc9475","#fc9374","#fc9273","#fc9071","#fc8f70","#fc8e6f","#fc8d6d","#fc8b6c","#fc8a6b","#fc8969","#fc8868","#fc8667","#fc8565","#fc8464","#fb8263","#fb8162","#fb8060","#fb7f5f","#fb7d5e","#fb7c5d","#fb7b5b","#fb795a","#fb7859","#fb7758","#fb7657","#fb7455","#fa7354","#fa7253","#fa7052","#fa6f51","#fa6e50","#fa6c4e","#f96b4d","#f96a4c","#f9684b","#f9674a","#f96549","#f86448","#f86347","#f86146","#f86045","#f75e44","#f75d43","#f75c42","#f65a41","#f65940","#f6573f","#f5563e","#f5553d","#f4533c","#f4523b","#f4503a","#f34f39","#f34e38","#f24c37","#f24b37","#f14936","#f14835","#f04734","#ef4533","#ef4433","#ee4332","#ed4131","#ed4030","#ec3f2f","#eb3d2f","#eb3c2e","#ea3b2d","#e93a2d","#e8382c","#e7372b","#e6362b","#e6352a","#e5342a","#e43229","#e33128","#e23028","#e12f27","#e02e27","#df2d26","#de2c26","#dd2b25","#dc2a25","#db2924","#da2824","#d92723","#d72623","#d62522","#d52422","#d42321","#d32221","#d22121","#d12020","#d01f20","#ce1f1f","#cd1e1f","#cc1d1f","#cb1d1e","#ca1c1e","#c91b1e","#c71b1d","#c61a1d","#c5191d","#c4191c","#c3181c","#c2181c","#c0171b","#bf171b","#be161b","#bd161a","#bb151a","#ba151a","#b91419","#b81419","#b61419","#b51319","#b41318","#b21218","#b11218","#b01218","#ae1117","#ad1117","#ac1117","#aa1017","#a91016","#a71016","#a60f16","#a40f16","#a30e15","#a10e15","#a00e15","#9e0d15","#9c0d14","#9b0c14","#990c14","#970c14","#960b13","#940b13","#920a13","#900a13","#8f0a12","#8d0912","#8b0912","#890812","#870811","#860711","#840711","#820711","#800610","#7e0610","#7c0510","#7a0510","#78040f","#76040f","#75030f","#73030f","#71020e","#6f020e","#6d010e","#6b010e","#69000d","#67000d"]);
+
+
+
+  var poultryScale = []
+  for(var i = 0; i < 500; i++){
+    poultryScale.push(0.2 * i);
+  }
+  const colorScalePoultry = d3.scaleThreshold()
+    .domain(poultryScale)
+    .range(["#feeae1","#fee9e0","#fee9de","#fee8dd","#fee7dc","#fee6db","#fee6da","#fee5d9","#fee4d8","#fee3d7","#fee2d6","#fee2d5","#fee1d4","#fee0d2","#fedfd1","#feded0","#feddcf","#fedccd","#fedbcc","#fedacb","#fed9ca","#fed8c8","#fed7c7","#fdd6c6","#fdd5c4","#fdd4c3","#fdd3c1","#fdd2c0","#fdd1bf","#fdd0bd","#fdcfbc","#fdceba","#fdcdb9","#fdccb7","#fdcbb6","#fdc9b4","#fdc8b3","#fdc7b2","#fdc6b0","#fdc5af","#fdc4ad","#fdc2ac","#fdc1aa","#fdc0a8","#fcbfa7","#fcbea5","#fcbca4","#fcbba2","#fcbaa1","#fcb99f","#fcb89e","#fcb69c","#fcb59b","#fcb499","#fcb398","#fcb196","#fcb095","#fcaf94","#fcae92","#fcac91","#fcab8f","#fcaa8e","#fca98c","#fca78b","#fca689","#fca588","#fca486","#fca285","#fca183","#fca082","#fc9e81","#fc9d7f","#fc9c7e","#fc9b7c","#fc997b","#fc987a","#fc9778","#fc9677","#fc9475","#fc9374","#fc9273","#fc9071","#fc8f70","#fc8e6f","#fc8d6d","#fc8b6c","#fc8a6b","#fc8969","#fc8868","#fc8667","#fc8565","#fc8464","#fb8263","#fb8162","#fb8060","#fb7f5f","#fb7d5e","#fb7c5d","#fb7b5b","#fb795a","#fb7859","#fb7758","#fb7657","#fb7455","#fa7354","#fa7253","#fa7052","#fa6f51","#fa6e50","#fa6c4e","#f96b4d","#f96a4c","#f9684b","#f9674a","#f96549","#f86448","#f86347","#f86146","#f86045","#f75e44","#f75d43","#f75c42","#f65a41","#f65940","#f6573f","#f5563e","#f5553d","#f4533c","#f4523b","#f4503a","#f34f39","#f34e38","#f24c37","#f24b37","#f14936","#f14835","#f04734","#ef4533","#ef4433","#ee4332","#ed4131","#ed4030","#ec3f2f","#eb3d2f","#eb3c2e","#ea3b2d","#e93a2d","#e8382c","#e7372b","#e6362b","#e6352a","#e5342a","#e43229","#e33128","#e23028","#e12f27","#e02e27","#df2d26","#de2c26","#dd2b25","#dc2a25","#db2924","#da2824","#d92723","#d72623","#d62522","#d52422","#d42321","#d32221","#d22121","#d12020","#d01f20","#ce1f1f","#cd1e1f","#cc1d1f","#cb1d1e","#ca1c1e","#c91b1e","#c71b1d","#c61a1d","#c5191d","#c4191c","#c3181c","#c2181c","#c0171b","#bf171b","#be161b","#bd161a","#bb151a","#ba151a","#b91419","#b81419","#b61419","#b51319","#b41318","#b21218","#b11218","#b01218","#ae1117","#ad1117","#ac1117","#aa1017","#a91016","#a71016","#a60f16","#a40f16","#a30e15","#a10e15","#a00e15","#9e0d15","#9c0d14","#9b0c14","#990c14","#970c14","#960b13","#940b13","#920a13","#900a13","#8f0a12","#8d0912","#8b0912","#890812","#870811","#860711","#840711","#820711","#800610","#7e0610","#7c0510","#7a0510","#78040f","#76040f","#75030f","#73030f","#71020e","#6f020e","#6d010e","#6b010e","#69000d","#67000d"]);
+  // Load external data and boot
+  Promise.all([
+  d3.json("https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/world.geojson"),
+  d3.csv("good9.csv", function(d) {
+  
+      data.set(d.loc, [[+d.beef2018,+d.pig2018,+d.lamb2018,+d.poultry2018],[+d.beef2019,+d.pig2019,+d.lamb2019,+d.poultry2019],[+d.beef2020,+d.pig2020,+d.lamb2020,+d.poultry2020],[+d.beef2021,+d.pig2021,+d.lamb2021,+d.poultry2021],[+d.beef2022,+d.pig2022,+d.lamb2022,+d.poultry2022],[+d.beef2023,+d.pig2023,+d.lamb2023,+d.poultry2023],[+d.beef2024,+d.pig2024,+d.lamb2024,+d.poultry2024],[+d.beef2025,+d.pig2025,+d.lamb2025,+d.poultry2025][+d.beef2026,+d.pig2026,+d.lamb2026,+d.poultry2026],[+d.beef2027,+d.pig2027,+d.lamb2027,+d.poultry2027],[+d.beef2028,+d.pig2028,+d.lamb2028,+d.poultry2028],[+d.beef2029,+d.pig2029,+d.lamb2029,+d.poultry2029]])
+  }),
+]).then(function(loadData){
+      let topo = loadData[0]
+  
+      let mouseOver = function(d) {
+      d3.selectAll(".Country")
+        .transition()
+        .duration(200)
+        .style("opacity", .5)
+      d3.select(this)
+        .transition()
+        .duration(200)
+        .style("opacity", 1)
+        .style("stroke", "black")
+        .attr("stroke-width", 2)
+        div.transition()
+         .duration(200)
+         .style("opacity", 1);
+         var dat = data.get(d.srcElement.__data__.id) ||  ["NO DATA","NO DATA","NO DATA","NO DATA"];
+         // 0 = beef
+         // 1 = pig
+if(dat[0] == "NO DATA"){
+  div.html("<label>"+d.srcElement.__data__.properties.name+"</label><br>NO DATA")
+  .style("left", (event.pageX) + "px")
+         .style("top", (event.pageY - 28) + "px");
+}else{
+  if(type == "BEEF"){
+          div.html("<label>"+d.srcElement.__data__.properties.name+"</label><br>Beef consumption:<br> " + dat[year][0] + " kg/cap")
+          .style("left", (event.pageX) + "px")
+         .style("top", (event.pageY - 28) + "px");
+  }else if(type == "PIG"){
+    div.html("<label>"+d.srcElement.__data__.properties.name+"</label><br>Pork consumption:<br> " + dat[year][1] + " kg/cap")
+          .style("left", (event.pageX) + "px")
+         .style("top", (event.pageY - 28) + "px"); 
+  }else if(type == "LAMB"){
+    div.html("<label>"+d.srcElement.__data__.properties.name+"</label><br>Lamb consumption:<br> " + dat[year][2] + " kg/cap")
+          .style("left", (event.pageX) + "px")
+         .style("top", (event.pageY - 28) + "px"); 
+  }else if(type == "POULTRY"){
+    div.html("<label>"+d.srcElement.__data__.properties.name+"</label><br>Poultry consumption:<br> " + dat[year][3] + " kg/cap")
+          .style("left", (event.pageX) + "px")
+         .style("top", (event.pageY - 28) + "px"); 
+  }
+}
+          
+         
+    }
+  
+    let mouseLeave = function(d) {
+      d3.selectAll(".Country")
+        .transition()
+        .duration(200)
+        .style("opacity", 1)
+      d3.select(this)
+        .transition()
+        .duration(0)
+        .style("stroke", "transparent")
+        div.transition()
+         .duration(200)
+         .style("opacity", 0);
+
+    }
+  
+    // Draw the map
+    svg.append("g")
+      .selectAll("path")
+      .data(topo.features)
+      .enter()
+      .append("path")
+        // draw each country
+        .attr("d", d3.geoPath()
+          .projection(projection)
+        )
+        // set the color of each country
+        .attr("fill", function (d) {
+          var dat = data.get(d.id) || [[0,0,0,0],[0,0,0,0],[0,0,0,0],[0,0,0,0],[0,0,0,0],[0,0,0,0],[0,0,0,0],[0,0,0,0],[0,0,0,0],[0,0,0,0],[0,0,0,0],[0,0,0,0]];
+          if(type == "BEEF"){
+            return colorScaleBeef(dat[year][0] || 0) || "#faf2f0";
+          }else if(type == "PIG"){
+            return colorScalePig(dat[year][1] || 0) || "#faf2f0"; 
+          }else if(type == "LAMB"){
+            return colorScaleLamb(dat[year][2] || 0) || "#faf2f0"; 
+          }else if(type == "POULTRY"){
+            return colorScalePoultry(dat[year][3] || 0) || "#faf2f0"; 
+          }
+        })
+        .style("stroke", "transparent")
+        .attr("class", function(d){ return "Country" } )
+        .style("opacity", 1)
+        .on("mouseover", mouseOver )
+        .on("mouseleave", mouseLeave )
+  })
+  
+  function redraw(){
+    d3.selectAll("path").remove();
+    Promise.all([
+  d3.json("https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/world.geojson"),
+  d3.csv("good9.csv", function(d) {
+      data.set(d.loc, [[+d.beef2018,+d.pig2018,+d.lamb2018,+d.poultry2018],[+d.beef2019,+d.pig2019,+d.lamb2019,+d.poultry2019],[+d.beef2020,+d.pig2020,+d.lamb2020,+d.poultry2020],[+d.beef2021,+d.pig2021,+d.lamb2021,+d.poultry2021],[+d.beef2022,+d.pig2022,+d.lamb2022,+d.poultry2022],[+d.beef2023,+d.pig2023,+d.lamb2023,+d.poultry2023],[+d.beef2024,+d.pig2024,+d.lamb2024,+d.poultry2024],[+d.beef2025,+d.pig2025,+d.lamb2025,+d.poultry2025],[+d.beef2026,+d.pig2026,+d.lamb2026,+d.poultry2026],[+d.beef2027,+d.pig2027,+d.lamb2027,+d.poultry2027],[+d.beef2028,+d.pig2028,+d.lamb2028,+d.poultry2028],[+d.beef2029,+d.pig2029,+d.lamb2029,+d.poultry2029]])
+  }),
+]).then(function(loadData){
+      let topo = loadData[0]
+  
+      let mouseOver = function(d) {
+      d3.selectAll(".Country")
+        .transition()
+        .duration(200)
+        .style("opacity", .5)
+      d3.select(this)
+        .transition()
+        .duration(200)
+        .style("opacity", 1)
+        .style("stroke", "black")
+        div.transition()
+         .duration(200)
+         .style("opacity", 1);
+         var dat = data.get(d.srcElement.__data__.id) ||  ["NO DATA","NO DATA","NO DATA","NO DATA"];
+         // 0 = beef
+         // 1 = pig
+if(dat[0] == "NO DATA" || dat[1] == "NO DATA" || dat[2] == "NO DATA" || dat[3] == "NO DATA"){
+  div.html("<label>"+d.srcElement.__data__.properties.name+"</label><br>NO DATA")
+  .style("left", (event.pageX) + "px")
+         .style("top", (event.pageY - 28) + "px");
+}else{
+  if(type == "BEEF"){
+          div.html("<label>"+d.srcElement.__data__.properties.name+"</label><br>Beef consumption:<br> " + dat[year][0] + " kg/cap")
+          .style("left", (event.pageX) + "px")
+         .style("top", (event.pageY - 28) + "px");
+  }else if(type == "PIG"){
+    div.html("<label>"+d.srcElement.__data__.properties.name+"</label><br>Pork consumption:<br> " + dat[year][1] + " kg/cap")
+          .style("left", (event.pageX) + "px")
+         .style("top", (event.pageY - 28) + "px"); 
+  }else if(type == "LAMB"){
+    div.html("<label>"+d.srcElement.__data__.properties.name+"</label><br>Lamb consumption:<br> " + dat[year][2] + " kg/cap")
+          .style("left", (event.pageX) + "px")
+         .style("top", (event.pageY - 28) + "px");  
+  }else if (type == "POULTRY"){
+    div.html("<label>"+d.srcElement.__data__.properties.name+"</label><br>Poultry consumption:<br> " + dat[year][3] + " kg/cap")
+          .style("left", (event.pageX) + "px")
+         .style("top", (event.pageY - 28) + "px");  
+  }
+}
+          
+         
+    }
+  
+    let mouseLeave = function(d) {
+      d3.selectAll(".Country")
+        .transition()
+        .duration(200)
+        .style("opacity", 1)
+      d3.select(this)
+        .transition()
+        .duration(0)
+        .style("stroke", "transparent")
+        div.transition()
+         .duration(200)
+         .style("opacity", 0);
+
+    }
+  
+    // Draw the map
+    svg.append("g")
+      .selectAll("path")
+      .data(topo.features)
+      .enter()
+      .append("path")
+        // draw each country
+        .attr("d", d3.geoPath()
+          .projection(projection)
+        )
+        // set the color of each country
+        .attr("fill", function (d) {
+          var dat = data.get(d.id) || [[0,0,0,0],[0,0,0,0],[0,0,0,0],[0,0,0,0],[0,0,0,0],[0,0,0,0],[0,0,0,0],[0,0,0,0],[0,0,0,0],[0,0,0,0],[0,0,0,0],[0,0,0,0],[0,0,0,0],[0,0,0,0],[0,0,0,0],[0,0,0,0],[0,0,0,0],[0,0,0,0],[0,0,0,0],[0,0,0,0]];
+          if(type == "BEEF"){
+            return colorScaleBeef(dat[year][0] || 0) || "#faf2f0";
+          }else if(type == "PIG"){
+            return colorScalePig(dat[year][1] || 0) || "#faf2f0"; 
+          }else if(type == "LAMB"){
+            return colorScaleLamb(dat[year][2] || 0) || "#faf2f0"; 
+          }else if(type == "POULTRY"){
+            return colorScalePoultry(dat[year][3] || 0) || "#faf2f0"; 
+          }
+        })
+        .style("stroke", "transparent")
+        .attr("class", function(d){ return "Country" } )
+        .style("opacity", 1)
+        .on("mouseover", mouseOver )
+        .on("mouseleave", mouseLeave )
+  })
+  };
+
+  function pig(){
+    type = "PIG";
+    redraw();
+    document.getElementById("pig").classList = ["cur"];
+        document.getElementById("beef").classList = [];
+        document.getElementById("lamb").classList = [];
+        document.getElementById("poultry").classList = [];
+        document.getElementById("scale").src = "scalemid.png";
+    }
+  function beef(){
+    type = "BEEF";
+    redraw();
+    document.getElementById("pig").classList = [];
+        document.getElementById("beef").classList = ["cur"];
+        document.getElementById("lamb").classList = [];
+        document.getElementById("poultry").classList = [];
+        document.getElementById("scale").src = "scalemid.png";
+  }
+  function poultry(){
+    type = "POULTRY";
+    redraw();
+    document.getElementById("pig").classList = [];
+        document.getElementById("beef").classList = [];
+        document.getElementById("lamb").classList = [];
+        document.getElementById("poultry").classList = ["cur"];
+        document.getElementById("scale").src = "scalebig.png";
+  }
+  function lamb(){
+    type = "LAMB";
+    redraw();
+    document.getElementById("pig").classList = [];
+        document.getElementById("beef").classList = [];
+        document.getElementById("lamb").classList = ["cur"];
+        document.getElementById("poultry").classList = [];
+        document.getElementById("scale").src = "scalesmall.png";
+  }
+
+  
+  
+  </script>
